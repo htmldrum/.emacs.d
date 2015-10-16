@@ -1,0 +1,34 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/user/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/user/.emacs.d/settings/"
+ "/Users/user/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "appearance.el"
+ "init.el"
+ "my-misc.el"
+ "key-bindings.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/user/.emacs.d/settings/" (22048 23548 0 0) "setup-yasnippet.el" "setup-skewer.el" "setup-shell.el" "setup-ruby-mode.el" "setup-rgrep.el" "setup-perspective.el" "setup-paredit.el" "setup-package.el" "setup-org.el" "setup-markdown-mode.el" "setup-magit.el" "setup-js2-mode.el" "setup-ido.el" "setup-html-mode.el" "setup-hippie.el" "setup-flycheck.el" "setup-ffip.el" "setup-elnode.el" "setup-dired.el" "setup-clojure-mode.el" "sane-defaults.el" "my-misc.el" "mode-mappings.el" "mac.el" "key-bindings.el" "appearance.el" ".#key-bindings.el" "#my-misc.el#" "../" "./")
+
+ ("/Users/user/.emacs.d/" (22048 23366 0 0) "var/" "users/" "themes/" "snippets/" "site-lisp/" "settings/" "recentf" "README.md" "project-archetypes/" "init.el" "ido.last" "history" "elpa/" "defuns/" "custom.el" "backups/" "auto-save-list/" ".places" ".mc-lists.el" ".gitmodules" ".gitignore" ".git/" "#custom.el#" "../" "./")
+
+ ("/Users/user/.emacs.d/project-archetypes/" (22048 17352 0 0) "js-buster-browser-archetype.el" "js-buster-browser/" "emacs-snippets-archetype.el" "emacs-snippets/" "emacs-package-archetype.el" "emacs-package/" "clj-ring-archetype.el" "clj-ring/" "../" "./")
+
+ ("/Users/user/" (22048 23100 0 0) "VirtualBox VMs/" "Users/" "TGG -v4 - Assets/" "test_results_lowered_timeout.txt" "test_results.txt" "StudioProjects/" "RubymineProjects/" "random.dat" "Public/" "Pictures/" "Music/" "Movies/" "md5" "Library/" "jagexcache/" "jagexappletviewer.preferences" "jagex_cl_runescape_LIVE.dat" "general.jpg" "Downloads/" "Documents/" "Desktop/" "code/" "bin/" "Applications/" "airtasker_developer.sql" ".zlogin" ".zcompdump-Macbook’s MacBook Pro-5.0.5" ".Xauthority" ".wireshark-etc/" ".wireshark/" ".viminfo" ".vim/" ".vagrant.d/" ".v8flags.3.28.71.19.user.json" ".v8flags.3.28.71.19.root.json" ".Trash/" ".tmux.conf~" ".tmux.conf" ".subversion/" ".ssh/" ".sqlite_history" ".smex-items" ".serverauth.18323" ".secret/" ".rvm/" ".RubyMine70/" ".rnd" ".pyenv/" ".psql_history" ".pry_history" ".profile~" ".profile" ".oracle_jre_usage/" ".nw-gyp/" ".npm/" ".nodenv/" ".node-gyp/" ".netrc" ".mysql_history" ".mono/" ".mkshrc" ".mix/" ".m2/" ".local/" ".lesshst" ".lein/" ".julia_history" ".irssi/" ".irb-history" ".idris/" ".history" ".hgignore_global" ".hex/" ".heroku/" ".guard_history" ".gnupg/" ".gitignore_global" ".gitignore" ".gitconfig" ".ghc/" ".gem/" ".emacs_tmp/" ".emacs.exper/" ".emacs.d/" ".elm/" ".DS_Store" ".cups/" ".config/" ".chefdk/" ".CFUserTextEncoding" ".cache/" ".cabal/" ".boot2docker/" ".bashrc~" ".bashrc" ".bash_rc" ".bash_profile~" ".bash_profile" ".bash_history" ".aws/" ".android/" "*message*-20150904-183822" "#.tmux.conf#" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
