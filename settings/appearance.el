@@ -7,7 +7,7 @@
 (global-hl-line-mode 1)
 
 ;; Set custom theme path
-(setq custom-theme-directory (concat user-emacs-directory "themes"))
+(setq custom-theme-director (concat user-emacs-directory "themes"))
 
 (dolist
     (path (directory-files custom-theme-directory t "\\w+"))
@@ -80,5 +80,7 @@
 
 (rename-modeline "js2-mode" js2-mode "JS2")
 (rename-modeline "clojure-mode" clojure-mode "Clj")
+
+(load-theme 'railscasts t)
 
 (provide 'appearance)

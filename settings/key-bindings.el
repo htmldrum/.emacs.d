@@ -311,6 +311,9 @@
 ;; Find file in project
 (global-set-key (kbd "C-x o") 'find-file-in-project)
 
+;; Zencoding mode
+(global-set-key (kbd "C-M-RET") 'zencoding-expand-line)
+
 ;; Find file in project, with specific patterns
 (global-unset-key (kbd "C-x C-o")) ;; which used to be delete-blank-lines (also bound to C-c C-<return>)
 (global-set-key (kbd "C-x C-o ja") (ffip-create-pattern-file-finder "*.java"))
@@ -344,5 +347,6 @@
 (define-key occur-mode-map (kbd "v") 'occur-mode-display-occurrence)
 (define-key occur-mode-map (kbd "n") 'next-line)
 (define-key occur-mode-map (kbd "p") 'previous-line)
+
 
 (provide 'key-bindings)

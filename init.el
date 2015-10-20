@@ -92,6 +92,9 @@
      yesql-ghosts
      string-edit
      zencoding-mode
+     zenburn-theme
+     handlebars-mode
+     handlebars-sgml-mode
      )))
 
 (condition-case nil
@@ -208,6 +211,16 @@
 (smex-initialize)
 
 ;; Setup key bindings
+(setq-default indent-tabs-mode nil)
+(setq-default tab-width 2) ; Assuming you want your tabs to be four/2 spaces wide
+(setq tab-stop-list (number-sequence 2 200 2))
+
+;(setq indent-line-function 'insert-tab) ; http://stackoverflow.com/questions/69934/set-4-space-indent-in-emacs-in-text-mode
+(defvaralias 'c-basic-offset 'tab-width)
+;(setq ruby-indent-tabs-mode t)
+(defvaralias 'ruby-indent-level 'tab-width)
+(defvaralias 'javascript-indent-level 'tab-width)
+
 (require 'key-bindings)
 
 ;; Misc
