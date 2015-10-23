@@ -95,6 +95,7 @@
      zenburn-theme
      handlebars-mode
      handlebars-sgml-mode
+     go-mode
      )))
 
 (condition-case nil
