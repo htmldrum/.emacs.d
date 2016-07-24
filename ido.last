@@ -2,6 +2,51 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ (#("/home/htmldrum/.rbenv/" 15 21 (face flx-highlight-face)) . "src/")
+ ("/home/htmldrum/go/src/gopl.io/ch4/" . "ex/")
+ ("/home/htmldrum/go/src/gopl.io/" . "ch4/")
+ ("/home/htmldrum/tmp/htmldrum.github.io/" . "_layouts/")
+ ("/home/htmldrum/go/src/github.com/Sirupsen/" . "logrus/")
+ ("/home/htmldrum/go/src/github.com/docker/docker/cmd/" . "dockerd/")
+ ("/home/htmldrum/go/src/github.com/docker/docker/" . "cmd/")
+ ("/home/htmldrum/go/src/github.com/docker/" . "docker/")
+ ("/media/htmldrum/Samsung USB/workspace/tools/go/golang.org/" . "a_tour_of_go/")
+ ("/media/htmldrum/Samsung USB/workspace/tools/go/" . "golang.org/")
+ ("/home/htmldrum/go/src/github.com/htmldrum/" . "test/")
+ ("/home/htmldrum/go/src/github.com/" . "Sirupsen/")
+ ("/home/htmldrum/go/src/" . "gopl.io/")
+ ("/home/htmldrum/go/" . "src/")
+ ("/home/htmldrum/Downloads/" . "clojure_recipes/")
+ ("/home/htmldrum/Downloads/clojure_recipes/cascalog-intro/test/" . "cascalog_intro/")
+ ("/home/htmldrum/Downloads/clojure_recipes/cascalog-intro/" . "resources/")
+ ("/home/htmldrum/Downloads/clojure_recipes/logging-macro-demo/src/" . "logging_macro_demo/")
+ ("/home/htmldrum/Downloads/clojure_recipes/logging-macro-demo/" . "src/")
+ ("/home/htmldrum/Downloads/clojure_recipes/stock-ticker-demo/src/" . "stock_ticker_demo/")
+ ("/home/htmldrum/Downloads/clojure_recipes/stock-ticker-demo/" . "src/")
+ ("/home/htmldrum/Downloads/clojure_recipes/pedestal-hello-world/src/" . "pedestal_hello_world/")
+ ("/home/htmldrum/Downloads/clojure_recipes/pedestal-hello-world/" . "resources/")
+ ("/home/htmldrum/Downloads/clojure_recipes/pedestal-hello-world/resources/" . "public/")
+ ("/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/resources/" . "public/")
+ ("/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/" . "resources/")
+ ("/home/htmldrum/Downloads/clojure_recipes/rest-media-demo/src/" . "rest_media_demo/")
+ ("/home/htmldrum/Downloads/clojure_recipes/rest-media-demo/" . "src/")
+ ("/home/htmldrum/Downloads/docs/web/" . "channels/")
+ ("/home/htmldrum/Downloads/docs/" . "config/")
+ ("/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/code/" . "nlp/")
+ ("/home/htmldrum/tmp/test_proj/" . "config/")
+ ("/home/htmldrum/tmp/env-0.10.25-prebuilt/" . "bin/")
+ ("/home/htmldrum/tmp/" . "test_proj/")
+ ("/home/htmldrum/.emacs.d/" . "settings/")
+ ("/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/" . "code/")
+ ("/media/htmldrum/Samsung USB/workspace/tools/ruby/" . "text_processing_with_ruby/")
+ ("/media/htmldrum/Samsung USB/workspace/tools/" . "go/")
+ ("/media/htmldrum/Samsung USB/workspace/" . "tools/")
+ ("/media/htmldrum/Samsung USB/" . "workspace/")
+ ("/media/htmldrum/" . "Samsung USB/")
+ ("/media/" . "htmldrum/")
+ ("/" . "tmp/")
+ ("/tmp/web/" . "config/")
+ ("/home/htmldrum/" . #(".rbenv/" 0 6 (face flx-highlight-face)))
  ("/Users/user/code/airtasker/airtasker/" . "lib/")
  ("/Users/user/code/airtasker/airtasker/app/serializers/" . "admin/")
  ("/Users/user/code/airtasker/airtasker/app/controllers/api/" . "admin/")
@@ -17,7 +62,7 @@
  ("/Users/user/.emacs.d/" . "settings/")
  ("/Users/user/code/airtasker/" . "admin-panel/")
  ("/Users/user/" . "code/")
- ("/Users/user/code/airtasker/airtasker/app/" . #("models/" 0 4 (face flx-highlight-face)))
+ ("/Users/user/code/airtasker/airtasker/app/" . "models/")
  ("/Users/user/code/airtasker/admin-panel/app/admins/" . "edit/")
  ("/Users/user/code/airtasker/admin-panel/app/mixins/" . "routes/")
  ("/Users/user/code/airtasker/admin-panel/app/" . "contractors/")
@@ -31,213 +76,273 @@
 
 ;; ----- ido-work-directory-list -----
 (
- #("/Users/user/code/airtasker/airtasker/app/models/" 41 45 (face flx-highlight-face))
- "/Users/user/code/airtasker/airtasker/lib/tasks/"
- "/Users/user/code/airtasker/airtasker/app/serializers/admin/"
- "/Users/user/code/airtasker/airtasker/app/controllers/api/admin/"
- "/Users/user/code/airtasker/airtasker/app/controllers/"
- "/Users/user/code/airtasker/admin-panel/app/contractors/edit/"
- "/Users/user/code/airtasker/admin-panel/app/admins/edit/"
- "/Users/user/code/airtasker/admin-panel/app/templates/components/"
- "/Users/user/code/airtasker/admin-panel/app/adapters/"
- "/Users/user/code/airtasker/admin-panel/app/components/"
- "/Users/user/code/airtasker/admin-panel/app/reservations/edit/"
- "/Users/user/code/airtasker/admin-panel/app/admins/new/from-new-user/"
- "/Users/user/code/airtasker/admin-panel/app/routes/"
- "/Users/user/code/airtasker/admin-panel/app/mixins/routes/"
- "/Users/user/code/airtasker/admin-panel/app/admins/new/"
- "/Users/user/code/airtasker/admin-panel/app/tasks/edit/"
- "/Users/user/code/airtasker/admin-panel/app/contractors/new/"
- "/Users/user/code/airtasker/admin-panel/app/models/"
- "/Users/user/code/airtasker/admin-panel/app/controllers/"
- "/Users/user/code/airtasker/admin-panel/app/admins/index/"
- "/Users/user/code/airtasker/admin-panel/app/errors/"
- "/Users/user/code/airtasker/admin-panel/app/templates/"
- "/Users/user/.emacs.d/settings/"
- "/Users/user/.emacs.d/"
- "/Users/user/code/airtasker/admin-panel/app/admins/"
- "/Users/user/code/airtasker/admin-panel/app/contractors/index/"
- "/Users/user/code/airtasker/admin-panel/app/tasks/index/"
- "/Users/user/code/airtasker/admin-panel/app/branches/index/"
- "/Users/user/code/airtasker/admin-panel/app/reservations/index/"
- "/Users/user/code/airtasker/admin-panel/app/product-categories/index/"
- "/Users/user/code/airtasker/admin-panel/app/products/index/"
- "/Users/user/code/airtasker/admin-panel/app/branches/new/"
- "/Users/user/code/airtasker/admin-panel/app/branches/edit/"
- "/Users/user/"
- "/Users/user/code/airtasker/admin-panel/"
- "/Users/user/code/airtasker/airtasker/"
- "/Users/user/code/languages/clojure/the_joy_of_clojure/"
- "/Users/user/code/airtasker/admin-panel/app/login/"
- "/Users/user/code/airtasker/admin-panel/app/mixins/controllers/"
- "/Users/user/code/languages/clojure/brave_clojure/3_functions/"
- "/Users/user/code/languages/clojure/brave_clojure/1_fire_up_your_REPL/"
- "/Users/user/code/languages/clojure/brave_clojure/1_fire_up_your_REPL/project/"
+ "/media/htmldrum/Samsung USB/workspace/tools/ruby/ruby_under_a_microscope/"
+ "/media/htmldrum/Samsung USB/workspace/tools/ruby/enterprise_rails/"
+ "/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/"
+ "/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/code/"
+ "/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/code/stdout/"
+ "/home/htmldrum/.emacs.d/settings/"
+ "/home/htmldrum/.emacs.d/"
+ "/home/htmldrum/go/src/gopl.io/ch4/ex/"
+ "/home/htmldrum/"
+ "/home/htmldrum/go/src/gopl.io/ch4/"
+ "/home/htmldrum/go/src/gopl.io/ch4/append/"
+ "/media/htmldrum/Samsung USB/workspace/tools/go/the_go_programming_language/"
+ "/home/htmldrum/go/src/gopl.io/ch4/github/"
+ "/home/htmldrum/go/src/gopl.io/ch4/nonempty/"
+ "/home/htmldrum/tmp/htmldrum.github.io/"
+ "/home/htmldrum/tmp/htmldrum.github.io/_layouts/"
+ "/home/htmldrum/go/src/github.com/htmldrum/abcd/cmd/abcd/"
+ "/home/htmldrum/go/src/github.com/Sirupsen/logrus/"
+ "/home/htmldrum/go/src/github.com/"
+ "/home/htmldrum/go/src/github.com/docker/docker/cmd/dockerd/"
+ "/home/htmldrum/go/src/github.com/docker/docker/"
+ "/home/htmldrum/go/src/github.com/docker/docker/cmd/docker/"
+ "/media/htmldrum/Samsung USB/workspace/tools/js/"
+ "/media/htmldrum/Samsung USB/workspace/tools/go/golang.org/"
+ "/usr/local/go/src/regexp/"
+ "/tmp/"
+ "/media/htmldrum/Samsung USB/workspace/tools/ruby/"
+ "/media/htmldrum/Samsung USB/workspace/"
+ "/home/htmldrum/go/src/github.com/bw/"
+ "/media/htmldrum/Samsung USB/workspace/tools/go/golang.org/a_tour_of_go/"
+ "/home/htmldrum/go/src/github.com/htmldrum/test/"
+ "/home/htmldrum/go/src/github.com/htmldrum/hello/"
+ "/media/htmldrum/Samsung USB/workspace/projects/htmldrum.github.io/_posts/"
+ "/media/htmldrum/Samsung USB/workspace/tools/clojure/clojure_recipes/"
+ "/home/htmldrum/Downloads/clojure_recipes/cascalog-intro/"
+ "/home/htmldrum/Downloads/clojure_recipes/cascalog-intro/resources/"
+ "/home/htmldrum/Downloads/clojure_recipes/cascalog-intro/test/cascalog_intro/"
+ "/home/htmldrum/Downloads/clojure_recipes/logging-macro-demo/"
+ "/home/htmldrum/Downloads/clojure_recipes/logging-macro-demo/src/logging_macro_demo/"
+ "/home/htmldrum/Downloads/clojure_recipes/stock-ticker-demo/src/stock_ticker_demo/"
+ "/home/htmldrum/Downloads/clojure_recipes/stock-ticker-demo/"
+ "/home/htmldrum/Downloads/clojure_recipes/stock-ticker-demo/resources/public/"
+ "/home/htmldrum/Downloads/clojure_recipes/pedestal-hello-world/src/pedestal_hello_world/"
+ "/home/htmldrum/Downloads/clojure_recipes/pedestal-hello-world/"
+ "/home/htmldrum/Downloads/clojure_recipes/pedestal-hello-world/resources/public/"
+ "/home/htmldrum/Downloads/clojure_recipes/json-demo/"
+ "/home/htmldrum/Downloads/clojure_recipes/json-demo/resources/public/"
+ "/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/"
+ "/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/resources/public/"
+ "/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/out/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "user.rb"
- "reservation.rb"
- "fixtures.rake"
- "retail_customer_serializer.rb"
- "retail_admins_controller.rb"
- "application_controller.rb"
- "customers_controller.rb"
- "reservations_controller.rb"
- "template.hbs"
- "edit-partial.hbs"
+ "ripper.rb"
+ "simple.rb"
+ "readme.md"
+ "README.md"
+ "open-gzip.rb"
+ "paging-output.rb"
+ "redirecting-stdout.rb"
+ "capture-stdout.rb"
+ "capture2.rb"
+ "fork-puts2.rb"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/user/code/airtasker/airtasker/app/concerns/" (22057 45778 0 0) "user_v1_tag_support.rb" "user_ranking_async_update.rb" "user_rankable.rb" "uid_validator.rb" "track_changes.rb" "token_authenticatable.rb" "task_rankable.rb" "suggest_code.rb" "soft_destroyable.rb" "queryable_controller.rb" "publishing_hooks.rb" "promise_payable.rb" "pageable_controller.rb" "orderable_controller.rb" "mobile_verification.rb" "merge_errors.rb" "image_upload_helper.rb" "hstore_column.rb" "generic_controller.rb" "friendly_slugs.rb" "flaggable.rb" "default_location.rb" "creation_scopes.rb" "content_type_serialization.rb" "content_filter.rb" "commentable.rb" "attachments.rb" "../" "./")
+ ("/media/htmldrum/Samsung USB/workspace/tools/ruby/ruby_under_a_microscope/" (22418 65045 0 0) "ripper.rb" "simple.rb" "readme.md" "Ruby Under a Microscope.pdf" "../" "./")
 
- ("/Users/user/code/airtasker/airtasker/lib/tasks/" (22057 45487 0 0) "users.rake" "speciality.rake" "spec.rake" "sitemap.rake" "shortcuts.rake" "seeds.rake" "s3.rake" "retailer_test_seed.rake" "retailer_importer.rake" "resque.rake" "postcodes.rake" "post_migration.rake" "payment_methods.rake" "funding_sources.rake" "fixtures.rake" "ember.rake" "email.rake" "data.rake" "cucumber.rake" "cron.rake" "comments.rake" "avatars.rake" "assets.rake" "amaysim.rake" ".keep" ".gitkeep" "../" "./")
+ (#("/home/htmldrum/.rbenv/src/" 15 21 (face flx-highlight-face)) (22395 1485 817364 64000) "./" "shobj-conf" "configure" "../" "Makefile.in" "bash.h" "realpath.c")
 
- ("/Users/user/code/airtasker/airtasker/app/controllers/api/admin/" (22057 43862 0 0) "user_products_controller.rb" "tasks_controller.rb" "stores_controller.rb" "store_favourites_controller.rb" "sessions_controller.rb" "retailers_controller.rb" "retailer_user_licenses_controller.rb" "retail_admins_controller.rb" "reservations_controller.rb" "products_controller.rb" "product_license_requirements_controller.rb" "product_categories_controller.rb" "permissions_controller.rb" "licenses_controller.rb" "customers_controller.rb" "contractors_controller.rb" "concerns/" "base_controller.rb" "admin_notes_controller.rb" "../" "./")
+ (#("/home/htmldrum/.rbenv/" 15 21 (face flx-highlight-face)) (22395 2073 880280 111000) ".travis.yml" "LICENSE" ".git/" "src/" "./" "rbenv.d/" "shims/" "CONDUCT.md" ".vimrc" "README.md" "../" "bin/" "test/" "libexec/" "plugins/" "completions/" ".gitignore" ".agignore" "versions/")
 
- ("/Users/user/code/airtasker/airtasker/app/models/" (22057 25478 0 0) "wallet_transaction.rb" "user_to_user_tag.rb" "user_tag.rb" "user_speciality.rb" "user_product_option.rb" "user_product.rb" "user_permission.rb" "user_location.rb" "user_license.rb" "user_action.rb" "user.rb" "user/" "twitter_account.rb" "task_location.rb" "task_graph.rb" "task_email.rb" "task_alert.rb" "task_action_actor.rb" "task_action.rb" "task.rb" "task/" "store_favourite.rb" "store.rb" "speciality.rb" "runner_fee_payment.rb" "runner_fee.rb" "review.rb" "retailer_user_weekly_limit.rb" "retailer_user_vacation.rb" "retailer_user_license.rb" "retailer_user.rb" "retailer_fee_set.rb" "retailer_contractor.rb" "retailer_admin.rb" "retailer.rb" "retail_partner_payment.rb" "reservation_option.rb" "reservation.rb" "reference.rb" "quote_request.rb" "publishing_transaction.rb" "publishing.rb" "prospect.rb" "promise_pay_transition.rb" "promise_pay_state_machine.rb" "promise_pay_payment.rb" "product_option.rb" "product_license_requirement.rb" "product_charge_code.rb" "product_category.rb" "product.rb" "pro_application.rb" "private_message.rb" "postcode.rb" "permission.rb" "payment_methods/" "payment_method_token.rb" "payment_method.rb" "payment.rb" "notification_strategy/" "notification.rb" "message_asset.rb" "location.rb" "linkedin_account.rb" "license.rb" "invite.rb" "geo_zone.rb" "follow.rb" "flag.rb" "fee_set.rb" "featured_task.rb" "facebook_account.rb" "external_error_log.rb" "edit_log.rb" "disbursement_method.rb" "device.rb" "credit_card_payment.rb" "comment.rb" "city.rb" "charge_code.rb" "charge.rb" "category.rb" "call_log.rb" "broadcaster.rb" "bid.rb" "ban_entry.rb" "amaysim_user.rb" "alert_settings.rb" "airtasker_twitter.rb" "airtasker_fee_set.rb" "airtasker_credit_payment.rb" "admin_note.rb" "admin_log.rb" "additional_expense_line.rb" "additional_expense.rb" "action_log.rb" ".keep" ".gitkeep" "../" "./")
+ ("/home/htmldrum/" (22418 59555 616789 67000) ".local/" ".smex-items" ".abcd/" ".config/" ".mozilla/" ".gconf/" "./" ".bash_history" "Documents/" ".gnome2/" ".bash_logout" "Videos/" ".FBReader/" ".kiex/" ".m2/" "Pictures/" "Templates/" "TODO~" "get-pip.py" "Downloads/" "Public/" ".cache/" ".dbus/" ".mix/" ".rbenv/" ".bundle/" "../" ".gnupg/" ".ICEauthority" ".emacs.d/" ".psql_history" ".bashrc~" "Desktop/" ".todo" ".npm/" "echo" ".lein/" ".bashrc" ".and_jalad/" "Firefox_wallpaper.png" "Music/" ".hex/" "tmp/" "go/" ".gnome2_private/" ".ssh/" "eticket.pdf" ".lesshst" ".gem/" ".profile" "TODO")
 
- ("/Users/user/code/airtasker/airtasker/lib/" (22057 25478 0 0) "twilio_sms_gateway.rb" "templates/" "tasks/" "site.rb" "rolling_cache.rb" "resque_tools.rb" "real_ip.rb" "publisher/" "postcode_import.rb" "mobile_validator.rb" "middleware/" "file_size_validator.rb" "data/" "cors_response_headers.rb" "content_rewriter.rb" "clickatell_sms_gateway.rb" "assets/" "../" "./")
+ ("/media/htmldrum/Samsung USB/workspace/tools/ruby/enterprise_rails/" (22418 43840 0 0) "Enterprise Rails.pdf" "../" "./")
 
- ("/Users/user/code/airtasker/airtasker/app/serializers/admin/" (22056 8682 0 0) "users/" "user_serializer.rb" "user_product_serializer.rb" "tasks/" "task_serializer.rb" "store_serializer.rb" "store_favourite_serializer.rb" "retailer_user_license_serializer.rb" "retailer_contractor_serializer.rb" "retail_staff_serializer.rb" "retail_customer_serializer.rb" "reservation_serializer.rb" "reservation/" "product_serializer.rb" "product_option_serializer.rb" "product_license_requirement_serializer.rb" "product_category_serializer.rb" "product/" "permission_serializer.rb" "license_serializer.rb" "contractor_serializer.rb" "charge_code_serializer.rb" "admin_serializer.rb" "../" "./")
+ ("/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/" (22418 58797 0 0) "xclip" "scores.txt" "text-processing-with-ruby_p1_0.pdf" "stdout-sync.rb~" "stdout-async.rb~" "stdout-sync.rb" "stdout-async.rb" "to-uppercase.rb" "derp.json" "code/" "file.txt" "file.rb" "file.rb~" "text-processing-with-ruby_p1_0.epub" "README.md" "rmtpruby-code.tgz" "../" "./")
 
- ("/Users/user/code/airtasker/airtasker/app/serializers/" (22057 25478 0 0) "user_serializer.rb" "user_product_serializer.rb" "user_product_option_serializer.rb" "user/" "task_summary_serializer.rb" "task_summary_involved_serializer.rb" "task_summary_base_serializer.rb" "task_serializer.rb" "task_dynamic_search_serializer.rb" "task_alert_serializer.rb" "task_action_serializer.rb" "store_serializer.rb" "speciality_serializer.rb" "review_serializer.rb" "retailer_serializer.rb" "reservation_serializer.rb" "reservation_option_serializer.rb" "reference_serializer.rb" "profile_summary_serializer.rb" "profile_serializer.rb" "product_serializer.rb" "product_option_serializer.rb" "product_category_serializer.rb" "private_message_serializer.rb" "postcode_serializer.rb" "payment_method_serializer.rb" "notification_serializer.rb" "message_asset_serializer.rb" "location_serializer.rb" "helpers/" "funding_source_serializer.rb" "flag_serializer.rb" "disbursement_method_serializer.rb" "device_serializer.rb" "comment_serializer.rb" "bid_serializer.rb" "admin/" "additional_expense_serializer.rb" "additional_expense_line_serializer.rb" "account_serializer.rb" "account/" "../" "./")
+ ("/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/code/" (22415 6072 0 0) "2" "western-european.txt" "western-european.rb" "western-european-convert.rb" "urls" "uniq" "tsv-total.rb" "tsv-split.rb" "tsv-implicit-split.rb" "tsv-each.rb" "to-json.rb" "tempfile-create.rb" "tempfile-cleanup-new.rb" "tempfile-cleanup-block.rb" "strscan/" "stdout-to-file.rb" "stdout-sync.rb" "stdout-async.rb" "stdout/" "stdin-tty.rb" "rtf/" "requests-by-ip.rb" "regex/" "redirecting-stdout.rb" "redefining-stdin.rb" "postcode.rb" "popen3.rb" "pipe-benchmark.rb" "person-to-json.rb" "person-serialize-json.rb" "parslet/" "paging-output.rb" "open-pipe.rb" "open-pipe-read.rb" "open-gzip.rb" "nokogiri/" "noaa-skip-first-row.rb" "noaa-seek.rb" "noaa-first-row.rb" "noaa-first-row-simple.rb" "noaa-benchmark.rb" "noaa-all-rows.rb" "nlp/" "fail.rb" "erb/" "encoding-remove-undefined.rb" "data/" "csv-writing.rb" "csv-row-objects.rb" "csv-read.rb" "csv-header.rb" "csv-foreach.rb" "csv-filter.rb" "character-count.rb" "capture2.rb" "capture-stdout.rb" "builder-example.rb" "builder-attributes.rb" "argv2.rb" "argv1.rb" "argf-sub.rb" "argf-skip2.rb" "argf-skip.rb" "argf-lineno.rb" "argf-features.rb" "../" "./")
 
- ("/Users/user/code/airtasker/airtasker/config/" (22057 25478 0 0) "twitter.yml" "secrets.yml" "schedule.rb" "routes.rb" "newrelic.yml" "locales/" "initializers/" "facebook.yml" "environments/" "environment.rb" "deploy.rb" "deploy/" "database.yml" "clickatell.yml" "certs/" "boot.rb" "application.rb" "airtasker_twitter_tokens.yml" "../" "./")
+ ("/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/code/stdout/" (22415 6590 0 0) "url-sizes.rb" "url-sizes-progress.rb" "inventory.rb" "fork-puts2.rb" "fork-puts.rb" "../" "./")
 
- ("/Users/user/code/airtasker/airtasker/app/controllers/api/" (22011 12389 0 0) "v2/" "admin/" "../" "./")
+ ("/home/htmldrum/.emacs.d/settings/" (22408 36000 225956 301000) "setup-js2-mode.el" "setup-org.el" "setup-magit.el" "my-misc.el" "setup-clojure-mode.el" "setup-yasnippet.el" "./" "setup-html-mode.el" "setup-hippie.el" "setup-markdown-mode.el" "setup-package.el" "setup-paredit.el" "setup-ffip.el" "appearance.el" "setup-elnode.el" "../" "setup-shell.el" "setup-dired.el" "setup-ruby-mode.el" "mode-mappings.el" "key-bindings.el" "setup-go-mode.el" "setup-ido.el" "mac.el" "setup-rgrep.el" "sane-defaults.el" "setup-skewer.el" "setup-flycheck.el" "setup-perspective.el")
 
- ("/Users/user/code/airtasker/airtasker/app/controllers/" (22044 30286 0 0) "welcome_controller.rb" "users_controller.rb" "tasks_controller.rb" "application_controller.rb" "api/" "admin/" "../" "./")
+ ("/home/htmldrum/.emacs.d/" (22408 36001 181961 42000) ".gitmodules" "users/" ".places" "auto-save-list/" "elpa/" "snippets/" ".git/" "backups/" "ido.last" "./" "places" "var/" "eshell/" "history" "README.md" "themes/" "site-lisp/" "../" "settings/" "recentf" "init.el" ".mc-lists.el" "project-archetypes/" "defuns/" ".gitignore" "custom.el")
 
- ("/Users/user/code/airtasker/admin-panel/app/admins/edit/" (22054 59852 0 0) "template.hbs" "route.js" "controller.js" "../" "./")
+ ("/media/htmldrum/Samsung USB/workspace/tools/go/" (22399 19128 0 0) "the_go_programming_language/" "GOROOT/" "go_in_action/" "Heartbleed/" "go/" "golang.org/" "devd/" "build_RESTful_API_in_go_using_only_standard_library/" "GOPATH/" "../" "./")
 
- ("/Users/user/code/airtasker/admin-panel/app/adapters/" (22054 59637 0 0) "retailer.js" "application.js" "../" "./")
+ ("/home/htmldrum/go/src/gopl.io/ch4/" (22408 35268 302326 888000) "treesort/" "charcount/" "embed/" "issues/" "./" "append/" "ex/" "sha256/" "github/" "../" "movie/" "issuesreport/" "issueshtml/" "dedup/" "autoescape/" "graph/" "rev/" "nonempty/")
 
- ("/Users/user/code/airtasker/admin-panel/app/contractors/edit/" (22054 59860 0 0) "template.hbs" "route.js" "controller.js" "../" "./")
+ ("/home/htmldrum/go/src/gopl.io/ch4/ex/" (22408 35435 963158 273000) "./" "../" "main.go")
 
- ("/Users/user/code/airtasker/admin-panel/app/templates/components/" (22054 59395 0 0) "table-head.hbs" "table-head-tr-th-sortable.hbs" "table-head-th.em" "table-body.hbs" "table-body-tr.hbs" "table-body-tr-td.hbs" "table-.hbs" "span-glyphicon.hbs" "span-boolean-value.hbs" "select-.hbs" "non-breaking-space.hbs" "model-actions.hbs" "main-navigation.em" "login-form.hbs" "loading-spinner.em" "letter-case.em" "input-modal-dialog.hbs" "input-group.hbs" "good-guys-panel.hbs" "error-banner.em" "edit-partial.hbs" "branded-panel.hbs" "admins-new-from-new-user-form.hbs" "../" "./")
+ ("/home/htmldrum/go/src/gopl.io/ch4/append/" (22399 18752 599006 377000) "./" "../" "main.go")
 
- ("/Users/user/code/airtasker/admin-panel/app/admins/new/from-new-user/" (22054 55370 0 0) "template.hbs" "route.js" "controller.js" "../" "./")
+ ("/media/htmldrum/Samsung USB/workspace/tools/go/the_go_programming_language/" (22408 34926 0 0) "The Go Programming Language.pdf" ".#notes.md" "#notes.md#" "notes.md" "../" "./")
 
- ("/Users/user/code/airtasker/admin-panel/app/components/" (22054 54744 0 0) "table-head.js" "table-head-tr-th-sortable.js" "table-head-th.js" "table-body.js" "table-body-tr.js" "table-body-tr-td.js" "table-.js" "span-glyphicon.js" "select-.js" "option-.js" "model-actions.js" "main-navigation.js" "login-form.js" "letter-case.js" "input-modal-dialog.js" "input-group.js" "branded-panel.js" "base.js" "admins-new-from-new-user-form.js" "admins-edit.js" ".gitkeep" "#admins-edit.js#" "../" "./")
+ ("/home/htmldrum/go/src/gopl.io/ch4/github/" (22399 18752 599006 377000) "./" "search.go" "../" "github.go")
 
- ("/Users/user/code/airtasker/admin-panel/app/reservations/edit/" (22054 55369 0 0) "route.js" "controller.js" "../" "./")
+ ("/home/htmldrum/go/src/gopl.io/ch4/nonempty/" (22408 27415 984797 56000) "./" "../" "main.go")
 
- ("/Users/user/code/airtasker/admin-panel/app/routes/reservations/" (22006 8631 0 0) "index.js" "../" "./")
+ ("/home/htmldrum/go/src/gopl.io/" (22399 18752 603006 397000) "ch7/" "ch3/" ".git/" "./" "ch12/" "ch5/" "ch9/" "README.md" "../" "ch2/" "ch10/" "ch8/" "ch4/" "ch6/" "ch13/" "ch11/" "ch1/")
 
- ("/Users/user/code/airtasker/admin-panel/app/routes/" (22054 54909 0 0) "reservations/" "base.js" "application.js" ".gitkeep" ".#base.js" "#base.js#" "../" "./")
+ ("/home/htmldrum/go/src/" (22399 18747 858982 873000) "./" "gopl.io/" "zombiezen.com/" "golang.org/" "../" "github.com/" "gopkg.in/")
 
- ("/Users/user/code/airtasker/admin-panel/app/mixins/" (22054 49838 0 0) "validateable.js" "routes/" "models/" "logic/" "functions/" "controllers/" "../" "./")
+ ("/home/htmldrum/go/" (22393 59033 844778 372000) "src/" "./" "../" "bin/" "pkg/")
 
- ("/Users/user/code/airtasker/admin-panel/app/mixins/routes/" (22054 49041 0 0) "validateable.js" "pageable.js" "../" "./")
+ ("/home/htmldrum/tmp/htmldrum.github.io/" (22395 49406 802991 400000) "Gemfile.lock" "blog.html" ".git/" "_data/" "./" "index.html" "media/" "deploy.sh" "_config.yml~" "Gemfile" "presentations/" "css/" "Makefile~" "_config.yml" "_layouts/" ".ruby-version" "_plugins/" "watch.sh~" "_posts/" "../" "images/" "index.html~" "Makefile" "index.html.1" ".#index.html.1" "watch.sh" ".gitignore" "_site/")
 
- ("/Users/user/code/airtasker/admin-panel/app/tasks/edit/" (22020 58330 0 0) "template.emblem" "route.js" "controller.js" "../" "./")
+ ("/home/htmldrum/tmp/htmldrum.github.io/_layouts/" (22395 8757 661423 192000) "post.html" "cv.html" "./" "default.html" "post.html~" "../" "default.html~")
 
- ("/Users/user/code/airtasker/admin-panel/app/contractors/new/" (22009 17401 0 0) "template.em" "route.js" "from-new-user/" "from-existing-user/" "controller.js" "../" "./")
+ ("/home/htmldrum/go/src/github.com/htmldrum/abcd/cmd/abcd/" (22395 8169 970508 990000) "abcd_test.go" "./" "abcd.go" "read_config.go" "../" "ustructs.go" "abcd_suite_test.go")
 
- ("/Users/user/code/airtasker/admin-panel/app/models/" (22054 46389 0 0) "user.js" "task.js" "session.js" "retailer.js" "reservation.js" "product.js" "product-category.js" "customer.js" "contractor.js" "branch.js" "admin.js" ".gitkeep" "../" "./")
+ ("/home/htmldrum/go/src/github.com/" (22395 8334 911326 887000) "nicksnyder/" "daddye/" "bw/" "docker/" "gin-gonic/" "kr/" "./" "htmldrum/" "golang/" "spf13/" "manucorporat/" "codegangsta/" "gorilla/" "dorajistyle/" "lib/" "../" "camlistore/" "disintegration/" "franela/" "goamz/" "Sirupsen/" "glycerine/" "maxbrunsfeld/" "vaughan0/" "onsi/" "jinzhu/" "pkg/" "olebedev/")
 
- ("/Users/user/code/airtasker/admin-panel/app/controllers/" (22053 38324 0 0) "table.js" "input-modal.js" "base.js" "application.js" ".gitkeep" "../" "./")
+ ("/home/htmldrum/go/src/github.com/Sirupsen/logrus/" (22393 59033 284775 595000) ".travis.yml" "hooks/" "entry_test.go" "writer.go" "formatter_bench_test.go" "LICENSE" ".git/" "./" "logrus_test.go" "logger.go" "hook_test.go" "examples/" "entry.go" "exported.go" "json_formatter_test.go" "json_formatter.go" "terminal_solaris.go" "text_formatter_test.go" "README.md" "../" "logrus.go" "text_formatter.go" "terminal_windows.go" "CHANGELOG.md" "doc.go" "hooks.go" "formatter.go" "terminal_bsd.go" ".gitignore" "terminal_linux.go" "formatters/" "terminal_notwindows.go")
 
- ("/Users/user/code/airtasker/admin-panel/app/errors/" (22054 46031 0 0) "base.js" "../" "./")
+ ("/home/htmldrum/go/src/github.com/Sirupsen/" (22393 59030 468761 631000) "./" "../" "logrus/")
 
- ("/Users/user/code/airtasker/admin-panel/app/templates/" (22054 45596 0 0) "reservations/" "loading.em" "input-modal.hbs" "error.em" "components/" "application.em" "admins-edit.hbs" "../" "./")
+ ("/home/htmldrum/go/src/github.com/docker/docker/cmd/dockerd/" (22393 58252 832905 543000) "service_unsupported.go" "docker_windows.go" "daemon_solaris.go" "daemon_unix.go" "./" "daemon_no_plugin_support.go" "daemon.go" "docker.go" "routes.go" "routes_experimental.go" "daemon_test.go" "README.md" "hack/" "../" "service_windows.go" "daemon_windows.go" "daemon_unix_test.go" "daemon_linux.go" "daemon_plugin_support.go" "daemon_freebsd.go")
 
- ("/Users/user/.emacs.d/" (22054 45188 0 0) "var/" "users/" "themes/" "snippets/" "site-lisp/" "settings/" "recentf" "README.md" "project-archetypes/" "places" "init.el" "ido.last" "history" "elpa/" "defuns/" "custom.el" "backups/" "auto-save-list/" ".places" ".mc-lists.el" ".gitmodules" ".gitignore" ".git/" "../" "./")
+ ("/home/htmldrum/go/src/github.com/docker/docker/cmd/docker/" (22393 58252 828905 524000) "docker_windows.go" "daemon_none_test.go" "daemon_unix.go" "./" "daemon.go" "usage_test.go" "usage.go" "docker.go" "../" "docker_test.go" "daemon_none.go")
 
- ("/Users/user/" (22053 49853 0 0) "VirtualBox VMs/" "Users/" "TGG -v4 - Assets/" "test_results_lowered_timeout.txt" "test_results.txt" "StudioProjects/" "RubymineProjects/" "random.dat" "Public/" "Pictures/" "Music/" "Movies/" "md5" "Library/" "jagexcache/" "jagexappletviewer.preferences" "jagex_cl_runescape_LIVE.dat" "general.jpg" "Downloads/" "Documents/" "Desktop/" "code/" "bin/" "Applications/" "airtasker_developer.sql" ".zlogin" ".zcompdump-Macbook’s MacBook Pro-5.0.5" ".Xauthority" ".wireshark-etc/" ".wireshark/" ".viminfo" ".vim/" ".vagrant.d/" ".v8flags.3.28.71.19.user.json" ".v8flags.3.28.71.19.root.json" ".Trash/" ".tmux.conf~" ".tmux.conf" ".subversion/" ".ssh/" ".sqlite_history" ".smex-items" ".serverauth.18323" ".secret/" ".rvm/" ".RubyMine70/" ".rnd" ".pyenv/" ".psql_history" ".pry_history" ".profile~" ".profile" ".oracle_jre_usage/" ".nw-gyp/" ".npm/" ".nodenv/" ".node-gyp/" ".netrc" ".mysql_history" ".mono/" ".mkshrc" ".mix/" ".m2/" ".local/" ".lesshst" ".lein/" ".julia_history" ".irssi/" ".irb-history" ".idris/" ".history" ".hgignore_global" ".hex/" ".heroku/" ".guard_history" ".gnupg/" ".gitignore_global" ".gitignore" ".gitconfig" ".ghc/" ".gem/" ".emacs_tmp/" ".emacs.exper/" ".emacs.d/" ".elm/" ".DS_Store" ".cups/" ".config/" ".chefdk/" ".CFUserTextEncoding" ".cache/" ".cabal/" ".boot2docker/" ".bashrc~" ".bashrc" ".bash_rc" ".bash_profile~" ".bash_profile" ".bash_history" ".aws/" ".android/" "*message*-20150904-183822" "../" "./")
+ ("/home/htmldrum/go/src/github.com/docker/docker/cmd/" (22393 58252 828905 524000) "docker/" "./" "dockerd/" "../")
 
- ("/Users/user/.emacs.d/elpa/" (22053 60792 0 0) "zencoding-mode-20140213.22/" "zenburn-theme-2.2/" "yesql-ghosts-20150220.437/" "yasnippet-20151011.1823/" "with-editor-20151010.1026/" "whitespace-cleanup-mode-20150603.447/" "visual-regexp-20150329.954/" "tablist-20150618.2218/" "sublime-themes-20150915.3/" "string-edit-20150809.438/" "spinner-1.4.signed" "spinner-1.4/" "smartparens-20151014.25/" "simple-httpd-20150430.1755/" "show-marks-20130805.749/" "s-20150924.406/" "ruby-tools-20140113.45/" "ruby-tools-0.1.2/" "restclient-20150818.807/" "railscasts-theme-20150219.725/" "queue-0.1.1.signed" "queue-0.1.1/" "projectile-0.12.0/" "prodigy-20141109.252/" "popwin-20150315.600/" "popup-20150626.711/" "pkg-info-20150517.443/" "pdf-tools-0.60/" "pcache-20150125.1653/" "paredit-20150217.713/" "org-pdfview-0.3/" "org-20151005.signed" "org-20151005/" "nodejs-repl-20130520.1635/" "move-text-20140307.844/" "markdown-mode-20151011.1256/" "magit-popup-20151006.1123/" "magit-20151015.1143/" "logito-20120225.1255/" "let-alist-1.0.4.signed" "let-alist-1.0.4/" "lavender-theme-20141115.2302/" "ido-vertical-mode-20151003.1833/" "ido-at-point-20150808.204/" "htmlize-20130207.1202/" "highlight-escape-sequences-20150729.1910/" "helm-themes-0.5/" "helm-core-20151015.1438/" "helm-20151014.2202/" "handlebars-sgml-mode-20130623.1633/" "handlebars-mode-20150211.949/" "guide-key-20150107.2235/" "groovy-mode-20150725.1050/" "gnupg/" "git-commit-20151002.1417/" "gist-20150906.954/" "gh-20150906.848/" "fm-20130126.1618/" "flycheck-pos-tip-20140606.510/" "flycheck-clojure-20150831.631/" "flycheck-20151014.1156/" "flx-ido-20140821.2033/" "flx-20140921.739/" "fill-column-indicator-20140509.1101/" "f-20150605.927/" "exec-path-from-shell-20151006.2253/" "epl-20150517.433/" "elisp-slime-nav-20150805.1248/" "dockerfile-mode-20151003.501/" "dired-details-20130824.458/" "dash-20151010.929/" "cycle-themes-20150402.2009/" "css-eldoc-20150124.1923/" "clojure-mode-extra-font-locking-20150110.505/" "clojure-mode-20151013.855/" "cider-20151014.1429/" "async-20150909.2257/" "archives/" "0blayout-readme.txt" "../" "./")
+ ("/home/htmldrum/go/src/github.com/docker/docker/" (22393 58253 272907 725000) "profiles/" "cliconfig/" "utils/" "Dockerfile.armhf" "distribution/" "cli/" "errors/" "VERSION" "LICENSE" ".git/" "man/" ".mailmap" "./" "opts/" "MAINTAINERS" "libcontainerd/" "AUTHORS" "integration-cli/" "Dockerfile.aarch64" "migrate/" "Dockerfile.ppc64le" "VENDORING.md" "reference/" "runconfig/" "restartmanager/" "image/" "Dockerfile.gccgo" "ROADMAP.md" "api/" "container/" "CONTRIBUTING.md" "vendor/" "README.md" "registry/" ".dockerignore" "oci/" "hack/" "experimental/" "../" ".github/" "docs/" "layer/" "cmd/" "Dockerfile.windows" "Makefile" "daemon/" "NOTICE" "CHANGELOG.md" "project/" "dockerversion/" "volume/" "plugin/" "contrib/" ".gitignore" "pkg/" "Dockerfile.simple" "builder/" "Dockerfile.s390x" "Dockerfile")
 
- ("/Users/user/.emacs.d/elpa/handlebars-mode-20150211.949/" (22053 60792 0 0) "handlebars-mode.elc" "handlebars-mode.el" "handlebars-mode-pkg.elc" "handlebars-mode-pkg.el" "handlebars-mode-autoloads.el" "../" "./")
+ ("/home/htmldrum/go/src/github.com/docker/" (22393 58176 816528 599000) "docker/" "./" "../")
 
- ("/Users/user/code/airtasker/admin-panel/app/admins/" (22053 60470 0 0) "new/" "index/" "edit/" "../" "./")
+ ("/home/htmldrum/go/src/github.com/htmldrum/" (22393 52411 939942 119000) "bw/" "./" "abcd/" "../" "test/")
 
- ("/Users/user/code/airtasker/admin-panel/app/" (22053 60162 0 0) "users/" "templates/" "tasks/" "styles/" "staff/" "services/" "serializers/" "routes/" "router.js" "reservations/" "products/" "product-categories/" "models/" "mixins/" "login/" "instance-initializers/" "index.html" "index/" "helpers/" "errors/" "controllers/" "contractors/" "components/" "branches/" "authorizers/" "authenticators/" "app.js" "admins/" "adapters/" "../" "./")
+ ("/home/htmldrum/go/src/github.com/htmldrum/abcd/" (22395 849 314207 816000) ".git/" "./" "abcd" "meetup.go" "README.md" "../" "make.goz" "cmd/" "Makefile" "pkg/")
 
- ("/Users/user/code/airtasker/admin-panel/app/admins/new/from-existing-user/" (22009 18057 0 0) "../" "./")
+ ("/home/htmldrum/go/src/github.com/htmldrum/abcd/cmd/" (22393 57770 138511 991000) "./" "abcv/" "abcd/" "../")
 
- ("/Users/user/code/airtasker/admin-panel/app/tasks/index/" (22053 58520 0 0) "template.hbs" "route.js" "controller.js" "../" "./")
+ ("/media/htmldrum/Samsung USB/workspace/tools/js/" (22393 49253 0 0) "opengl_readings.md" "../" "./")
 
- ("/Users/user/code/airtasker/admin-panel/app/tasks/" (22028 56570 0 0) "show/" "index/" "edit/" "../" "./")
+ ("/media/htmldrum/Samsung USB/workspace/tools/go/golang.org/" (22393 49095 0 0) "objdump.bin" "debugging_with_gdb.md" "writing_web_applications/" "documentation/" "a_tour_of_go/" "../" "./")
 
- ("/Users/user/code/airtasker/admin-panel/app/branches/index/" (22053 57412 0 0) "template.hbs" "route.js" "controller.js" "../" "./")
+ ("/tmp/" (22393 46097 328629 653000) ".font-unix/" "systemd-private-8e1ba4abe1904f32991685b2e0ab752d-rtkit-daemon.service-E3lBiW/" "orbit-htmldrum/" "systemd-private-8e1ba4abe1904f32991685b2e0ab752d-colord.service-vIW4bG/" ".ICE-unix/" ".Test-unix/" "hsperfdata_htmldrum/" ".X0-lock" "temp219340007341863811244864523929256/" "temp3188415949404607045097330804145/" "emacs1000/" "temp385350702818643991345469465172708/" "ssh-OoFPBG7mozzP/" "temp372057777141920439844966554278021/" "temp652196858974064634444957910743741/" "cascalog_reserved/" "objdump.bin" ".XIM-unix/" "temp615077334372906962844949709956337/" "tracker-extract-files.1000/" ".X11-unix/" "temp907270618484208819545135563849005/" "hadoop-htmldrum/" "res" "../" "./" "mozilla_htmldrum0/" "temp157420563963764383345250716707692/")
 
- ("/Users/user/code/airtasker/admin-panel/app/reservations/index/" (22053 57234 0 0) "template.hbs" "route.js" "controller.js" "../" "./")
+ ("/usr/local/go/src/regexp/" (22393 45106 51714 176000) "backtrack.go" "syntax/" "onepass_test.go" "exec2_test.go" "testdata/" "find_test.go" "exec_test.go" "onepass.go" "regexp.go" "exec.go" "all_test.go" "../" "regexp.test" "./" "example_test.go")
 
- ("/Users/user/code/airtasker/admin-panel/app/product-categories/index/" (22053 48406 0 0) "template.hbs" "route.js" "controller.js" "../" "./")
+ ("/media/htmldrum/" (22393 40532 177033 556000) "../" "./" "Samsung USB/")
 
- ("/Users/user/code/airtasker/admin-panel/app/product-categories/" (22028 46762 0 0) "index/" "../" "./")
+ ("/media/htmldrum/Samsung USB/workspace/tools/ruby/" (22393 44631 0 0) "linux_scripts.md" "concurrent_ruby/" "bastardsbook/" "text_processing_with_ruby/" "ruby/" "tr4w/" "testing/" "system_orchestration/" "ruby_performance_optimization/" ".DS_Store" "ruby_best_practices/" "rails/" "first_gem/" "exceptional_ruby/" "design-patterns-in-ruby/" "confident_ruby/" "../" "./")
 
- ("/Users/user/code/airtasker/admin-panel/app/products/index/" (22053 46289 0 0) "template.hbs" "route.js" "controller.js" "../" "./")
+ ("/home/htmldrum/go/src/github.com/htmldrum/bw/" (22393 35081 466495 820000) "./" "bw.go" "../")
 
- ("/Users/user/code/airtasker/admin-panel/app/contractors/index/" (22053 41873 0 0) "template.hbs" "route.js" "controller.js" "../" "./")
+ ("/home/htmldrum/go/src/github.com/bw/" (22393 34935 801773 508000) "./" "../")
 
- ("/Users/user/code/airtasker/admin-panel/app/products/" (22028 44470 0 0) "index/" "../" "./")
+ ("/media/htmldrum/Samsung USB/workspace/tools/go/golang.org/a_tour_of_go/" (22340 28724 0 0) "notes.md" "exercise-maps.go" "../" "./")
 
- ("/Users/user/code/airtasker/admin-panel/app/admins/index/" (22053 38329 0 0) "template.hbs" "route.js" "controller.js" "../" "./")
+ ("/home/htmldrum/go/src/github.com/htmldrum/test/" (22392 60110 13630 208000) "test.go" "./" "../")
 
- ("/Users/user/code/airtasker/admin-panel/app/contractors/" (22006 37604 0 0) "show/" "new/" "index/" "edit/" "../" "./")
+ ("/home/htmldrum/go/src/github.com/htmldrum/hello/" (22392 59780 367995 584000) "./" "../")
 
- ("/Users/user/.emacs.d/defuns/" (22048 17352 0 0) "snippet-helpers.el" "project-defuns.el" "misc-defuns.el" "lisp-defuns.el" "js2r-defuns.el" "file-defuns.el" "editing-defuns.el" "clj-defuns.el" "buffer-defuns.el" "../" "./")
+ ("/media/htmldrum/Samsung USB/workspace/projects/htmldrum.github.io/_posts/" (22392 38647 0 0) "2016-07-03-abc-cli.md" "2015-11-22-setting-up-a-gce-environment.md~" "2015-11-22-setting-up-a-gce-environment.md" "2015-07-03-useful-ruby-tools.md" ".#2016-07-03-abc-cli.md" "#2016-07-03-abc-cli.md#" "todo.txt" "2013-03-21-blinded-by-symbolism.md" "2011-07-29-flex-as3p-note-5.md~" "2015-05-14-provisioning-vagrant-with-bash.md" "2011-08-19-ludum-dare-48.md" "2014-11-21-nested-query-sets-and-elasticsearch.md" "2012-05-21-svn-E2000031.md" "2013-02-05-basics-of-provisioning-nodes-with-puppet.md" "2011-10-21-pre-commit-testing.md" "2010-10-05-zeroconf.md~" "2014-12-20-application-controllers-in-rails.md" "2016-06-26-shit-for-the-shit-god.md~" "2011-04-19-overview-of-rack-and-cabinet-design.md" "2014-10-15-elasticsearch-mappings-and-filters.md" "2009-06-06-visual-feedback-in-the-dom.md" "2012-04-11-rabbitmq-the-best-friend-you-never-knew.md" "2012-02-15-python-alg-package.md" "2015-01-12-benefits-of-scheme.md" "2013-11-15-zeroconf-networking.md~" "2016-03-01-concurrent-ruby.md~" "2016-03-01-concurrent-ruby.md" "2014-08-06-top-down-depth-first-tree-parser.md" "2012-02-12-django-on-aws.md" "2014-02-11-nodejs-init-script.md" "2011-07-18-flex-builder-3-error-occured-while-packaging-the-application.md" "2016-06-26-shit-for-the-shit-god.md" "2011-07-29-flex-as3p-note-5.md" "2014-02-12-clustering-in-nodejs.md" "2013-07-04-service--oriented-architecutre.md~" "2014-08-02-object-construction-in-javascript.md" "2013-07-04-service--oriented-architecutre.md" "2011-05-08-away-3d-dev-note.md" "2011-08-18-gae-dev-note.md" "2012-07-10-scripting-layouts-in-tmux-for-mac.md" "2012-03-17-semaphores-in-js.md" "2009-05-02-mousecapture-with-jquery.md" "2010-12-25-crappy-codealong-christmas.md" "2010-06-02-tox.md" "2011-12-28-how-to-setup-google-checkout-in-python.md" "2013-11-15-zeroconf-networking.md" "2011-11-11-symfony-20-installation-instructions.md" "../" "./")
 
- ("/Users/user/code/airtasker/admin-panel/app/reservations/" (22028 49204 0 0) "show/" "new/" "index/" "edit/" "../" "./")
+ ("/media/htmldrum/Samsung USB/workspace/tools/clojure/clojure_recipes/" (22392 36309 0 0) "stock-ticker-demo/" "rest-media-demo/" "rest-demo/" "pedestal-hello-world/" "logging-macro-demo/" "json-demo/" "cljs-rest-client-server-demo/" "cascalog-intro/" "notes.md" "../" "./")
 
- ("/Users/user/code/airtasker/admin-panel/app/branches/new/" (22053 36519 0 0) "template.em" "route.js" "controller.js" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/" (22392 32055 694516 352000) "rest-media-demo/" "cljs-rest-client-server-demo/" "./" "rest-demo/" "logging-macro-demo/" "../" "pedestal-hello-world/" "cascalog-intro/" "json-demo/" "stock-ticker-demo/")
 
- ("/Users/user/code/airtasker/admin-panel/app/branches/edit/" (22053 36496 0 0) "template.em" "route.js" "controller.js" "../" "./")
+ ("/home/htmldrum/Downloads/" (22391 3010 564353 590000) "__MACOSX/" "chronicle/" "clojure_recipes/" "./" "growdiary_singlestrain_page_beta(1).png" "growdiary_page(1).png" "article_page(1).png" "docs.zip" "quill.tar.gz" "../" "phoenix-training.mp4" "docs/" "growdiary_singlestrain_page_beta.png" "growdiary_page.png" "article_page.png" "jm.jpg" "text-processing-with-ruby_p1_0.pdf" "credentials.csv")
 
- ("/Users/user/code/airtasker/admin-panel/app/branches/" (22020 58330 0 0) "new/" "index/" "edit/" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/cascalog-intro/" (22392 32773 802077 255000) "target/" "LICENSE" "src/" ".hgignore" "./" "project.clj" ".lein-repl-history" "doc/" "README.md" "../" "test/" "CHANGELOG.md" ".gitignore" "resources/" ".lein-failures")
 
- ("/Users/user/code/airtasker/admin-panel/app/admins/new/" (22053 36469 0 0) "template.em" "route.js" "from-new-user/" "from-existing-user/" "controller.js" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/cascalog-intro/resources/" (22392 32743 889928 929000) "./" "../" "log4j.properties")
 
- ("/Users/user/code/airtasker/admin-panel/app/tasks/show/" (22053 36097 0 0) "template.emblem" "route.js" "controller.js" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/cascalog-intro/test/cascalog_intro/" (22392 32665 529540 361000) "./" "../" "core_test.clj")
 
- ("/Users/user/.emacs.d/settings/" (22053 25531 0 0) "setup-yasnippet.el" "setup-skewer.el" "setup-shell.el" "setup-ruby-mode.el" "setup-rgrep.el" "setup-perspective.el" "setup-paredit.el" "setup-package.el" "setup-org.el" "setup-markdown-mode.el" "setup-magit.el" "setup-js2-mode.el" "setup-ido.el" "setup-html-mode.el" "setup-hippie.el" "setup-flycheck.el" "setup-ffip.el" "setup-elnode.el" "setup-dired.el" "setup-clojure-mode.el" "sane-defaults.el" "my-misc.el" "mode-mappings.el" "mac.el" "key-bindings.el" "appearance.el" "#my-misc.el#" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/cascalog-intro/test/" (22392 32055 698516 372000) "./" "../" "cascalog_intro/")
 
- ("/Users/user/code/airtasker/admin-panel/" (22043 24199 0 0) "vendor/" "tmp/" "tests/" "testem.json" "README.md" "public/" "package.json" "node_modules/" "ember-cli-build.js" "dist/" "deploy.json" "deploy/" "config/" "bower_components/" "bower.json" "bin/" "app/" ".watchmanconfig" ".travis.yml" ".node-version" ".jshintrc" ".idea/" ".gitignore" ".git/" ".ember-cli" ".editorconfig" ".bowerrc" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/logging-macro-demo/" (22392 29819 499427 659000) "target/" "LICENSE" "src/" ".hgignore" "./" "project.clj" "doc/" "README.md" "../" "test/" "CHANGELOG.md" ".gitignore" "resources/")
 
- ("/Users/user/.emacs.d/users/" (22048 17352 0 0) "magnars/" "fimasvee/" "christian/" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/logging-macro-demo/src/logging_macro_demo/" (22392 29085 623788 567000) "core.clj" "#core.clj#" "./" "../" ".#core.clj")
 
- ("/Users/user/code/languages/general/" (22041 42310 0 0) "uml/" "taming_text/" "seven_web_frameworks_in_seven_weeks/" "seven_more_languages_in_seven_weeks/" ".DS_Store" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/logging-macro-demo/src/" (22392 29026 179493 798000) "./" "../" "logging_macro_demo/")
 
- ("/Users/user/code/languages/general/seven_web_frameworks_in_seven_weeks/" (22053 24125 0 0) "worked_examples/" "seven-web-frameworks-in-seven-weeks_p1_0.epub" "notes.md" "code/" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/stock-ticker-demo/src/stock_ticker_demo/" (22392 28411 604446 285000) ".#price_feed.clj" "service.clj" "./" "server.clj" "#price_feed.clj#" "../" "price_feed.clj")
 
- ("/Users/" (21895 19639 0 0) "user/" "Shared/" ".localized" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/stock-ticker-demo/src/" (22392 27563 740241 954000) "./" "stock_ticker_demo/" "../")
 
- ("/Users/user/code/htmldrum/" (22048 18512 0 0) "htmldrum.github.io/" "emacs_d_old/" "emacs_d/" "dotfiles/" "derp_project/" "blod/" "airtasker-web/" ".emacs.d/" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/stock-ticker-demo/" (22392 27803 33428 545000) "src/" "./" "project.clj" "README.md" "../" "test/" "Capstanfile" "config/" ".gitignore" "resources/" "Dockerfile")
 
- ("/Users/user/code/airtasker/airtasker/app/" (22011 37823 0 0) "workers/" "views/" "validators/" "uploaders/" "services/" "serializers/" "queries/" "observers/" "models/" "mailers/" "helpers/" "governance/" "controllers/" "concerns/" "classes/" "assets/" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/stock-ticker-demo/resources/" (22392 27582 884336 884000) "./" "public/" "../")
 
- ("/Users/user/code/airtasker/airtasker/" (22052 9753 0 0) "vendor/" "tmp/" "spec/" "script/" "retailer_setup_template.xlsx" "retailer_setup_DW_production_test_data_v1.xlsx" "Readme.md" "Rakefile" "public/" "log/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "doc/" "db/" "config.ru" "config/" "circle.yml" "Capfile" "bin/" "app/" ".sass-cache/" ".ruby-version" ".ruby-gemset" ".rspec" ".powenv" ".idea/" ".gitignore" ".git/" ".envrc" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/stock-ticker-demo/resources/public/" (22392 27744 329137 446000) "./" "css/" "../" "stocks.html")
 
- ("/Users/user/code/languages/clojure/the_joy_of_clojure/" (21995 34200 0 0) "worked_examples/" "The Joy of Clojure, 2nd Edition.pdf" "notes.md" "Joy2_SourceCode.zip" "book-source-master/" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/stock-ticker-demo/resources/public/css/" (22392 27628 64560 921000) "./" "bootstrap.css" "../")
 
- ("/Users/user/code/languages/clojure/" (22035 48200 0 0) "the_joy_of_clojure/" "tdd_workflow_in_clojure_with_emacs_and_cider/" "pepa/" "koans/" "clojure_distilled/" "clojure.org/" "brave_clojure/" "4clojure/" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/pedestal-hello-world/src/pedestal_hello_world/" (22392 26056 520768 56000) "service.clj" "./" "server.clj" "../")
 
- ("/Users/user/code/languages/clojure/4clojure/" (22036 13350 0 0) "README.md" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/pedestal-hello-world/" (22392 26045 828715 37000) "target/" "logs/" "src/" "./" "project.clj" "README.md" "../" "test/" "Makefile" "Capstanfile" "config/" ".gitignore" "resources/" "Dockerfile")
 
- ("/Users/user/code/airtasker/" (22037 40299 0 0) "scratch/" "retros/" "opsworks-cookbooks/" "offsite/" "gg_raml/" "gg.admin.airtasker.com/" "ember-simple-auth/" "docs/" "buckets/" "api/" "airtasker_scripts/" "airtasker-web/" "airtasker-opsworksversionstore/" "airtasker-crayon/" "airtasker-admin-authentication/" "airtasker-admin/" "airtasker/" "admin-panel/" ".DS_Store" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/pedestal-hello-world/resources/public/" (22392 24985 791458 596000) "./" "index.html" "../")
 
- ("/Users/user/code/airtasker/admin-panel/app/login/" (22024 40420 0 0) "template.em" "route.js" "controller.js" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/pedestal-hello-world/src/" (22391 30574 210318 107000) "pedestal_hello_world/" "./" "../")
 
- ("/Users/user/code/airtasker/admin-panel/app/mixins/controllers/" (22039 11840 0 0) "table.js" "sort.js" ".#sort.js" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/pedestal-hello-world/resources/" (22391 30596 550428 885000) "./" "public/" "../")
 
- ("/Users/user/code/languages/clojure/brave_clojure/1_fire_up_your_REPL/project/" (22035 40264 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "core.clj" ".hgignore" ".gitignore" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/json-demo/resources/public/" (22391 14026 44260 183000) "./" "../" "postjson.html")
 
- ("/Users/user/code/languages/clojure/brave_clojure/1_fire_up_your_REPL/" (22035 40442 0 0) "recursive_printer.clj" "README.md" "project/" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/json-demo/" (22391 13677 738533 28000) "src/" "./" "project.clj" "README.md" "../" "test/" ".gitignore" "resources/")
 
- ("/Users/user/code/languages/clojure/brave_clojure/3_functions/" (22035 47491 0 0) "symmetrizer.clj" "README.md" "lein" "clojure-noob/" ".#README.md" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/resources/public/" (22391 12901 422683 485000) "./" "index.html" "../")
 
- ("/Users/user/code/languages/clojure/brave_clojure/" (22035 33531 0 0) "README.md" "3_functions/" "1_fire_up_your_REPL/" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/out/" (22391 11391 731197 329000) "cljs_rest_client_server_demo/" "cljs_rest_client_server_demo.js" "./" "goog/" "clojure/" "cljs/" "../" "cljs_deps.js")
 
- ("/Users/user/code/" (21982 45546 0 0) "tmp/" "languages/" "kata/" "htmldrum/" "ember/" "airtasker/" ".DS_Store" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/" (22391 13224 216284 132000) "target/" "out/" "src-cljs/" "out-adv/" "src/" "./" "project.clj" "index.html" "index_release.html" "README.md" "../" "scripts/" ".gitignore" "resources/")
 
- ("/Users/user/code/languages/" (22035 26144 0 0) "sql/" "ruby/" "racket/" "python/" "project_management/" "notes.md" "javascript/" "http/" "hacking/" "general/" "factor/" "elm/" "elixir/" "db/" "clojure/" "c/" "aws/" "algorithms/" ".DS_Store" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/resources/" (22391 12102 422721 458000) "./" "public/" "../")
 
- ("/Users/user/code/languages/clojure/tdd_workflow_in_clojure_with_emacs_and_cider/" (22035 27994 0 0) "README.md" ".#README.md" "../" "./")
+ ("/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/src/" (22391 12143 378924 549000) "cljs-rest-client-server-demo/" "./" "../")
+
+ ("/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/src/cljs-rest-client-server-demo/" (22391 12162 451019 123000) "./" "handler.clj" "../")
+
+ ("/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/src-cljs/cljs_rest_client_server_demo/" (22391 11315 870821 158000) "./" "../" "core.cljs")
+
+ ("/home/htmldrum/Downloads/clojure_recipes/rest-media-demo/src/rest_media_demo/" (22391 10475 846655 703000) "./" "handler.clj" "../")
+
+ ("/home/htmldrum/Downloads/clojure_recipes/rest-demo/" (22391 10376 738164 251000) "target/" "src/" "./" "project.clj" "README.md" "../" "test/" "Makefile" ".gitignore" "resources/")
+
+ ("/home/htmldrum/Downloads/clojure_recipes/rest-media-demo/" (22391 9104 55853 360000) "target/" "src/" "./" "project.clj" "README.md" "../" "test/" ".gitignore" "resources/")
+
+ ("/home/htmldrum/Downloads/clojure_recipes/rest-media-demo/src/" (22391 8573 565222 799000) "./" "rest_media_demo/" "../")
+
+ ("/home/htmldrum/Downloads/clojure_recipes/rest-demo/src/" (22391 3031 454 928000) "rest_demo/" "./" "../")
+
+ ("/home/htmldrum/Downloads/clojure_recipes/rest-demo/src/rest_demo/" (22391 4899 845722 31000) "./" "handler.clj" "../")
+
+ ("/media/htmldrum/Samsung USB/workspace/tools/clojure/" (22390 22744 0 0) "clojure_recipes/" "algo.monads/" "logic/" "graphics/" "cljs/" "devcards/" "core.async/" "datomic/" "om/" "idioms/" "reagent/" "mastering_clojure_data_analysis/" "pedestal/" "clojure-katas/" ".DS_Store" "modern-js/" "the_joy_of_clojure/" "tdd_workflow_in_clojure_with_emacs_and_cider/" "ring/" "pepa/" "luminus/" "liberator/" "koans/" "immutant/" "compojure/" "clojure_for_machine_learning/" "clojure_distilled/" "clojure.org/" "brave_clojure/" "4clojure/" "../" "./")
+
+ ("/home/htmldrum/Downloads/docs/web/channels/" (22387 53205 274297 439000) "document_channel.ex" "./" "user_socket.ex" "../")
+
+ ("/home/htmldrum/Downloads/docs/web/" (22100 52994 0 0) "static/" "router.ex" "./" "views/" "channels/" "../" "templates/" "controllers/" "models/" "web.ex")
+
+ ("/home/htmldrum/Downloads/docs/config/" (22100 44851 0 0) "./" "dev.exs" "prod.secret.exs" "test.exs" "../" "prod.exs" "config.exs")
+
+ ("/home/htmldrum/Downloads/docs/" (22100 52275 0 0) "./" "web/" "README.md" "lib/" "../" "mix.lock" "test/" "brunch-config.js" "package.json" "deps/" "priv/" "mix.exs" "_build/" "config/" ".gitignore" "node_modules/")
+
+ ("/media/htmldrum/Samsung USB/workspace/tools/elixir/phoenix-training/" (22387 52725 0 0) "notes.md" "../" "./")
+
+ ("/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/code/nlp/" (22387 51213 0 0) "urls.txt" "simple-search.rb" "readability.rb" "metaphone-search.rb" "levenshtein-search.rb" "extracting-text.rb" "extracting-terms.txt" "extracting-terms.rb" "extracting-normalized-terms.rb" "articles.json" "../" "./")
+
+ ("/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/code/parslet/" (22372 21280 0 0) "parser.rb" "config.txt" "../" "./")
+
+ ("/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/code/strscan/" (22372 21280 0 0) "list.rb" "config.txt" "config.rb" "../" "./")
+
+ ("/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/code/rtf/" (22387 26723 0 0) "transformation.rb" "parser.rb" "hello-world.rtf" "complex.rtf" "colors.rtf.tree" "colors.rtf" "colors.html" "bold.rtf" "../" "./")
+
+ ("/media/htmldrum/Samsung USB/workspace/tools/elixir/" (22387 25083 0 0) "dev_notes.md" "dev_notes.md~" "programming_elixir/" "elixir/" "mogo-chat/" "metaprogramming_elixir/" "docs/" "../" "./")
+
+ ("/media/htmldrum/Samsung USB/workspace/projects/" (22386 16100 0 0) "compose_con/" "cv/" "htmldrum.github.io/" "../" "./")
+
+ ("/media/htmldrum/Samsung USB/workspace/projects/htmldrum.github.io/" (22387 942 0 0) "index.html" "_config.yml~" ".gitignore" "_plugins/" "media/" "_posts/" "_site/" "images/" "Makefile" "_data/" "watch.sh" "Makefile~" "index.html~" "deploy.sh" "watch.sh~" "_layouts/" "css/" "blog.html" "presentations/" "_config.yml" ".git/" "../" "./")
+
+ ("/run/" (22387 14337 389562 6000) "initramfs/" "udev/" "lock/" "systemd/" "tmpfiles.d/" "log/" "mount/" "alsa/" "user/" "initctl" "shm/" "sendsigs.omit.d/" "sshd/" "utmp" "rdnssd/" "rdnssd.pid" "network/" "rpcbind/" "rpcbind.lock" "rpcbind.sock" "rpcbind.pid" "rpc.statd.pid" "sm-notify.pid" "rpc_pipefs/" "avahi-daemon/" "dbus/" "acpid.socket" "atd.pid" "crond.pid" "crond.reboot" "sshd.pid" "minissdpd.sock" "minissdpd.pid" "apache2/" "NetworkManager/" "hogsuspend" "rsyslogd.pid" "acpid.pid" "exim4/" "gdm3/" "gdm3.pid" "dhclient-eth0.pid" "dhclient6-eth0.pid" "udisks2/" "mlocate.daily.lock" "postgresql/" "../" "./")
+
+ ("/home/htmldrum/tmp/test_proj/config/" (22387 25233 247591 649000) "./" ".#config.exs" "../" "config.exs")
+
+ ("/home/htmldrum/tmp/test_proj/" (22387 21987 175495 246000) "hello_world/" "./" "README.md" "lib/" "../" "test/" "mix.exs" "_build/" "config/" ".gitignore")
+
+ ("/home/htmldrum/tmp/env-0.10.25-prebuilt/bin/" (22387 20120 638239 588000) "npm" "./" "node" "activate" "../" "nodejs" "shim")
+
+ ("/home/htmldrum/tmp/env-0.10.25-prebuilt/" (22387 20120 638239 588000) "LICENSE" "src/" "./" "README.md" "lib/" "../" "bin/" "ChangeLog" "share/" "include/")
 )
 
 ;; ----- ido-unc-hosts-cache -----
