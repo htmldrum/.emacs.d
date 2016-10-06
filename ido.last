@@ -2,7 +2,48 @@
 
 ;; ----- ido-last-directory-list -----
 (
- (#("/home/htmldrum/.rbenv/" 15 21 (face flx-highlight-face)) . "src/")
+ ("/Users/htmldrum/Desktop/modern-cljs/" . "src/")
+ ("/Users/htmldrum/Desktop/modern-cljs/html/" . "js/")
+ ("/Users/htmldrum/Desktop/modern-cljs/src/cljs/" . "modern_cljs/")
+ ("/Users/htmldrum/Desktop/modern-cljs/src/" . "cljs/")
+ ("/Users/htmldrum/code/maxwellforest/ci/" . "jira/")
+ ("/Users/htmldrum/go/src/gopl.io/ch4/" . "dedup/")
+ ("/Users/htmldrum/go/src/gopl.io/" . "ch4/")
+ ("/Users/htmldrum/go/src/" . "gopl.io/")
+ ("/Users/htmldrum/go/" . "src/")
+ ("/Users/htmldrum/code/htmldrum/go/" . "the_go_programming_language/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/requests/" . "v0/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/serializers/" . "v0/")
+ ("/Users/htmldrum/" . "code/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/db/" . "migrate/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/config/" . "initializers/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/serializers/" . "v0/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/acceptance/" . "v0/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/models/" . "concerns/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/db/" . "migrate/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/" . "spec/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/" . "acceptance/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/controllers/" . "v0/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/" . "controllers/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/lib/" . "rails_admin/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/config/" . "initializers/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/app/serializers/" . "v0/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/controllers/" . "v0/")
+ ("/Users/htmldrum/code/htmldrum/" . "go/")
+ ("/Users/htmldrum/code/maxwellforest/" . "ci/")
+ ("/Users/htmldrum/code/" . "maxwellforest/")
+ ("/Users/htmldrum/code/htmldrum/generic_controller/spec/" . "lib/")
+ ("/Users/htmldrum/code/htmldrum/generic_controller/" . "lib/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/acceptance/" . "v0/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/app/controllers/" . "v0/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/serializers/" . "v0/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/requests/" . "v0/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/" . "requests/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/" . "db/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/app/" . "controllers/")
+ ("/Volumes/Samsung USB/" . "workspace/")
+ ("/Volumes/" . "Samsung USB/")
+ ("/home/htmldrum/.rbenv/" . "src/")
  ("/home/htmldrum/go/src/gopl.io/ch4/" . "ex/")
  ("/home/htmldrum/go/src/gopl.io/" . "ch4/")
  ("/home/htmldrum/tmp/htmldrum.github.io/" . "_layouts/")
@@ -39,14 +80,14 @@
  ("/home/htmldrum/.emacs.d/" . "settings/")
  ("/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/" . "code/")
  ("/media/htmldrum/Samsung USB/workspace/tools/ruby/" . "text_processing_with_ruby/")
- ("/media/htmldrum/Samsung USB/workspace/tools/" . "go/")
+ ("/media/htmldrum/Samsung USB/workspace/tools/" . "asm/")
  ("/media/htmldrum/Samsung USB/workspace/" . "tools/")
  ("/media/htmldrum/Samsung USB/" . "workspace/")
  ("/media/htmldrum/" . "Samsung USB/")
  ("/media/" . "htmldrum/")
- ("/" . "tmp/")
+ ("/" . "cores/")
  ("/tmp/web/" . "config/")
- ("/home/htmldrum/" . #(".rbenv/" 0 6 (face flx-highlight-face)))
+ ("/home/htmldrum/" . ".rbenv/")
  ("/Users/user/code/airtasker/airtasker/" . "lib/")
  ("/Users/user/code/airtasker/airtasker/app/serializers/" . "admin/")
  ("/Users/user/code/airtasker/airtasker/app/controllers/api/" . "admin/")
@@ -76,273 +117,273 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "/media/htmldrum/Samsung USB/workspace/tools/ruby/ruby_under_a_microscope/"
- "/media/htmldrum/Samsung USB/workspace/tools/ruby/enterprise_rails/"
- "/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/"
- "/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/code/"
- "/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/code/stdout/"
- "/home/htmldrum/.emacs.d/settings/"
- "/home/htmldrum/.emacs.d/"
- "/home/htmldrum/go/src/gopl.io/ch4/ex/"
- "/home/htmldrum/"
- "/home/htmldrum/go/src/gopl.io/ch4/"
- "/home/htmldrum/go/src/gopl.io/ch4/append/"
- "/media/htmldrum/Samsung USB/workspace/tools/go/the_go_programming_language/"
- "/home/htmldrum/go/src/gopl.io/ch4/github/"
- "/home/htmldrum/go/src/gopl.io/ch4/nonempty/"
- "/home/htmldrum/tmp/htmldrum.github.io/"
- "/home/htmldrum/tmp/htmldrum.github.io/_layouts/"
- "/home/htmldrum/go/src/github.com/htmldrum/abcd/cmd/abcd/"
- "/home/htmldrum/go/src/github.com/Sirupsen/logrus/"
- "/home/htmldrum/go/src/github.com/"
- "/home/htmldrum/go/src/github.com/docker/docker/cmd/dockerd/"
- "/home/htmldrum/go/src/github.com/docker/docker/"
- "/home/htmldrum/go/src/github.com/docker/docker/cmd/docker/"
- "/media/htmldrum/Samsung USB/workspace/tools/js/"
- "/media/htmldrum/Samsung USB/workspace/tools/go/golang.org/"
- "/usr/local/go/src/regexp/"
- "/tmp/"
- "/media/htmldrum/Samsung USB/workspace/tools/ruby/"
- "/media/htmldrum/Samsung USB/workspace/"
- "/home/htmldrum/go/src/github.com/bw/"
- "/media/htmldrum/Samsung USB/workspace/tools/go/golang.org/a_tour_of_go/"
- "/home/htmldrum/go/src/github.com/htmldrum/test/"
- "/home/htmldrum/go/src/github.com/htmldrum/hello/"
- "/media/htmldrum/Samsung USB/workspace/projects/htmldrum.github.io/_posts/"
- "/media/htmldrum/Samsung USB/workspace/tools/clojure/clojure_recipes/"
- "/home/htmldrum/Downloads/clojure_recipes/cascalog-intro/"
- "/home/htmldrum/Downloads/clojure_recipes/cascalog-intro/resources/"
- "/home/htmldrum/Downloads/clojure_recipes/cascalog-intro/test/cascalog_intro/"
- "/home/htmldrum/Downloads/clojure_recipes/logging-macro-demo/"
- "/home/htmldrum/Downloads/clojure_recipes/logging-macro-demo/src/logging_macro_demo/"
- "/home/htmldrum/Downloads/clojure_recipes/stock-ticker-demo/src/stock_ticker_demo/"
- "/home/htmldrum/Downloads/clojure_recipes/stock-ticker-demo/"
- "/home/htmldrum/Downloads/clojure_recipes/stock-ticker-demo/resources/public/"
- "/home/htmldrum/Downloads/clojure_recipes/pedestal-hello-world/src/pedestal_hello_world/"
- "/home/htmldrum/Downloads/clojure_recipes/pedestal-hello-world/"
- "/home/htmldrum/Downloads/clojure_recipes/pedestal-hello-world/resources/public/"
- "/home/htmldrum/Downloads/clojure_recipes/json-demo/"
- "/home/htmldrum/Downloads/clojure_recipes/json-demo/resources/public/"
- "/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/"
- "/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/resources/public/"
- "/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/out/"
+ "/Users/htmldrum/Desktop/modern-cljs/src/cljs/"
+ "/Users/htmldrum/Desktop/modern-cljs/html/"
+ "/Users/htmldrum/Desktop/modern-cljs/"
+ "/Users/htmldrum/Desktop/modern-cljs/src/cljs/modern_cljs/"
+ "/Users/htmldrum/Desktop/modern-cljs/html/js/"
+ "/Users/htmldrum/.boot/"
+ "/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/"
+ "/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/requests/v0/"
+ "/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/acceptance/v0/"
+ "/Users/htmldrum/code/maxwellforest/onefill_maps_api/config/"
+ "/Users/htmldrum/code/maxwellforest/onefill_maps_api/app/serializers/v0/"
+ "/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/serializers/v0/"
+ "/Users/htmldrum/code/maxwellforest/onefill_maps_api/db/migrate/"
+ "/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/models/"
+ "/Users/htmldrum/code/maxwellforest/onefill_maps_api/app/models/"
+ "/Users/htmldrum/code/maxwellforest/onefill_maps_api/app/controllers/v0/"
+ "/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/support/"
+ "/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/acceptance/"
+ "/Users/htmldrum/code/maxwellforest/onefill_maps_api/app/controllers/"
+ "/Users/htmldrum/code/maxwellforest/onefill_maps_api/"
+ "/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/requests/"
+ "/Users/htmldrum/code/maxwellforest/onefill_maps_api/app/controllers/v0/schemas/"
+ "/Users/htmldrum/code/maxwellforest/onefill_maps_api/app/"
+ "/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/controllers/"
+ "/Users/htmldrum/code/maxwellforest/onefill_maps_api/db/"
+ "/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/config/"
+ "/Users/htmldrum/code/maxwellforest/onefill_oba/app/controllers/v0/"
+ "/Users/htmldrum/code/maxwellforest/onefill_oba/config/"
+ "/Users/htmldrum/code/maxwellforest/ci/jira/"
+ "/Users/htmldrum/code/maxwellforest/ci/"
+ "/Users/htmldrum/"
+ "/Users/htmldrum/code/maxwellforest/onefill_oba/spec/acceptance/v0/"
+ "/Users/htmldrum/code/maxwellforest/onefill_oba/"
+ "/Users/htmldrum/.Trash/emacs/onefill_oba.~1~/"
+ "/Users/htmldrum/code/maxwellforest/onefill_oba/spec/models/"
+ "/Users/htmldrum/code/maxwellforest/onefill_oba/app/models/"
+ "/Users/htmldrum/code/maxwellforest/onefill_oba/db/"
+ "/Users/htmldrum/code/maxwellforest/onefill_oba/app/controllers/"
+ "/Users/htmldrum/code/maxwellforest/onefill_oba/spec/"
+ "/Users/htmldrum/code/maxwellforest/onefill_oba/spec/requests/v1/"
+ "/Users/htmldrum/code/maxwellforest/onefill_oba/app/serializers/v0/"
+ "/Users/htmldrum/code/maxwellforest/onefill_oba/app/serializers/"
+ "/Users/htmldrum/code/maxwellforest/onefill_oba/app/"
+ "/Users/htmldrum/code/maxwellforest/onefill_oba/spec/serializers/v0/"
+ "/Users/htmldrum/code/maxwellforest/onefill_oba/spec/serializers/"
+ "/Users/htmldrum/code/maxwellforest/onefill_oba/spec/acceptance/v1/"
+ "/Users/htmldrum/code/maxwellforest/onefill_oba/spec/requests/v0/"
+ "/Users/htmldrum/code/maxwellforest/onefill_oba/app/models/concerns/"
+ "/Users/htmldrum/code/maxwellforest/onefill_oba/ci/ios/"
+ "/Users/htmldrum/code/maxwellforest/onefill_oba/spec/support/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "ripper.rb"
- "simple.rb"
- "readme.md"
- "README.md"
- "open-gzip.rb"
- "paging-output.rb"
- "redirecting-stdout.rb"
- "capture-stdout.rb"
- "capture2.rb"
- "fork-puts2.rb"
+ "index.html"
+ "shopping.html"
+ "shopping.cljs"
+ "login.cljs"
+ "core.cljs"
+ "main.cljs.edn"
+ "build.boot"
+ "profile.boot"
+ "routes_spec.rb"
+ "admins_spec.rb"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/media/htmldrum/Samsung USB/workspace/tools/ruby/ruby_under_a_microscope/" (22418 65045 0 0) "ripper.rb" "simple.rb" "readme.md" "Ruby Under a Microscope.pdf" "../" "./")
+ ("/Users/htmldrum/" (22517 34531 0 0) "tmp" "Public/" "Pictures/" "Music/" "Movies/" "log.000" "Library/" "go/" "GitHub/" "Downloads/" "Documents/" "Desktop/" "code/" ".wget-hsts" ".viminfo" ".Trash/" ".todo" ".tmux.conf" ".subversion/" ".ssh/" ".smex-items" ".rbenv/" ".purescript/" ".psql_history" ".pry_history" ".oracle_jre_usage/" ".npm/" ".node_repl_history" ".ngrok2/" ".netrc" ".m2/" ".local/" ".lesshst" ".lein/" ".irssi/" ".heroku/" ".gitconfig" ".gem/" ".emacs.dbackups/" ".emacs.d/" ".DS_Store" ".cups/" ".config/" ".cocoapods/" ".cache/" ".bundle/" ".boot/" ".bash_sessions/" ".bash_profile~" ".bash_profile" ".bash_history" "../" "./")
 
- (#("/home/htmldrum/.rbenv/src/" 15 21 (face flx-highlight-face)) (22395 1485 817364 64000) "./" "shobj-conf" "configure" "../" "Makefile.in" "bash.h" "realpath.c")
+ ("/Users/htmldrum/Desktop/modern-cljs/" (22517 36776 0 0) "target/" "src/" "out/" "modern_javascript_scripts/" "Makefile" "html/" "build.boot" "boot.properties" "__MACOSX/" ".nrepl-port" ".nrepl-history" ".gitignore" ".git/" ".DS_Store" "../" "./")
 
- (#("/home/htmldrum/.rbenv/" 15 21 (face flx-highlight-face)) (22395 2073 880280 111000) ".travis.yml" "LICENSE" ".git/" "src/" "./" "rbenv.d/" "shims/" "CONDUCT.md" ".vimrc" "README.md" "../" "bin/" "test/" "libexec/" "plugins/" "completions/" ".gitignore" ".agignore" "versions/")
+ ("/Users/htmldrum/Desktop/modern-cljs/html/" (22517 36660 0 0) "shopping.html" "index.html" "css/" "../" "./")
 
- ("/home/htmldrum/" (22418 59555 616789 67000) ".local/" ".smex-items" ".abcd/" ".config/" ".mozilla/" ".gconf/" "./" ".bash_history" "Documents/" ".gnome2/" ".bash_logout" "Videos/" ".FBReader/" ".kiex/" ".m2/" "Pictures/" "Templates/" "TODO~" "get-pip.py" "Downloads/" "Public/" ".cache/" ".dbus/" ".mix/" ".rbenv/" ".bundle/" "../" ".gnupg/" ".ICEauthority" ".emacs.d/" ".psql_history" ".bashrc~" "Desktop/" ".todo" ".npm/" "echo" ".lein/" ".bashrc" ".and_jalad/" "Firefox_wallpaper.png" "Music/" ".hex/" "tmp/" "go/" ".gnome2_private/" ".ssh/" "eticket.pdf" ".lesshst" ".gem/" ".profile" "TODO")
+ ("/Users/htmldrum/Desktop/modern-cljs/src/cljs/modern_cljs/" (22517 36488 0 0) "shopping.cljs" "login.cljs" "core.cljs" "../" "./")
 
- ("/media/htmldrum/Samsung USB/workspace/tools/ruby/enterprise_rails/" (22418 43840 0 0) "Enterprise Rails.pdf" "../" "./")
+ ("/Users/htmldrum/Desktop/modern-cljs/html/js/" (22516 47074 0 0) "main.cljs.edn" "../" "./")
 
- ("/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/" (22418 58797 0 0) "xclip" "scores.txt" "text-processing-with-ruby_p1_0.pdf" "stdout-sync.rb~" "stdout-async.rb~" "stdout-sync.rb" "stdout-async.rb" "to-uppercase.rb" "derp.json" "code/" "file.txt" "file.rb" "file.rb~" "text-processing-with-ruby_p1_0.epub" "README.md" "rmtpruby-code.tgz" "../" "./")
+ ("/Users/htmldrum/Desktop/" (22516 28301 0 0) "Web Development with Clojure.pdf" "Unifying Theories of Programming and Formal Engineering Methods.pdf" "Understanding_Computation.pdf" "TheDockerBook_sample.pdf" "The Well-Grounded Java Developer.pdf" "The Linux Programming Interface.pdf" "Site Reliability Engineering.pdf" "seven-web-frameworks-in-seven-weeks_p1_0.pdf" "Screen Shot 2016-10-05 at 12.18.17 PM.png" "Screen Shot 2016-09-30 at 2.08.05 PM.png" "Screen Shot 2016-09-29 at 7.36.12 PM.png" "Screen Shot 2016-09-28 at 4.56.58 PM.png" "ruby-performance-optimization_p1_0.epub" "Ruby Under a Microscope.pdf" "Photo on 5-10-2016 at 2.07 PM.jpg" "OneBank_InHouse_Distribution.mobileprovision" "Onebank_Cert/" "my-project/" "modern-cljs/" "Math Mutation Classics.pdf" "main.go" "Learning RHEL Networking.pdf" "Java Performance_ The Definitive Guide.pdf" "Java 8 in Action.pdf" "james" "htmldrum" "High Performance Browser Networking.pdf" "Functional Programming Patterns in Scala and Clojure.pdf" "Designing Machine Learning Systems with Python.pdf" "Clojure for Machine Learning.pdf" "chapter4/" ".DS_Store" "../" "./")
 
- ("/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/code/" (22415 6072 0 0) "2" "western-european.txt" "western-european.rb" "western-european-convert.rb" "urls" "uniq" "tsv-total.rb" "tsv-split.rb" "tsv-implicit-split.rb" "tsv-each.rb" "to-json.rb" "tempfile-create.rb" "tempfile-cleanup-new.rb" "tempfile-cleanup-block.rb" "strscan/" "stdout-to-file.rb" "stdout-sync.rb" "stdout-async.rb" "stdout/" "stdin-tty.rb" "rtf/" "requests-by-ip.rb" "regex/" "redirecting-stdout.rb" "redefining-stdin.rb" "postcode.rb" "popen3.rb" "pipe-benchmark.rb" "person-to-json.rb" "person-serialize-json.rb" "parslet/" "paging-output.rb" "open-pipe.rb" "open-pipe-read.rb" "open-gzip.rb" "nokogiri/" "noaa-skip-first-row.rb" "noaa-seek.rb" "noaa-first-row.rb" "noaa-first-row-simple.rb" "noaa-benchmark.rb" "noaa-all-rows.rb" "nlp/" "fail.rb" "erb/" "encoding-remove-undefined.rb" "data/" "csv-writing.rb" "csv-row-objects.rb" "csv-read.rb" "csv-header.rb" "csv-foreach.rb" "csv-filter.rb" "character-count.rb" "capture2.rb" "capture-stdout.rb" "builder-example.rb" "builder-attributes.rb" "argv2.rb" "argv1.rb" "argf-sub.rb" "argf-skip2.rb" "argf-skip.rb" "argf-lineno.rb" "argf-features.rb" "../" "./")
+ ("/Users/htmldrum/Desktop/modern-cljs/html/css/" (22516 45307 0 0) "styles.css" "../" "./")
 
- ("/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/code/stdout/" (22415 6590 0 0) "url-sizes.rb" "url-sizes-progress.rb" "inventory.rb" "fork-puts2.rb" "fork-puts.rb" "../" "./")
+ ("/Users/htmldrum/Desktop/modern-cljs/target/" (22516 44259 0 0) "js/" "index.html" "../" "./")
 
- ("/home/htmldrum/.emacs.d/settings/" (22408 36000 225956 301000) "setup-js2-mode.el" "setup-org.el" "setup-magit.el" "my-misc.el" "setup-clojure-mode.el" "setup-yasnippet.el" "./" "setup-html-mode.el" "setup-hippie.el" "setup-markdown-mode.el" "setup-package.el" "setup-paredit.el" "setup-ffip.el" "appearance.el" "setup-elnode.el" "../" "setup-shell.el" "setup-dired.el" "setup-ruby-mode.el" "mode-mappings.el" "key-bindings.el" "setup-go-mode.el" "setup-ido.el" "mac.el" "setup-rgrep.el" "sane-defaults.el" "setup-skewer.el" "setup-flycheck.el" "setup-perspective.el")
+ ("/Users/htmldrum/.boot/" (22516 41562 0 0) "profile.boot" "cache/" "boot.properties" "../" "./")
 
- ("/home/htmldrum/.emacs.d/" (22408 36001 181961 42000) ".gitmodules" "users/" ".places" "auto-save-list/" "elpa/" "snippets/" ".git/" "backups/" "ido.last" "./" "places" "var/" "eshell/" "history" "README.md" "themes/" "site-lisp/" "../" "settings/" "recentf" "init.el" ".mc-lists.el" "project-archetypes/" "defuns/" ".gitignore" "custom.el")
+ ("/Users/htmldrum/Desktop/modern-cljs/src/cljs/" (22516 39173 0 0) "modern_cljs/" "../" "./")
 
- ("/media/htmldrum/Samsung USB/workspace/tools/go/" (22399 19128 0 0) "the_go_programming_language/" "GOROOT/" "go_in_action/" "Heartbleed/" "go/" "golang.org/" "devd/" "build_RESTful_API_in_go_using_only_standard_library/" "GOPATH/" "../" "./")
+ ("/Users/htmldrum/Desktop/modern-cljs/src/" (22515 37839 0 0) "cljs/" "../" "./")
 
- ("/home/htmldrum/go/src/gopl.io/ch4/" (22408 35268 302326 888000) "treesort/" "charcount/" "embed/" "issues/" "./" "append/" "ex/" "sha256/" "github/" "../" "movie/" "issuesreport/" "issueshtml/" "dedup/" "autoescape/" "graph/" "rev/" "nonempty/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/app/controllers/v0/" (22515 19964 0 0) "users_controller.rb" "update_logs_controller.rb" "tickets_controller.rb" "sites_controller.rb" "sessions_controller.rb" "schemas_controller.rb" "schemas/" "reports_controller.rb" "mappings_controller.rb" "locations_controller.rb" "flows_controller.rb" "engine_builds_controller.rb" "concerns/" "application_controller.rb" "admins_controller.rb" "../" "./")
 
- ("/home/htmldrum/go/src/gopl.io/ch4/ex/" (22408 35435 963158 273000) "./" "../" "main.go")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/requests/v0/" (22516 20510 0 0) "users_spec.rb" "update_logs_spec.rb" "tickets_spec.rb" "sites_spec.rb" "sessions_spec.rb" "schemas_spec.rb" "reports_spec.rb" "promotions_spec.rb" "mappings_spec.rb" "locations_spec.rb" "flows_spec.rb" "engine_builds_spec.rb" "admins_spec.rb" "../" "./")
 
- ("/home/htmldrum/go/src/gopl.io/ch4/append/" (22399 18752 599006 377000) "./" "../" "main.go")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/acceptance/v0/" (22516 20344 0 0) "users_spec.rb" "update_logs_spec.rb" "tickets_spec.rb" "sites_spec.rb" "sessions_spec.rb" "schemas_spec.rb" "reports_spec.rb" "promotions_spec.rb" "mappings_spec.rb" "locations_spec.rb" "flows_spec.rb" "engine_builds_spec.rb" "admins_spec.rb" "../" "./")
 
- ("/media/htmldrum/Samsung USB/workspace/tools/go/the_go_programming_language/" (22408 34926 0 0) "The Go Programming Language.pdf" ".#notes.md" "#notes.md#" "notes.md" "../" "./")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/requests/" (22515 19964 0 0) "v0/" "root_controller_spec.rb" "../" "./")
 
- ("/home/htmldrum/go/src/gopl.io/ch4/github/" (22399 18752 599006 377000) "./" "search.go" "../" "github.go")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/acceptance/" (22515 19964 0 0) "v0/" "../" "./")
 
- ("/home/htmldrum/go/src/gopl.io/ch4/nonempty/" (22408 27415 984797 56000) "./" "../" "main.go")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/config/" (22516 19459 0 0) "secrets.yml" "routes.rb" "puma.rb" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "boot.rb" "application.rb" "#routes.rb#" "../" "./")
 
- ("/home/htmldrum/go/src/gopl.io/" (22399 18752 603006 397000) "ch7/" "ch3/" ".git/" "./" "ch12/" "ch5/" "ch9/" "README.md" "../" "ch2/" "ch10/" "ch8/" "ch4/" "ch6/" "ch13/" "ch11/" "ch1/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/app/serializers/v0/" (22516 18718 0 0) "user_serializer.rb" "update_log_serializer.rb" "ticket_serializer.rb" "site_serializer.rb" "report_serializer.rb" "promotion_serializer.rb" "mapping_serializer.rb" "location_serializer.rb" "flow_serializer.rb" "engine_build_serializer.rb" "comment_serializer.rb" "admin_serializer.rb" "../" "./")
 
- ("/home/htmldrum/go/src/" (22399 18747 858982 873000) "./" "gopl.io/" "zombiezen.com/" "golang.org/" "../" "github.com/" "gopkg.in/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/serializers/v0/" (22516 17153 0 0) "user_serializer_spec.rb" "update_log_serializer_spec.rb" "ticket_serializer_spec.rb" "site_serializer_spec.rb" "report_serializer_spec.rb" "promotion_serializer_spec.rb" "mapping_serializer_spec.rb" "location_serializer_spec.rb" "flow_serializer_spec.rb" "engine_build_serializer_spec.rb" "comment_serializer_spec.rb" "admin_serializer_spec.rb" "../" "./")
 
- ("/home/htmldrum/go/" (22393 59033 844778 372000) "src/" "./" "../" "bin/" "pkg/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/models/" (22516 18403 0 0) "ticket_spec.rb" "tenant_spec.rb" "site_spec.rb" "schema_spec.rb" "report_spec.rb" "promotion_spec.rb" "mapping_spec.rb" "location_spec.rb" "flow_spec.rb" "engine_build_spec.rb" "admin_spec.rb" ".#promotion_spec.rb" "../" "./")
 
- ("/home/htmldrum/tmp/htmldrum.github.io/" (22395 49406 802991 400000) "Gemfile.lock" "blog.html" ".git/" "_data/" "./" "index.html" "media/" "deploy.sh" "_config.yml~" "Gemfile" "presentations/" "css/" "Makefile~" "_config.yml" "_layouts/" ".ruby-version" "_plugins/" "watch.sh~" "_posts/" "../" "images/" "index.html~" "Makefile" "index.html.1" ".#index.html.1" "watch.sh" ".gitignore" "_site/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/db/migrate/" (22515 20439 0 0) "20161004064219_adds_promos.rb" "20160928060317_admin_belongs_to_user.rb" "20160923062916_drop_tenant_sites.rb" "20160919031656_generate_normalized_site_names.rb" "20160919014829_remove_tenant_sites.rb" "20160918233242_add_featured_to_sites.rb" "20160915014218_add_nomalized_name_to_sites.rb" "20160908003848_create_tenant_sites.rb" "20160908001948_create_tenants.rb" "20160906052219_add_trigram_extension.rb" "20160905063045_add_deleted_at_to_sites.rb" "20160830225904_add_timestamps_to_locations.rb" "20160830072006_add_timestamps_to_user.rb" "20160830010137_add_cascade_delete_behavior_to_dependent_tables.rb" "20160829044603_create_update_log.rb" "20160829032725_add_fetch_count_to_sites.rb" "20160825002118_remove_constraints_on_bank_information.rb" "20160822010145_create_engine_builds.rb" "20160818063929_refine_columns_from_users.rb" "20160815014912_change_log_column_type_to_text_from_reports.rb" "20160809042642_add_logo_to_site.rb" "20160808064656_add_locations_logo_block.rb" "20160808001448_reports_rename_blob_to_log.rb" "20160807233750_adjust_tickets_reports_relation.rb" "20160803015550_create_comments.rb" "20160803015522_create_tickets.rb" "20160802070353_add_status_as_derived_property.rb" "20160801044922_create_reports.rb" "20160728233213_add_unique_index_to_sites.rb" "20160728053129_create_flows.rb" "20160728011315_devise_create_admins.rb" "20160727055333_drop_widgets.rb" "20160727055147_create_users.rb" "20160725061705_create_sites.rb" "20140707111715_create_widgets.rb" "#20160928060317_admin_belongs_to_user.rb#" "../" "./")
 
- ("/home/htmldrum/tmp/htmldrum.github.io/_layouts/" (22395 8757 661423 192000) "post.html" "cv.html" "./" "default.html" "post.html~" "../" "default.html~")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/app/models/" (22516 16836 0 0) "user.rb" "update_log.rb" "ticket.rb" "tenant.rb" "site.rb" "schemas/" "schema.rb" "report.rb" "promotion.rb" "mapping.rb" "location.rb" "flow.rb" "engine_build.rb" "concerns/" "comment.rb" "admin.rb" "#site.rb#" "../" "./")
 
- ("/home/htmldrum/go/src/github.com/htmldrum/abcd/cmd/abcd/" (22395 8169 970508 990000) "abcd_test.go" "./" "abcd.go" "read_config.go" "../" "ustructs.go" "abcd_suite_test.go")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/" (22515 24819 0 0) "test_files/" "support/" "spec_helper.rb" "serializers/" "routes_spec.rb" "requests/" "request_spec_helper.rb" "rails_helper.rb" "models/" "factories.rb" "docs_helper.rb" "devise_helper.rb" "controllers/" "acceptance/" "../" "./")
 
- ("/home/htmldrum/go/src/github.com/" (22395 8334 911326 887000) "nicksnyder/" "daddye/" "bw/" "docker/" "gin-gonic/" "kr/" "./" "htmldrum/" "golang/" "spf13/" "manucorporat/" "codegangsta/" "gorilla/" "dorajistyle/" "lib/" "../" "camlistore/" "disintegration/" "franela/" "goamz/" "Sirupsen/" "glycerine/" "maxbrunsfeld/" "vaughan0/" "onsi/" "jinzhu/" "pkg/" "olebedev/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/db/" (22515 19964 0 0) "site_example.json" "schema.rb" "migrate/" "../" "./")
 
- ("/home/htmldrum/go/src/github.com/Sirupsen/logrus/" (22393 59033 284775 595000) ".travis.yml" "hooks/" "entry_test.go" "writer.go" "formatter_bench_test.go" "LICENSE" ".git/" "./" "logrus_test.go" "logger.go" "hook_test.go" "examples/" "entry.go" "exported.go" "json_formatter_test.go" "json_formatter.go" "terminal_solaris.go" "text_formatter_test.go" "README.md" "../" "logrus.go" "text_formatter.go" "terminal_windows.go" "CHANGELOG.md" "doc.go" "hooks.go" "formatter.go" "terminal_bsd.go" ".gitignore" "terminal_linux.go" "formatters/" "terminal_notwindows.go")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/" (22515 15398 0 0) "vendor/" "TODO" "tmp/" "spec/" "README.md" "Rakefile" "public/" "Procfile" "Makefile" "log/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "doc/" "db/" "config.ru" "config/" "ci/" "bin/" "app.json" "app/" ".travis.yml" ".ruby-version" ".rubocop.yml" ".rspec" ".prubocop.yml" ".gitmodules" ".gitignore" ".git/" ".env" "../" "./")
 
- ("/home/htmldrum/go/src/github.com/Sirupsen/" (22393 59030 468761 631000) "./" "../" "logrus/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/.git/" (22515 1652 0 0) "refs/" "packed-refs" "ORIG_HEAD" "objects/" "modules/" "logs/" "info/" "index" "hooks/" "HEAD" "FETCH_HEAD" "description" "config" "COMMIT_EDITMSG" "branches/" ".#COMMIT_EDITMSG" "../" "./")
 
- ("/home/htmldrum/go/src/github.com/docker/docker/cmd/dockerd/" (22393 58252 832905 543000) "service_unsupported.go" "docker_windows.go" "daemon_solaris.go" "daemon_unix.go" "./" "daemon_no_plugin_support.go" "daemon.go" "docker.go" "routes.go" "routes_experimental.go" "daemon_test.go" "README.md" "hack/" "../" "service_windows.go" "daemon_windows.go" "daemon_unix_test.go" "daemon_linux.go" "daemon_plugin_support.go" "daemon_freebsd.go")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/app/controllers/v0/schemas/" (22515 1072 0 0) "sites.json" "site.json" "mappings.json" "mapping.json" "logo.json" "location.json" "flows.json" "flow.json" "engine_builds.json" "engine_build.json" "admins.json" "admin.json" ".#admin.json" "#logo.json#" "../" "./")
 
- ("/home/htmldrum/go/src/github.com/docker/docker/cmd/docker/" (22393 58252 828905 524000) "docker_windows.go" "daemon_none_test.go" "daemon_unix.go" "./" "daemon.go" "usage_test.go" "usage.go" "docker.go" "../" "docker_test.go" "daemon_none.go")
+ ("/Users/htmldrum/code/maxwellforest/" (22515 497 0 0) "tools/" "onefill_pud/" "onefill_oba/" "onefill_maps_api/" "onebank_ios/" "onebank_adapter/" "ci/" "a/" ".DS_Store" "../" "./")
 
- ("/home/htmldrum/go/src/github.com/docker/docker/cmd/" (22393 58252 828905 524000) "docker/" "./" "dockerd/" "../")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/serializers/" (22504 39361 0 0) "v0/" "../" "./")
 
- ("/home/htmldrum/go/src/github.com/docker/docker/" (22393 58253 272907 725000) "profiles/" "cliconfig/" "utils/" "Dockerfile.armhf" "distribution/" "cli/" "errors/" "VERSION" "LICENSE" ".git/" "man/" ".mailmap" "./" "opts/" "MAINTAINERS" "libcontainerd/" "AUTHORS" "integration-cli/" "Dockerfile.aarch64" "migrate/" "Dockerfile.ppc64le" "VENDORING.md" "reference/" "runconfig/" "restartmanager/" "image/" "Dockerfile.gccgo" "ROADMAP.md" "api/" "container/" "CONTRIBUTING.md" "vendor/" "README.md" "registry/" ".dockerignore" "oci/" "hack/" "experimental/" "../" ".github/" "docs/" "layer/" "cmd/" "Dockerfile.windows" "Makefile" "daemon/" "NOTICE" "CHANGELOG.md" "project/" "dockerversion/" "volume/" "plugin/" "contrib/" ".gitignore" "pkg/" "Dockerfile.simple" "builder/" "Dockerfile.s390x" "Dockerfile")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/serializers/v0/" (22507 1662 0 0) "user_serializer.rb" "point_serializer.rb" "debit_card_serializer.rb" "credit_card_serializer.rb" "billing_address_serializer.rb" "address_serializer.rb" "account_serializer.rb" "../" "./")
 
- ("/home/htmldrum/go/src/github.com/docker/" (22393 58176 816528 599000) "docker/" "./" "../")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/serializers/v0/" (22507 1901 0 0) "user_serializer_spec.rb" "point_serializer_spec.rb" "debit_card_serializer_spec.rb" "credit_card_serializer_spec.rb" "billing_address_serializer_spec.rb" "address_serializer_spec.rb" "account_serializer_spec.rb" "../" "./")
 
- ("/home/htmldrum/go/src/github.com/htmldrum/" (22393 52411 939942 119000) "bw/" "./" "abcd/" "../" "test/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/support/" (22500 42975 0 0) "soft_deletable_shared_example.rb" "response_helpers.rb" "resource_helpers.rb" "request_show_shared_examples.rb" "request_shared_context.rb" "request_index_shared_examples.rb" "json_schema_show_shared_example.rb" "json_schema_index_shared_example.rb" "json_matchers.rb" "has_status_spec.rb" "fixtures/" "factory_girl.rb" "authentication_shared_context.rb" "acceptance_show_shared_context.rb" "acceptance_shared_context.rb" "acceptance_index_shared_context.rb" "../" "./")
 
- ("/home/htmldrum/go/src/github.com/htmldrum/abcd/" (22395 849 314207 816000) ".git/" "./" "abcd" "meetup.go" "README.md" "../" "make.goz" "cmd/" "Makefile" "pkg/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/controllers/" (22514 64220 0 0) "v0/" "root_controller_spec.rb" "../" "./")
 
- ("/home/htmldrum/go/src/github.com/htmldrum/abcd/cmd/" (22393 57770 138511 991000) "./" "abcv/" "abcd/" "../")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/app/serializers/" (22491 21814 0 0) "v0/" "../" "./")
 
- ("/media/htmldrum/Samsung USB/workspace/tools/js/" (22393 49253 0 0) "opengl_readings.md" "../" "./")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/config/" (22514 61069 0 0) "../" "./")
 
- ("/media/htmldrum/Samsung USB/workspace/tools/go/golang.org/" (22393 49095 0 0) "objdump.bin" "debugging_with_gdb.md" "writing_web_applications/" "documentation/" "a_tour_of_go/" "../" "./")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/controllers/v0/" (22507 5662 0 0) "users_controller.rb" "sessions_controller.rb" "concerns/" "base_controller.rb" "addresses_controller.rb" "accounts_controller.rb" "../" "./")
 
- ("/tmp/" (22393 46097 328629 653000) ".font-unix/" "systemd-private-8e1ba4abe1904f32991685b2e0ab752d-rtkit-daemon.service-E3lBiW/" "orbit-htmldrum/" "systemd-private-8e1ba4abe1904f32991685b2e0ab752d-colord.service-vIW4bG/" ".ICE-unix/" ".Test-unix/" "hsperfdata_htmldrum/" ".X0-lock" "temp219340007341863811244864523929256/" "temp3188415949404607045097330804145/" "emacs1000/" "temp385350702818643991345469465172708/" "ssh-OoFPBG7mozzP/" "temp372057777141920439844966554278021/" "temp652196858974064634444957910743741/" "cascalog_reserved/" "objdump.bin" ".XIM-unix/" "temp615077334372906962844949709956337/" "tracker-extract-files.1000/" ".X11-unix/" "temp907270618484208819545135563849005/" "hadoop-htmldrum/" "res" "../" "./" "mozilla_htmldrum0/" "temp157420563963764383345250716707692/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/controllers/" (22504 39361 0 0) "v0/" "root_controller.rb" "application_controller.rb" "../" "./")
 
- ("/usr/local/go/src/regexp/" (22393 45106 51714 176000) "backtrack.go" "syntax/" "onepass_test.go" "exec2_test.go" "testdata/" "find_test.go" "exec_test.go" "onepass.go" "regexp.go" "exec.go" "all_test.go" "../" "regexp.test" "./" "example_test.go")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/" (22504 39361 0 0) "serializers/" "models/" "helpers/" "controllers/" "../" "./")
 
- ("/media/htmldrum/" (22393 40532 177033 556000) "../" "./" "Samsung USB/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/config/" (22507 1949 0 0) "secrets.yml" "routes.rb" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "boot.rb" "application.rb" "../" "./")
 
- ("/media/htmldrum/Samsung USB/workspace/tools/ruby/" (22393 44631 0 0) "linux_scripts.md" "concurrent_ruby/" "bastardsbook/" "text_processing_with_ruby/" "ruby/" "tr4w/" "testing/" "system_orchestration/" "ruby_performance_optimization/" ".DS_Store" "ruby_best_practices/" "rails/" "first_gem/" "exceptional_ruby/" "design-patterns-in-ruby/" "confident_ruby/" "../" "./")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/controllers/v0/" (22497 59462 0 0) "sites_controller_spec.rb" "application_controller_spec.rb" "../" "./")
 
- ("/home/htmldrum/go/src/github.com/htmldrum/bw/" (22393 35081 466495 820000) "./" "bw.go" "../")
+ ("/Users/htmldrum/code/maxwellforest/ci/jira/" (22514 60579 0 0) "notifier.rb" "../" "./")
 
- ("/home/htmldrum/go/src/github.com/bw/" (22393 34935 801773 508000) "./" "../")
+ ("/Users/htmldrum/code/maxwellforest/ci/" (22490 12651 0 0) "travis_job.rb" "spec/" "README.md" "jira/" "ios/" "Gemfile.lock" "Gemfile" "before_script.rb" "after_success.rb" ".travis.yml" ".travis.ci.yml" ".ruby-version" ".rspec" ".git/" "../" "./")
 
- ("/media/htmldrum/Samsung USB/workspace/tools/go/golang.org/a_tour_of_go/" (22340 28724 0 0) "notes.md" "exercise-maps.go" "../" "./")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/app/controllers/" (22507 9541 0 0) "v0/" "sessions_controller.rb" "root_controller.rb" "application_controller.rb" "../" "./")
 
- ("/home/htmldrum/go/src/github.com/htmldrum/test/" (22392 60110 13630 208000) "test.go" "./" "../")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/app/" (22495 14652 0 0) "views/" "validators/" "serializers/" "models/" "mailers/" "controllers/" "concerns/" "assets/" "../" "./")
 
- ("/home/htmldrum/go/src/github.com/htmldrum/hello/" (22392 59780 367995 584000) "./" "../")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/acceptance/v0/" (22507 2442 0 0) "users_spec.rb" "sessions_spec.rb" "../" "./")
 
- ("/media/htmldrum/Samsung USB/workspace/projects/htmldrum.github.io/_posts/" (22392 38647 0 0) "2016-07-03-abc-cli.md" "2015-11-22-setting-up-a-gce-environment.md~" "2015-11-22-setting-up-a-gce-environment.md" "2015-07-03-useful-ruby-tools.md" ".#2016-07-03-abc-cli.md" "#2016-07-03-abc-cli.md#" "todo.txt" "2013-03-21-blinded-by-symbolism.md" "2011-07-29-flex-as3p-note-5.md~" "2015-05-14-provisioning-vagrant-with-bash.md" "2011-08-19-ludum-dare-48.md" "2014-11-21-nested-query-sets-and-elasticsearch.md" "2012-05-21-svn-E2000031.md" "2013-02-05-basics-of-provisioning-nodes-with-puppet.md" "2011-10-21-pre-commit-testing.md" "2010-10-05-zeroconf.md~" "2014-12-20-application-controllers-in-rails.md" "2016-06-26-shit-for-the-shit-god.md~" "2011-04-19-overview-of-rack-and-cabinet-design.md" "2014-10-15-elasticsearch-mappings-and-filters.md" "2009-06-06-visual-feedback-in-the-dom.md" "2012-04-11-rabbitmq-the-best-friend-you-never-knew.md" "2012-02-15-python-alg-package.md" "2015-01-12-benefits-of-scheme.md" "2013-11-15-zeroconf-networking.md~" "2016-03-01-concurrent-ruby.md~" "2016-03-01-concurrent-ruby.md" "2014-08-06-top-down-depth-first-tree-parser.md" "2012-02-12-django-on-aws.md" "2014-02-11-nodejs-init-script.md" "2011-07-18-flex-builder-3-error-occured-while-packaging-the-application.md" "2016-06-26-shit-for-the-shit-god.md" "2011-07-29-flex-as3p-note-5.md" "2014-02-12-clustering-in-nodejs.md" "2013-07-04-service--oriented-architecutre.md~" "2014-08-02-object-construction-in-javascript.md" "2013-07-04-service--oriented-architecutre.md" "2011-05-08-away-3d-dev-note.md" "2011-08-18-gae-dev-note.md" "2012-07-10-scripting-layouts-in-tmux-for-mac.md" "2012-03-17-semaphores-in-js.md" "2009-05-02-mousecapture-with-jquery.md" "2010-12-25-crappy-codealong-christmas.md" "2010-06-02-tox.md" "2011-12-28-how-to-setup-google-checkout-in-python.md" "2013-11-15-zeroconf-networking.md" "2011-11-11-symfony-20-installation-instructions.md" "../" "./")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/acceptance/" (22504 39361 0 0) "v0/" "../" "./")
 
- ("/media/htmldrum/Samsung USB/workspace/tools/clojure/clojure_recipes/" (22392 36309 0 0) "stock-ticker-demo/" "rest-media-demo/" "rest-demo/" "pedestal-hello-world/" "logging-macro-demo/" "json-demo/" "cljs-rest-client-server-demo/" "cascalog-intro/" "notes.md" "../" "./")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/" (22507 1933 0 0) "support/" "spec_helper.rb" "serializers/" "routes_spec.rb" "requests/" "request_spec_helper.rb" "rails_helper.rb" "models/" "factories.rb" "docs_helper.rb" "acceptance/" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/" (22392 32055 694516 352000) "rest-media-demo/" "cljs-rest-client-server-demo/" "./" "rest-demo/" "logging-macro-demo/" "../" "pedestal-hello-world/" "cascalog-intro/" "json-demo/" "stock-ticker-demo/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/" (22507 3651 0 0) "vendor/" "tmp/" "spec/" "README.md" "Rakefile" "public/" "Procfile" "Makefile" "log/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "doc/" "db/" "config.ru" "config/" "ci/" "bin/" "app.json" "app/" ".travis.yml" ".ruby-version" ".rubocop.yml" ".rspec" ".prubocop.yml" ".gitmodules" ".gitignore" ".git/" ".env" "../" "./")
 
- ("/home/htmldrum/Downloads/" (22391 3010 564353 590000) "__MACOSX/" "chronicle/" "clojure_recipes/" "./" "growdiary_singlestrain_page_beta(1).png" "growdiary_page(1).png" "article_page(1).png" "docs.zip" "quill.tar.gz" "../" "phoenix-training.mp4" "docs/" "growdiary_singlestrain_page_beta.png" "growdiary_page.png" "article_page.png" "jm.jpg" "text-processing-with-ruby_p1_0.pdf" "credentials.csv")
+ ("/Users/htmldrum/.Trash/emacs/onefill_oba.~1~/" (22504 52481 0 0) "vendor/" "tmp/" "spec/" "README.md" "Rakefile" "public/" "Procfile" "Makefile" "log/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "doc/" "db/" "config.ru" "config/" "ci/" "bin/" "app.json" "app/" ".travis.yml" ".ruby-version" ".rubocop.yml" ".rspec" ".prubocop.yml" ".gitmodules" ".gitignore" ".git/" ".env" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/cascalog-intro/" (22392 32773 802077 255000) "target/" "LICENSE" "src/" ".hgignore" "./" "project.clj" ".lein-repl-history" "doc/" "README.md" "../" "test/" "CHANGELOG.md" ".gitignore" "resources/" ".lein-failures")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/models/" (22504 38727 0 0) "user_spec.rb" "tenant_spec.rb" "point_spec.rb" "debit_card_spec.rb" "credit_card_spec.rb" "charge_method_spec.rb" "billing_address_spec.rb" "address_spec.rb" "account_spec.rb" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/cascalog-intro/resources/" (22392 32743 889928 929000) "./" "../" "log4j.properties")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/models/" (22504 38727 0 0) "user.rb" "tenant.rb" "point.rb" "debit_card.rb" "credit_card.rb" "concerns/" "charge_method.rb" "billing_address.rb" "admin.rb" "address.rb" "account.rb" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/cascalog-intro/test/cascalog_intro/" (22392 32665 529540 361000) "./" "../" "core_test.clj")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/db/" (22504 38797 0 0) "schema.rb" "migrate/" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/cascalog-intro/test/" (22392 32055 698516 372000) "./" "../" "cascalog_intro/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/requests/v1/" (22504 38240 0 0) "users_spec.rb" "sessions_spec.rb" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/logging-macro-demo/" (22392 29819 499427 659000) "target/" "LICENSE" "src/" ".hgignore" "./" "project.clj" "doc/" "README.md" "../" "test/" "CHANGELOG.md" ".gitignore" "resources/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/requests/" (22504 37008 0 0) "v0/" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/logging-macro-demo/src/logging_macro_demo/" (22392 29085 623788 567000) "core.clj" "#core.clj#" "./" "../" ".#core.clj")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/serializers/" (22504 36953 0 0) "v0/" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/logging-macro-demo/src/" (22392 29026 179493 798000) "./" "../" "logging_macro_demo/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/acceptance/v1/" (22504 36428 0 0) "users_spec.rb" "sessions_spec.rb" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/stock-ticker-demo/src/stock_ticker_demo/" (22392 28411 604446 285000) ".#price_feed.clj" "service.clj" "./" "server.clj" "#price_feed.clj#" "../" "price_feed.clj")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/requests/v0/" (22504 35404 0 0) "users_spec.rb" "sessions_spec.rb" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/stock-ticker-demo/src/" (22392 27563 740241 954000) "./" "stock_ticker_demo/" "../")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/models/concerns/" (22504 35200 0 0) "chargeable.rb" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/stock-ticker-demo/" (22392 27803 33428 545000) "src/" "./" "project.clj" "README.md" "../" "test/" "Capstanfile" "config/" ".gitignore" "resources/" "Dockerfile")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/ci/ios/" (22504 33295 0 0) "update_bundle.rb" "sign_and_upload.rb" "remove_key.rb" "encrypt_profile.rb" "add_key.rb" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/stock-ticker-demo/resources/" (22392 27582 884336 884000) "./" "public/" "../")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/ci/" (22504 33295 0 0) "travis_job.rb" "spec/" "README.md" "jira/" "ios/" "Gemfile.lock" "Gemfile" "before_script.rb" "after_success.rb" ".travis.yml" ".travis.ci.yml" ".rspec" ".git" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/stock-ticker-demo/resources/public/" (22392 27744 329137 446000) "./" "css/" "../" "stocks.html")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/support/" (22504 30672 0 0) "response_helpers.rb" "resource_helpers.rb" "request_show_shared_examples.rb" "request_shared_context.rb" "request_index_shared_examples.rb" "json_schema_show_shared_example.rb" "json_schema_index_shared_example.rb" "json_matchers.rb" "fixtures/" "factory_girl.rb" "authentication_shared_context.rb" "acceptance_show_shared_context.rb" "acceptance_shared_context.rb" "acceptance_index_shared_context.rb" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/stock-ticker-demo/resources/public/css/" (22392 27628 64560 921000) "./" "bootstrap.css" "../")
+ ("/Volumes/Samsung USB/workspace/tools/go/the_go_programming_language/" (22503 17502 0 0) "The Go Programming Language.pdf" "#notes.md#" "._The Go Programming Language.pdf" "examples/" "notes.md" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/pedestal-hello-world/src/pedestal_hello_world/" (22392 26056 520768 56000) "service.clj" "./" "server.clj" "../")
+ ("/Users/htmldrum/go/src/gopl.io/ch4/dedup/" (22502 64540 0 0) "main.go" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/pedestal-hello-world/" (22392 26045 828715 37000) "target/" "logs/" "src/" "./" "project.clj" "README.md" "../" "test/" "Makefile" "Capstanfile" "config/" ".gitignore" "resources/" "Dockerfile")
+ ("/Users/htmldrum/go/src/gopl.io/ch4/" (22502 64540 0 0) "treesort/" "sha256/" "rev/" "nonempty/" "movie/" "issuesreport/" "issueshtml/" "issues/" "graph/" "github/" "embed/" "dedup/" "charcount/" "autoescape/" "append/" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/pedestal-hello-world/resources/public/" (22392 24985 791458 596000) "./" "index.html" "../")
+ ("/Users/htmldrum/go/src/gopl.io/" (22502 64540 0 0) "README.md" "ch9/" "ch8/" "ch7/" "ch6/" "ch5/" "ch4/" "ch3/" "ch2/" "ch13/" "ch12/" "ch11/" "ch10/" "ch1/" ".git/" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/pedestal-hello-world/src/" (22391 30574 210318 107000) "pedestal_hello_world/" "./" "../")
+ ("/Users/htmldrum/go/src/" (22502 64608 0 0) "gopl.io/" "golang.org/" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/pedestal-hello-world/resources/" (22391 30596 550428 885000) "./" "public/" "../")
+ ("/Users/htmldrum/go/" (22502 64637 0 0) "src/" "pkg/" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/json-demo/resources/public/" (22391 14026 44260 183000) "./" "../" "postjson.html")
+ ("/Users/htmldrum/code/htmldrum/go/the_go_programming_language/" (22502 17982 0 0) "chp4/" "chp1/" ".DS_Store" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/json-demo/" (22391 13677 738533 28000) "src/" "./" "project.clj" "README.md" "../" "test/" ".gitignore" "resources/")
+ ("/cores/" (22223 34085 0 0) "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/resources/public/" (22391 12901 422683 485000) "./" "index.html" "../")
+ ("/Users/htmldrum/code/htmldrum/go/" (22494 16612 0 0) "the_go_programming_language/" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/out/" (22391 11391 731197 329000) "cljs_rest_client_server_demo/" "cljs_rest_client_server_demo.js" "./" "goog/" "clojure/" "cljs/" "../" "cljs_deps.js")
+ ("/Users/htmldrum/code/htmldrum/go/the_go_programming_language/chp4/" (22503 17485 0 0) "slices.go" "sha256.go" "sha256" "maps.go" "ex.go" "arrays.go~" "arrays.go" "append.go" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/" (22391 13224 216284 132000) "target/" "out/" "src-cljs/" "out-adv/" "src/" "./" "project.clj" "index.html" "index_release.html" "README.md" "../" "scripts/" ".gitignore" "resources/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/db/migrate/" (22499 29392 0 0) "20160922034823_constraint_chargeables_to_has_one.rb" "20160922031946_add_timestamps_to_points.rb" "20160922021436_add_cascade_delete_to_chargeable.rb" "20160922002635_drop_bills.rb" "20160921234617_add_uui_dto_billing_address.rb" "20160921063435_update_data_model.rb" "20160921052309_remove_column_balance_accounts.rb" "20160921042606_chargeable.rb" "20160913234828_add_account_type_to_accounts.rb" "20160913040940_create_billing_addresses.rb" "20160912051616_add_devise_to_admins.rb" "20160912050446_setup_all_database.rb" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/resources/" (22391 12102 422721 458000) "./" "public/" "../")
+ ("/Users/htmldrum/.irssi/" (22339 45624 0 0) "config.autosave" "config" ".irssi/" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/src/" (22391 12143 378924 549000) "cljs-rest-client-server-demo/" "./" "../")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/config/initializers/" (22497 60603 0 0) "wrap_parameters.rb" "session_store.rb" "secrets.rb" "rails_admin.rb" "mime_types.rb" "inflections.rb" "filter_parameter_logging.rb" "devise.rb" "cookies_serializer.rb" "backtrace_silencers.rb" "assets.rb" "apitome.rb" "ams.rb" "action_controller.rb" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/src/cljs-rest-client-server-demo/" (22391 12162 451019 123000) "./" "handler.clj" "../")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/models/concerns/" (22498 8485 0 0) "chargeable_spec.rb" ".#chargeable_spec.rb" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/cljs-rest-client-server-demo/src-cljs/cljs_rest_client_server_demo/" (22391 11315 870821 158000) "./" "../" "core.cljs")
+ ("/Users/htmldrum/code/maxwellforest/onebank_ios/" (22491 33069 0 0) "test.sh" "README.md" "profile/" "Pods/" "Podfile.lock" "Podfile" "OneBankTests/" "OneBank.xcworkspace/" "OneBank.xcodeproj/" "Onebank.png" "OneBank/" "Makefile~" "Makefile" "Gemfile~" "Gemfile.lock" "Gemfile" "Fabric.framework/" "Crashlytics.framework/" "certs/" "bin/" ".travis.yml~" ".travis.yml" ".ruby-version" ".gitignore" ".git/" ".DS_Store" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/rest-media-demo/src/rest_media_demo/" (22391 10475 846655 703000) "./" "handler.clj" "../")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/lib/" (22497 59462 0 0) "tasks/" "rails_admin/" "assets/" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/rest-demo/" (22391 10376 738164 251000) "target/" "src/" "./" "project.clj" "README.md" "../" "test/" "Makefile" ".gitignore" "resources/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/lib/rails_admin/" (22497 59462 0 0) "soft_destroy_site.rb" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/rest-media-demo/" (22391 9104 55853 360000) "target/" "src/" "./" "project.clj" "README.md" "../" "test/" ".gitignore" "resources/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/config/initializers/" (22497 59462 0 0) "wrap_parameters.rb" "session_store.rb" "secrect.rb" "rails_admin.rb" "mime_types.rb" "inflections.rb" "filter_parameter_logging.rb" "devise.rb" "cookies_serializer.rb" "backtrace_silencers.rb" "assets.rb" "apitome.rb" "ams.rb" "action_controller.rb" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/rest-media-demo/src/" (22391 8573 565222 799000) "./" "rest_media_demo/" "../")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/app/concerns/" (22495 11504 0 0) "has_status.rb" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/rest-demo/src/" (22391 3031 454 928000) "rest_demo/" "./" "../")
+ ("/Users/htmldrum/code/htmldrum/generic_controller/lib/" (22496 54194 0 0) "generic_controller.rb" "../" "./")
 
- ("/home/htmldrum/Downloads/clojure_recipes/rest-demo/src/rest_demo/" (22391 4899 845722 31000) "./" "handler.clj" "../")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/ci/" (22495 16845 0 0) "travis_job.rb" "spec/" "README.md" "jira/" "ios/" "Gemfile.lock" "Gemfile" "before_script.rb" "after_success.rb" ".travis.yml" ".travis.ci.yml" ".ruby-version" ".rspec" "../" "./")
 
- ("/media/htmldrum/Samsung USB/workspace/tools/clojure/" (22390 22744 0 0) "clojure_recipes/" "algo.monads/" "logic/" "graphics/" "cljs/" "devcards/" "core.async/" "datomic/" "om/" "idioms/" "reagent/" "mastering_clojure_data_analysis/" "pedestal/" "clojure-katas/" ".DS_Store" "modern-js/" "the_joy_of_clojure/" "tdd_workflow_in_clojure_with_emacs_and_cider/" "ring/" "pepa/" "luminus/" "liberator/" "koans/" "immutant/" "compojure/" "clojure_for_machine_learning/" "clojure_distilled/" "clojure.org/" "brave_clojure/" "4clojure/" "../" "./")
+ ("/Users/htmldrum/code/htmldrum/generic_controller/" (22496 45125 0 0) "spec/" "README.md" "Rakefile" "lib/" "generic_controller.gemspec" "generic_controller-0.0.6.gem" "generic_controller-0.0.4.gem" "Gemfile.lock" "Gemfile" ".travis.yml" ".git/" "../" "./")
 
- ("/home/htmldrum/Downloads/docs/web/channels/" (22387 53205 274297 439000) "document_channel.ex" "./" "user_socket.ex" "../")
+ ("/Users/htmldrum/.emacs.d/" (22495 40576 0 0) "var/" "users/" "themes/" "snippets/" "site-lisp/" "settings/" "recentf" "README.md" "project-archetypes/" "places" "init.el~" "init.el" "ido.last" "history" "games/" "eshell/" "elpa/" "defuns/" "custom.el" "backups/" "auto-save-list/" ".places" ".mc-lists.el" ".gitmodules" ".gitignore" ".git/" ".emacs.d/" "../" "./")
 
- ("/home/htmldrum/Downloads/docs/web/" (22100 52994 0 0) "static/" "router.ex" "./" "views/" "channels/" "../" "templates/" "controllers/" "models/" "web.ex")
+ ("/Users/htmldrum/code/maxwellforest/a/" (22495 40321 0 0) "vendor/" "spec/" "README.md" "Rakefile" "public/" "Procfile" "Makefile" "log/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "doc/" "db/" "config.ru" "config/" "ci/" "bin/" "app.json" "app/" ".travis.yml" ".ruby-version" ".rubocop.yml" ".rspec" ".prubocop.yml" ".gitmodules" ".gitignore" ".git/" ".env" "../" "./")
 
- ("/home/htmldrum/Downloads/docs/config/" (22100 44851 0 0) "./" "dev.exs" "prod.secret.exs" "test.exs" "../" "prod.exs" "config.exs")
+ ("/Users/htmldrum/code/htmldrum/generic_controller/spec/lib/" (22495 37822 0 0) "generic_controller_spec.rb" "../" "./")
 
- ("/home/htmldrum/Downloads/docs/" (22100 52275 0 0) "./" "web/" "README.md" "lib/" "../" "mix.lock" "test/" "brunch-config.js" "package.json" "deps/" "priv/" "mix.exs" "_build/" "config/" ".gitignore" "node_modules/")
+ ("/Users/htmldrum/code/htmldrum/generic_controller/spec/" (22495 37247 0 0) "spec_helper.rb" "lib/" "../" "./")
 
- ("/media/htmldrum/Samsung USB/workspace/tools/elixir/phoenix-training/" (22387 52725 0 0) "notes.md" "../" "./")
+ ("/Users/htmldrum/code/htmldrum/" (22495 37244 0 0) "go/" "generic_controller/" "dotfiles/" "../" "./")
 
- ("/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/code/nlp/" (22387 51213 0 0) "urls.txt" "simple-search.rb" "readability.rb" "metaphone-search.rb" "levenshtein-search.rb" "extracting-text.rb" "extracting-terms.txt" "extracting-terms.rb" "extracting-normalized-terms.rb" "articles.json" "../" "./")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/serializers/" (22491 21814 0 0) "v0/" "../" "./")
 
- ("/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/code/parslet/" (22372 21280 0 0) "parser.rb" "config.txt" "../" "./")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/log/" (22495 9795 0 0) "test.log" "development.log" ".keep" "../" "./")
 
- ("/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/code/strscan/" (22372 21280 0 0) "list.rb" "config.txt" "config.rb" "../" "./")
+ ("/Volumes/Samsung USB/workspace/" (22421 21662 0 0) "jm_cv_and_coverletter.pdf" "cv.pdf" "projects/" "elearning/" "bus/" "bin/" "goals/" ".RubyMine70/" ".rnd" ".rediscli_history" ".pyenv/" ".psql_history" ".pry_history" ".profile~" ".profile" ".packer.d/" ".oracle_jre_usage/" ".nw-gyp/" "code/" ".nodenv/" ".node-gyp/" ".netrc" ".multirust/" ".mono/" ".mkshrc" ".mix/" "tools/" ".local/" ".lldb/" ".lesshst" ".lein/" ".kiex/" ".julia_history" ".ivy2/" ".irssi/" ".irb-history" ".idris/" ".history" ".hgignore_global" ".hex/" ".heroku/" ".guard_history" ".gnupg/" ".gitignore_global" ".gitignore" ".gitconfig" ".ghc/" ".gem/" ".fontconfig/" ".exenv/" ".emacs_tmp/" ".emacs.exper" ".emacs.d" ".elm/" "._.DS_Store" ".DS_Store" ".docker/" ".cups/" ".config/" ".chefdk/" ".CFUserTextEncoding" ".cargo/" ".cache/" ".cabal/" ".boot2docker/" ".bashrc~" ".bashrc" ".bash_sessions/" ".bash_rc" ".bash_profile~" ".bash_profile.backup" ".bash_profile" ".bash_history" ".aws/" ".android/" "../" "./")
 
- ("/media/htmldrum/Samsung USB/workspace/tools/ruby/text_processing_with_ruby/code/rtf/" (22387 26723 0 0) "transformation.rb" "parser.rb" "hello-world.rtf" "complex.rtf" "colors.rtf.tree" "colors.rtf" "colors.html" "bold.rtf" "../" "./")
+ ("/Volumes/Samsung USB/" (22466 22134 0 0) "._.TemporaryItems" ".TemporaryItems/" "phoenix-training.mp4" "workspace/" ".fseventsd/" ".Trash-1000/" ".Spotlight-V100/" ".Trashes/" "._.Trashes" "../" "./")
 
- ("/media/htmldrum/Samsung USB/workspace/tools/elixir/" (22387 25083 0 0) "dev_notes.md" "dev_notes.md~" "programming_elixir/" "elixir/" "mogo-chat/" "metaprogramming_elixir/" "docs/" "../" "./")
+ ("/Volumes/" (22495 7559 0 0) "Samsung USB/" "Macintosh HD/" ".DS_Store" "../" "./")
 
- ("/media/htmldrum/Samsung USB/workspace/projects/" (22386 16100 0 0) "compose_con/" "cv/" "htmldrum.github.io/" "../" "./")
+ ("/Users/" (22421 33642 0 0) "Shared/" "htmldrum/" "Guest/" ".localized" "../" "./")
 
- ("/media/htmldrum/Samsung USB/workspace/projects/htmldrum.github.io/" (22387 942 0 0) "index.html" "_config.yml~" ".gitignore" "_plugins/" "media/" "_posts/" "_site/" "images/" "Makefile" "_data/" "watch.sh" "Makefile~" "index.html~" "deploy.sh" "watch.sh~" "_layouts/" "css/" "blog.html" "presentations/" "_config.yml" ".git/" "../" "./")
+ ("/Users/htmldrum/code/" (22491 31352 0 0) "maxwellforest/" "lymchat/" "htmldrum/" ".DS_Store" "../" "./")
 
- ("/run/" (22387 14337 389562 6000) "initramfs/" "udev/" "lock/" "systemd/" "tmpfiles.d/" "log/" "mount/" "alsa/" "user/" "initctl" "shm/" "sendsigs.omit.d/" "sshd/" "utmp" "rdnssd/" "rdnssd.pid" "network/" "rpcbind/" "rpcbind.lock" "rpcbind.sock" "rpcbind.pid" "rpc.statd.pid" "sm-notify.pid" "rpc_pipefs/" "avahi-daemon/" "dbus/" "acpid.socket" "atd.pid" "crond.pid" "crond.reboot" "sshd.pid" "minissdpd.sock" "minissdpd.pid" "apache2/" "NetworkManager/" "hogsuspend" "rsyslogd.pid" "acpid.pid" "exim4/" "gdm3/" "gdm3.pid" "dhclient-eth0.pid" "dhclient6-eth0.pid" "udisks2/" "mlocate.daily.lock" "postgresql/" "../" "./")
+ ("/media/htmldrum/Samsung USB/workspace/tools/os/unix/linkers-and-loaders/worked_examples/chp1/" (22447 49140 0 0) "a.c" "a.out" "m.c" "../" "./")
 
- ("/home/htmldrum/tmp/test_proj/config/" (22387 25233 247591 649000) "./" ".#config.exs" "../" "config.exs")
+ ("/media/htmldrum/Samsung USB/workspace/tools/os/unix/linkers-and-loaders/worked_examples/" (22447 48957 0 0) "../" "./")
 
- ("/home/htmldrum/tmp/test_proj/" (22387 21987 175495 246000) "hello_world/" "./" "README.md" "lib/" "../" "test/" "mix.exs" "_build/" "config/" ".gitignore")
+ ("/media/htmldrum/Samsung USB/workspace/tools/os/unix/linkers-and-loaders/" (22447 48643 0 0) ".#notes.md" "#notes.md#" "notes.md" "../" "./")
 
- ("/home/htmldrum/tmp/env-0.10.25-prebuilt/bin/" (22387 20120 638239 588000) "npm" "./" "node" "activate" "../" "nodejs" "shim")
+ ("/media/htmldrum/Samsung USB/workspace/tools/asm/" (22345 40186 0 0) "instruction-set-reference/" "the_art_of_assembly_language/" "reverse_engineering_for_beginners/" "linux_device_drivers/" "../" "./")
 
- ("/home/htmldrum/tmp/env-0.10.25-prebuilt/" (22387 20120 638239 588000) "LICENSE" "src/" "./" "README.md" "lib/" "../" "bin/" "ChangeLog" "share/" "include/")
+ ("/media/htmldrum/Samsung USB/workspace/tools/" (22411 22130 0 0) "compilers/" "papers/" "apache/" "nix/" "antlr/" "kubernetes/" "README.md" "computational_theory/" "web_general/" "vm/" "vim/" "text_general/" "security/" "rust/" "readability/" "raml/" "processing/" "heroku/" "design/" "networking/" "mshanken/" "math/" "js/" "java/" "ios/" "interviews/" "idris/" "htmldrum/" "haxe/" "haskell/" "gnu/" "free-programming-books/" "email/" "electronics/" "docker/" "dev_ops/" "debian/" "data/" "CVS/" "cloud/" "c_cpp/" "bash/" "asm/" "sql/" "scala/" "ruby/" "racket/" "python/" "project_management/" "php/" "os/" "notes.md" "jobs/" "javascript/" "http/" "hacking/" "go/" "general/" "factor/" "erlang/" "elm/" "elixir/" ".DS_Store" "distributed_systems/" "db/" "containers/" "clojure/" "c/" "aws/" "algorithms/" "CMS/" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

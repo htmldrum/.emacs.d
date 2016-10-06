@@ -1,5 +1,6 @@
 ;; avoid ridiculous ruby indentation
 (setq ruby-deep-indent-paren nil)
+(setq ruby-insert-encoding-magic-comment nil)
 
 (defun ruby--jump-to-test ()
   (find-file

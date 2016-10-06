@@ -3,6 +3,9 @@
 (global-set-key (kbd "C-x r q") 'save-buffers-kill-terminal)
 (global-set-key (kbd "C-x C-c") 'delete-frame)
 
+;; Corral
+(global-set-key (kbd "C-x x '") 'delete-frame)
+
 ;; Completion that uses many different methods to find options.
 (global-set-key (kbd "C-.") 'hippie-expand-no-case-fold)
 (global-set-key (kbd "C-:") 'hippie-expand-lines)
@@ -54,6 +57,9 @@
 
 ;; Replace rectangle-text with inline-string-rectangle
 (global-set-key (kbd "C-x r t") 'inline-string-rectangle)
+
+;; Shell mode
+(global-set-key (kbd "C-c s") 'shell)
 
 ;; Quickly jump in document with ace-jump-mode
 (define-key global-map (kbd "C-ø") 'ace-jump-mode)

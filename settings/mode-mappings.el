@@ -1,3 +1,7 @@
+;; XML
+(autoload 'xml-mode "xml-mode")
+(add-to-list 'auto-mode-alist '("\\.xml$" . xml-mode))
+
 ;; YAML
 (autoload 'yaml-mode "yaml-mode")
 (add-to-list 'auto-mode-alist '("\\.yml$" . yaml-mode))
@@ -42,6 +46,8 @@
 
 ;; Ruby
 (autoload 'rhtml-mode "rhtml-mode")
+(add-to-list 'auto-mode-alist '("\\.prubocop$" . ruby-mode))
+(add-to-list 'auto-mode-alist '("\\.rubocop$" . ruby-mode))
 (add-to-list 'auto-mode-alist '("\\.rake$" . ruby-mode))
 (add-to-list 'auto-mode-alist '("\\.watchr$" . ruby-mode))
 (add-to-list 'auto-mode-alist '("Rakefile$" . ruby-mode))
@@ -69,6 +75,7 @@
 
 ;; Clojure
 (autoload 'clojure-mode "clojure-mode")
+(add-to-list 'auto-mode-alist '("build\\.boot$" . clojure-mode))
 (add-to-list 'auto-mode-alist '("\\.clj$" . clojure-mode))
 (add-to-list 'auto-mode-alist '("\\.cljs$" . clojure-mode))
 (add-to-list 'auto-mode-alist '("\\.cljc$" . clojure-mode))

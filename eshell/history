@@ -1,128 +1,128 @@
-~/go/bin/ginkgo
-~/go/bin/ginkgo
-~/go/bin/ginkgo --focus SaveFeeds
-~/go/bin/ginkgo --focus SaveFeeds
-~/go/bin/ginkgo --focus SaveFeeds
-~/go/bin/ginkgo --focus SaveFeeds
-go run start_server
-go run start_server.go
-go run start_server.go
-go run start_server.go
-bash -c 'while true; do sleep 1; go run start_server.go; done'
-go run start_server.go
-go run start_server.go
-go run start_server.go
-go run start_server.go
-go run start_server.go
-go run start_server.go
-go run start_server.go
-go run start_server.go
-go run start_server.go
-go run start_server.go
-go run start_server.go
-go run start_server.go
-go get github.com/peterbourgon/how-i-start-go
-df -H
-ls -la /tmp
-rm -rf /tmp/*
-sudo rm -rf /tmp/*
-go get github.com/peterbourgon/how-i-start-go
-df -H
-cd /
-ls -la
-cd /home/
-ls -la
-ls darmock/
-ls htmldrum/
-cd htmldrum/
-ls
-ls Desktop/
-ls Documents/
-l Downloads/
-ls -la ~/Downloads/
-rm ~/Downloads/docs.zip
-df -H
-cd /
-ls -al
-cd /bin
-ls -la
-df -h
-go get github.com/peterbourgon/how-i-start-go
-ls -la /tmp
-cd /tmp
-ls -la
-cd ~/go/src/github.com/htmldrum/abcd/
-cd cmd/abcd/
-ls
-go run start_server.go
-ls -la /tmp
-sudo shutdown -r 0
-go get gopl1.io/ch1/helloworld
-go get gopl.io/ch1/helloworld
-cd ~/go/$_
-cd ~/go/src/gopl.io/
-cp ~/Downloads/The\ Go\ Programming\ Language.pdf /media/htmldrum/Samsung\ USB/workspace/tools/go/the_go_programming_language/
-go run main.go
+cd ~/code/maxwellforest/onefill_maps_api/
+git status
+spring rspec
+spring rails g migration dropTenantSites
+spring rake db:migrate
+git status
+spring rails g migration add_tenants
+go run ex.go 
+cd ../../..
+spring rspec
+spring rspec
+spring rspec
+spring rspec && make docs
+make docs
+make docs
+make docs
+make docs
+make docs
+make docs
+make docs
+make docs
+spring rspec
+make docs
+spring rspec
+make rubocop
+make rubocop
+make rubocop
+make rubocop
+make rubocop
+make rubocop
+git status
+fg
+make rubocop
+make rubocop
+make rubocop
+make rubocop
+spring rspec
+make rubocop
+make rubocop
+make rubocop
+make rubocop
+spring rspec
+make docs
+git status
+git branch
+git checkout master
+git pull --rebase
+gi fetch origin
+git fetch origin
+git checkout -b ofdd-236 origin/ofdd-236
+git branch -d ofdd-236
+git checkout -b ofdd-236 origin/ofdd-236
+git merge master
+git status
+spring rspec
+spring rspec
+cd ../..
+spring rspec
+make docs
+spring rspec
+git checkout master
+git merge --no-ff ofdd-236
+spring rspec
+find . | grep -i \#
+git status
+git branch
+git branch -d ofdd-236
+git branch
+git checkout ofdd-236
+git status
+git log
 cd ..
-cd ..
-grep -iR "var" ..
-ls 
-cd ../ch3/basename1/
-l
+rm -rf onefill_oba/
+git clone git@github.com:maxwellforest/onefill_oba.git
+git status
+git branch
+git checkout -b ofdd-233
+spring rails g migration add_card_data_to_chargeables
+irb
+spring rails c
+RAILS_ENV='test' spring rails c
+spring rails 
+spring rails c
+1.day.ago
+1.day.ago
+spring rails c
+spring rspec
+spring rake db:migrate RAILS_ENV=test
+spring rake db:migrate RAILS_ENV=test
+spring rake db:migrate RAILS_ENV=test
+spring rspec
+spring rspec
+spring rspec
+spring rspec
+spring rspec
+spring rspec
+spring rspec
+spring rspec
+spring rspec
+spring rspec ./spec/models/credit_card_spec.rb 
+spring rails c
+spring rspec
+spring rspec
+spring rspec
+spring rspec
+make docs
+spring rspec
 ls -la
-./basename1 "abce.go"
-which rbenv
-$(rbenv rehash)
-rbenv rehash
-irb
-gem install text
-gem install text
-irb
-irb
-cd ..
-cd ..
-l
-ls -la
-ruby stdout-async.rb
-ruby stdout-async.rb
-irb
-ruby -e 'fail "failing on stdout"' 2> /tmp/fail
-cat /tmp/fail
-ruby -e 'fail "failing on stdout"' &2> /tmp/fail
-cat /tmp/fail
-ls
-cd code/
-ls | grep fail
-ruby fail.rb 
-ruby fail.rb 
-ruby fail.rb 2> /tmp/fail
-cat /tmp/fail
-cd stdout/
-ruby url-sizes-progress.rb 
-printf "http://en.wikipedia.org\nhttp://bbc.co.uk/" \| ruby url-sizes-progress.rb | sort -rn
-printf "http://en.wikipedia.org\nhttp://bbc.co.uk/" | ruby url-sizes-progress.rb | sort -rn
-irb
-ls -la
-cd code/stdout/
-irb fork-puts2.rb
-irb fork-puts.rb
-irb
-ruby fork-puts2.rb
-ruby fork-puts2.rb
-ruby fork-puts2.rb
-ruby fork-puts.rb
-ruby fork-puts.rb
-ruby fork-puts.rb
-ruby fork-puts.rb
-ib
-ruby fork-puts.rb
-irb
-ps -A | grep -i post
-createdb company_data
-sudo createdb company_data
-psql
-ls -la ~/tmp
-mkdir -p ~/tmp/ruby_performance_optimization/group_rank && cd $_
-irb
-irb
-irb
+spring rspec
+spring rspec ./spec/requests/v0/users_spec.rb 
+spring rspec ./spec/requests/v0/users_spec.rb:20
+spring rspec ./spec/requests/v0/users_spec.rb:20
+spring rspec ./spec/requests/v0/users_spec.rb:20
+spring rspec ./spec/requests/v0/users_spec.rb
+spring rails c
+spring rspec
+make docs
+make rubocop
+make rubocop
+make rubocop
+make rubocop
+make rubocop
+spring rspec
+spring rspec
+git status
+git push -u origin ofdd-233
+make deploy
+heroku
