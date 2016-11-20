@@ -164,12 +164,15 @@
           scala-mode)
   (add-hook it 'turn-on-smartparens-mode))
 
+(global-auto-complete-mode)
+
 ;; Language specific setup files
 (eval-after-load 'js2-mode '(require 'setup-js2-mode))
 (eval-after-load 'ruby-mode '(require 'setup-ruby-mode))
 (eval-after-load 'clojure-mode '(require 'setup-clojure-mode))
 (eval-after-load 'markdown-mode '(require 'setup-markdown-mode))
 (eval-after-load 'go-mode '(require 'setup-go-mode))
+
 ;; Load stuff on demand
 (autoload 'skewer-start "setup-skewer" nil t)
 (autoload 'skewer-demo "setup-skewer" nil t)
@@ -245,6 +248,9 @@
 (autoload 'elisp-slime-nav-mode "elisp-slime-nav")
 (add-hook 'emacs-lisp-mode-hook (lambda () (elisp-slime-nav-mode t) (eldoc-mode 1)))
 
+;; Intero setup
+;; (add-hook 'haskell-mode-hook 'intero-mode)
+
 ;; Emacs server
 (require 'server)
 (unless (server-running-p)
@@ -258,3 +264,6 @@
 ;; Conclude init by setting up specifics for the current user
 ;(when (file-exists-p user-settings-dir)
 ;  (mapc 'load (directory-files user-settings-dir nil "^[^#].*el$")))
+
+;; Console sources .bash_profile
+(setenv "PATH" (shell-command-to-string "source ~/.bashrc; echo -n $PATH"))

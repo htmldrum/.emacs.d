@@ -1,7 +1,9 @@
-(setq visible-bell t
+(setq visible-bell nil
       font-lock-maximum-decoration t
       color-theme-is-global t
       truncate-partial-width-windows nil)
+(setq ( ring-bell-function (lambda ()
+                             (shell-command "afplay ~/.emacs.d/assets/ned.wav"))))
 
 ;; Highlight current line
 (global-hl-line-mode 1)
@@ -81,6 +83,6 @@
 (rename-modeline "js2-mode" js2-mode "JS2")
 (rename-modeline "clojure-mode" clojure-mode "Clj")
 
-(load-theme 'railscasts t)
+ (load-theme 'whiteboard t)
 
 (provide 'appearance)

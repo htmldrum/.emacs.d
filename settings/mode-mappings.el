@@ -58,6 +58,9 @@
 (add-to-list 'auto-mode-alist '("capfile" . ruby-mode))
 (add-to-list 'auto-mode-alist '("\\.erb$" . rhtml-mode))
 
+;; Rust
+(add-to-list 'auto-mode-alist '("\\.rs$" . rust-mode))
+
 ;; Puppet
 (autoload 'puppet-mode "puppet-mode")
 (add-to-list 'auto-mode-alist '("\\.pp$" . puppet-mode))

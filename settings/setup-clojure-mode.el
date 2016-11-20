@@ -199,5 +199,6 @@
 ;; TODO: Loot more stuff from:
 ;;  - https://github.com/overtone/emacs-live/blob/master/packs/dev/clojure-pack/config/paredit-conf.el
 
+(auto-complete-mode)
 
 (provide 'setup-clojure-mode)

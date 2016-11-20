@@ -1,128 +1,128 @@
-cd ~/code/maxwellforest/onefill_maps_api/
-git status
-spring rspec
-spring rails g migration dropTenantSites
-spring rake db:migrate
-git status
-spring rails g migration add_tenants
-go run ex.go 
-cd ../../..
-spring rspec
-spring rspec
-spring rspec
-spring rspec && make docs
-make docs
-make docs
-make docs
-make docs
-make docs
-make docs
-make docs
-make docs
-spring rspec
-make docs
-spring rspec
-make rubocop
-make rubocop
-make rubocop
-make rubocop
-make rubocop
-make rubocop
-git status
-fg
-make rubocop
-make rubocop
-make rubocop
-make rubocop
-spring rspec
-make rubocop
-make rubocop
-make rubocop
-make rubocop
-spring rspec
-make docs
-git status
-git branch
-git checkout master
-git pull --rebase
-gi fetch origin
-git fetch origin
-git checkout -b ofdd-236 origin/ofdd-236
-git branch -d ofdd-236
-git checkout -b ofdd-236 origin/ofdd-236
-git merge master
-git status
-spring rspec
-spring rspec
-cd ../..
-spring rspec
-make docs
-spring rspec
-git checkout master
-git merge --no-ff ofdd-236
-spring rspec
-find . | grep -i \#
-git status
-git branch
-git branch -d ofdd-236
-git branch
-git checkout ofdd-236
-git status
-git log
-cd ..
-rm -rf onefill_oba/
-git clone git@github.com:maxwellforest/onefill_oba.git
-git status
-git branch
-git checkout -b ofdd-233
-spring rails g migration add_card_data_to_chargeables
-irb
-spring rails c
-RAILS_ENV='test' spring rails c
-spring rails 
-spring rails c
-1.day.ago
-1.day.ago
-spring rails c
-spring rspec
-spring rake db:migrate RAILS_ENV=test
-spring rake db:migrate RAILS_ENV=test
-spring rake db:migrate RAILS_ENV=test
-spring rspec
-spring rspec
-spring rspec
-spring rspec
-spring rspec
-spring rspec
-spring rspec
-spring rspec
-spring rspec
-spring rspec ./spec/models/credit_card_spec.rb 
-spring rails c
-spring rspec
-spring rspec
-spring rspec
-spring rspec
-make docs
-spring rspec
-ls -la
-spring rspec
-spring rspec ./spec/requests/v0/users_spec.rb 
-spring rspec ./spec/requests/v0/users_spec.rb:20
-spring rspec ./spec/requests/v0/users_spec.rb:20
-spring rspec ./spec/requests/v0/users_spec.rb:20
-spring rspec ./spec/requests/v0/users_spec.rb
-spring rails c
-spring rspec
-make docs
-make rubocop
-make rubocop
-make rubocop
-make rubocop
-make rubocop
-spring rspec
-spring rspec
-git status
-git push -u origin ofdd-233
 make deploy
 heroku
+chmod a-r ./spec/support/Info.plist 
+chmod a+r ./spec/support/Info.plist 
+cat /tmp/balls 
+cat /tmp/balls 
+cat /tmp/balls 
+cd ../..
+cd ..
+spring rails c
+spring rake db:routes
+spring rake routes
+spring rails c
+spring rails c
+RAILS_ENV='test' spring rails c
+tail -f ./log/test.log 
+cd ../
+cd ..
+ls -la
+cd onefill_oba
+spring rails c
+spring rails c
+curl localhost:8080
+chmod +x wat.rb
+./wat.rb 
+ruby ./wat.rb 
+spring rails c
+heroku plugins:install heroku-docker
+docker-compose run web rake db:create db:schema:load
+cd ../onefill_oba
+docker-compose run web rake db:create db:schema:load
+curl "localhost:3000/v0/public/users" -d '{"user":{"uuid":"393438a4-e3d3-4451-9048-2fdfa711d56c","pin":"1234"}}' -X POST \-H "Accept: application/json" \-H "Content-Type: application/json"
+docker ps
+docker-compose run web rake db:create db:schema:load
+cd ~/code/maxwellforest/onefill_oba/
+docker-compose run web rake db:create db:schema:load
+docker ps -A
+docker ps
+docker run --hel
+docker run --help
+docker exec --help
+docker exec e09c7c814fa0 -it /bin/bash
+docker exec e09c7c814fa0 -it /bin/bash
+docker exec e09c7c814fa0 -it bash
+docker exec e09c7c814fa0 -it 
+docker exec e09c7c814fa0 bash
+docker exec e09c7c814fa0 -i bash
+docker exec -it e09c7c814fa0 /bin/bash
+cd ..
+rake secret
+docker-compose run web rake db:create db:schema:load
+docker ps
+docker exec -it 3a8fed378f33 /bin/bash
+docker run web rake db:create db:schema:load
+docker-compose run web rake db:create db:schema:load
+docker-compose run web rake db:create db:schema:load
+docker-compose run web ENV='docker' rake db:create db:schema:load
+docker-compose run --help
+docker-compose run web -e RAILS_ENV='docker' rake db:create db:schema:load
+docker-compose run -e RAILS_ENV='docker' web rake db:create db:schema:load
+docker ps
+docker-compose run -e RAILS_ENV='docker' web rake db:create db:schema:load
+spring rspec
+docker-compose run -e RAILS_ENV='docker' web rake db:create db:schema:load
+docker ps
+docker-compose run -e RAILS_ENV='docker' web rake db:create db:schema:load
+cd ../onefill_pud/
+docker-compose run -e RAILS_ENV='docker' web rake db:create db:schema:load
+docker images
+chmod +x ./docker_tag
+docker_tag onefillpud_web 0.0.1
+./docker_tag onefillpud_web 0.0.1
+chmod +x ./docker_push 
+./docker_tag
+./docker_push
+cat docker_push
+docker images 431565877614.dkr.ecr.ap-southeast-2.amazonaws.com/onefill
+./docker_tag onefillpud_web 0.0.1
+docker ps
+docker images
+./docker_tag 1ffb577f7f9f 0.0.1
+./docker_push 
+docker-compose build
+docker-compose up
+cd ../onefill_pud
+docker-compose build
+docker-compose up
+docker images | grep -i pud
+./docker_tag 2d93ef7d79a6 0.0.1
+./docker_push 
+docker-compose run -e RAILS_ENV='docker' web rake db:create db:schema:load
+docker images | grep -i maps
+./docker_tag accc3316b07a 0.0.1
+./docker_push 
+./docker_tag accc3316b07a 0.0.1
+./docker_push 
+ls -la
+chmod +x create-key-pair 
+./create-key-pair 
+./create-key-pair 
+docker-compose run -e RAILS_ENV='docker' web rake db:create db:schema:load
+./docker_tag 142314347f3b 0.0.1
+cat ./docker_push 
+./docker_push
+./docker/login
+chmod +x ./docker/login
+./docker/login 
+docker login -u AWS -p AQECAHhLyjz7PJEPmYbqH6A6f/wWNzyz5BKa37BnBPsAyuF1KQAAAuowggLmBgkqhkiG9w0BBwagggLXMIIC0wIBADCCAswGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMz12LAVpA+nnhUjoBAgEQgIICne/d8HxZCGjCaGh+bM2gzVcFYMa7Q4MB3VWy4sAOV2wZIMk1ZRDd4cSOLOqumIHK8TQ/RQAdp0mDGBD8jYzHXQazFFgBokL99w7ArDma/U2fwVaTilRiT5CpfYNor1zRcrtn5+m2pD3SULJHsE9PLBPw25nnWGZuxu/u2OqH3TK/+jjQNZq7pqi7qxbsecJK/8gB5AI/iiB0XP9MxNjgcJpX7IyOjhJG+Rn+6Hc9IE/c1WxuzvwPXxIK7Q5zTHVGoSi8bMuLOwop61yXRQqlQmGm5/Eyz9yAIFK8IscwsuJBN0yoBczdubX3wSrLID25EuZxM80PikgNEnF8uI42PoK2T1W2iL1SeEfGzEG95FIE5/kCVIi+twuwBeYY6U9D/goYQS+uC6IrvKpjhWeGasUouQibC0QOoTL/0/WIgDqrBrjYwRk76TMLCiMPqXwhw4AQo1NlD1ue7mR/9UZrk7LB0kbgiEyhwP1NuUrY7Cv3Kd+7e7uWV++vR2L7luYE/wK97fjtlInZrjeqJh17KdOd/qrdCZs9C1tgkOhcenIynpQIUaRF1WaziJf4XVPrzjY4xE8fSKec87C0qPFjo/Ebdj5x4eDbRStC8rEth4zFSHYWc9/lIUwUwYrgxBaXcLH/OR18SPWrlb465XFmuyIChyukBwCW1OEebWG0TBSf905JncKjET/qKP6jRkgxUHMSrG9DWxtURukAwXKxdkBOkTc119MxxxGkWAF8H14kbzUdiAsqOIMTbC5sw3Ksf4rqUxY1Bkuqel8eRpkanJ9VymJHmkIC4cKRE5UkYR6CYmBb/NhecZdBWN8tfc//RMCCYL/peFTmoW1GtAQJ99U20RnwmllxVCh5q7Od19ghasnI1rggxEd6hLHEQw== -e none https://431565877614.dkr.ecr.ap-southeast-2.amazonaws.com
+./docker/push 
+env | grep -i aws
+docker-compose run -e RAILS_ENV='docker' web rake db:create db:schema:load
+./docker_tag a91317ed088f 0.0.1
+./docker/tag a91317ed088f 0.0.1
+./docker/push 
+cd ../..
+pulp psci
+pulp psci
+pulp psci
+pulp psci
+pulp psci
+pulp psci
+pulp psci
+pulp psci
+pulp psci
+pulp psci
+pulp psci
+pulp psci
+pulp psci
