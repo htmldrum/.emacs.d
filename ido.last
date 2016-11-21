@@ -80,7 +80,7 @@
  ("/Users/htmldrum/code/maxwellforest/onefill_pud/app/controllers/" . "v1/")
  ("/Users/htmldrum/code/maxwellforest/onefill_pud/app/" . "controllers/")
  ("/Users/htmldrum/code/htmldrum/rust/" . "arm/")
- ("/Users/htmldrum/.emacs.d/" . "assets/")
+ ("/Users/htmldrum/.emacs.d/" . "settings/")
  ("/Users/htmldrum/.cargo/" . "bin/")
  ("/Users/htmldrum/go/src/gopl.io/ch5/" . "toposort/")
  ("/Users/htmldrum/code/htmldrum/go/the_go_programming_language/" . "chp5/")
@@ -212,12 +212,12 @@
 
 ;; ----- ido-work-directory-list -----
 (
- #("/Users/htmldrum/.emacs.d/settings/" 25 29 (face flx-highlight-face))
- "/Users/htmldrum/.emacs.d/assets/"
+ "/Users/htmldrum/"
  "/Users/htmldrum/.emacs.d/"
+ "/Users/htmldrum/.emacs.d/settings/"
+ "/Users/htmldrum/.emacs.d/assets/"
  "/Users/htmldrum/Desktop/haskell/gentle_introduction_to_haskell/"
  "/Users/htmldrum/Desktop/haskell/"
- "/Users/htmldrum/"
  "/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/controllers/v0/"
  "/Users/htmldrum/Desktop/haskell/lyah/worked_examples/"
  "/Users/htmldrum/Desktop/"
@@ -266,6 +266,7 @@
 
 ;; ----- ido-work-file-list -----
 (
+ ".emacs_bash"
  "appearance.el"
  "TODO"
  "init.el"
@@ -275,16 +276,15 @@
  ".bash_profile"
  "notes.txt"
  "notes.md"
- "fp.hs"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- (#("/Users/htmldrum/.emacs.d/settings/" 25 29 (face flx-highlight-face)) (22578 12306 0 0) "setup-yasnippet.el" "setup-skewer.el" "setup-shell.el" "setup-ruby-mode.el" "setup-rgrep.el" "setup-perspective.el" "setup-paredit.el" "setup-package.el" "setup-org.el" "setup-markdown-mode.el" "setup-magit.el" "setup-js2-mode.el" "setup-ido.el" "setup-html-mode.el" "setup-hippie.el" "setup-go-mode.el" "setup-flycheck.el" "setup-ffip.el" "setup-elnode.el" "setup-dired.el" "setup-clojure-mode.el" "sane-defaults.el" "my-misc.el" "mode-mappings.el" "mac.el" "key-bindings.el" "appearance.el" "../" "./")
+ (#("/Users/htmldrum/.emacs.d/settings/" 16 25 (face flx-highlight-face)) (22578 13041 0 0) "setup-yasnippet.el" "setup-skewer.el" "setup-shell.el" "setup-ruby-mode.el" "setup-rgrep.el" "setup-perspective.el" "setup-paredit.el" "setup-package.el" "setup-org.el" "setup-markdown-mode.el" "setup-magit.el" "setup-js2-mode.el" "setup-ido.el" "setup-html-mode.el" "setup-hippie.el" "setup-go-mode.el" "setup-flycheck.el" "setup-ffip.el" "setup-elnode.el" "setup-dired.el" "setup-clojure-mode.el" "sane-defaults.el" "my-misc.el" "mode-mappings.el" "mac.el" "key-bindings.el" "appearance.el" "../" "./")
 
- ("/Users/htmldrum/.emacs.d/" (22578 12306 0 0) "var/" "users/" "themes/" "snippets/" "site-lisp/" "settings/" "recentf" "README.md" "project-archetypes/" "places" "init.el~" "init.el" "ido.last" "history" "games/" "eshell/" "elpa/" "defuns/" "custom.el" "backups/" "auto-save-list/" "assets/" "ac-comphist.dat" ".places" ".mc-lists.el" ".gitmodules" ".gitignore" ".git/" ".emacs.d/" "../" "./")
+ (#("/Users/htmldrum/.emacs.d/" 16 25 (face flx-highlight-face)) (22578 13348 0 0) "var/" "users/" "themes/" "snippets/" "site-lisp/" "settings/" "recentf" "README.md" "project-archetypes/" "places" "init.el~" "init.el" "ido.last" "history" "games/" "eshell/" "elpa/" "defuns/" "custom.el" "backups/" "auto-save-list/" "assets/" "ac-comphist.dat" ".places" ".mc-lists.el" ".gitmodules" ".gitignore" ".git/" ".emacs.d/" "../" "./")
 
- ("/Users/htmldrum/" (22578 12306 0 0) "tmp" "Qt/" "Public/" "Pictures/" "Music/" "Movies/" "log.000" "Library/" "go/" "GitHub/" "env.wine.txt" "dump.rdb" "Downloads/" "Documents/" "Desktop/" "code/" "bin/" "Applications/" "AndroidStudioProjects/" "android_sdk/" "20160918_161758.jpg" ".wget-hsts" ".viminfo" ".v8flags.5.1.281.83.htmldrum.json" ".travis/" ".Trash/" ".todo" ".tmux.conf" ".terraform.d/" ".subversion/" ".stack/" ".ssh/" ".smex-items" ".ruby-version" ".rediscli_history" ".rbenv/" ".purescript/" ".psql_history" ".pryrc" ".pry_history" ".profile" ".oracle_jre_usage/" ".npm/" ".node_repl_history" ".ngrok2/" ".netrc" ".multirust/" ".minikube/" ".m2/" ".local/" ".lesshst" ".lein/" ".kube/" ".irssi/" ".heroku/" ".gradle/" ".gitconfig" ".ghc/" ".gem/" ".emulator_console_auth_token" ".emacs.dbackups/" ".emacs.d/" ".DS_Store" ".docker/" ".cups/" ".coreos/" ".config/" ".cocoapods/" ".cargo/" ".cache/" ".cabal/" ".bundle/" ".boot/" ".bash_sessions/" ".bash_profile~" ".bash_profile" ".bash_history" ".aws/" ".android/" ".ammonite/" "../" "./")
+ ("/Users/htmldrum/" (22578 13196 0 0) "tmp" "Qt/" "Public/" "Pictures/" "Music/" "Movies/" "log.000" "Library/" "go/" "GitHub/" "env.wine.txt" "dump.rdb" "Downloads/" "Documents/" "Desktop/" "code/" "bin/" "Applications/" "AndroidStudioProjects/" "android_sdk/" "20160918_161758.jpg" ".wget-hsts" ".viminfo" ".v8flags.5.1.281.83.htmldrum.json" ".travis/" ".Trash/" ".todo" ".tmux.conf" ".terraform.d/" ".subversion/" ".stack/" ".ssh/" ".smex-items" ".ruby-version" ".rediscli_history" ".rbenv/" ".purescript/" ".psql_history" ".pryrc" ".pry_history" ".profile" ".oracle_jre_usage/" ".npm/" ".node_repl_history" ".ngrok2/" ".netrc" ".multirust/" ".minikube/" ".m2/" ".local/" ".lesshst" ".lein/" ".kube/" ".irssi/" ".heroku/" ".gradle/" ".gitconfig" ".ghc/" ".gem/" ".emulator_console_auth_token" ".emacs_bash" ".emacs.dbackups/" ".emacs.d/" ".DS_Store" ".docker/" ".cups/" ".coreos/" ".config/" ".cocoapods/" ".cargo/" ".cache/" ".cabal/" ".bundle/" ".boot/" ".bash_sessions/" ".bash_profile~" ".bash_profile" ".bash_history" ".aws/" ".android/" ".ammonite/" "../" "./")
 
  ("/Users/htmldrum/.emacs.d/assets/" (22578 11730 0 0) "Ned - Okily Dokily.wav" "../" "./")
 

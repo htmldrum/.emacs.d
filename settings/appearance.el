@@ -2,8 +2,9 @@
       font-lock-maximum-decoration t
       color-theme-is-global t
       truncate-partial-width-windows nil)
-(setq ( ring-bell-function (lambda ()
-                             (shell-command "afplay ~/.emacs.d/assets/ned.wav"))))
+
+(setq ring-bell-function (lambda ()
+                             (shell-command "afplay ~/.emacs.d/assets/ned.wav&")))
 
 ;; Highlight current line
 (global-hl-line-mode 1)

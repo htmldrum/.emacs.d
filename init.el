@@ -108,6 +108,8 @@
      go-mode
      corral
      purescript-mode
+     kotlin-mode
+     neotree
      )))
 
 (condition-case nil
@@ -144,7 +146,7 @@
 (require 'setup-ffip)
 (require 'setup-html-mode)
 (require 'setup-paredit)
-
+(require 'setup-neotree)
 (require 'prodigy)
 (global-set-key (kbd "C-x M-m") 'prodigy)
 
