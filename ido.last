@@ -80,14 +80,14 @@
  ("/Users/htmldrum/code/maxwellforest/onefill_pud/app/controllers/" . "v1/")
  ("/Users/htmldrum/code/maxwellforest/onefill_pud/app/" . "controllers/")
  ("/Users/htmldrum/code/htmldrum/rust/" . "arm/")
- ("/Users/htmldrum/.emacs.d/" . "settings/")
+ ("/Users/htmldrum/.emacs.d/" . "themes/")
  ("/Users/htmldrum/.cargo/" . "bin/")
  ("/Users/htmldrum/go/src/gopl.io/ch5/" . "toposort/")
  ("/Users/htmldrum/code/htmldrum/go/the_go_programming_language/" . "chp5/")
  ("/Users/htmldrum/code/maxwellforest/ci/spec/jira/" . "jobs/")
  ("/Users/htmldrum/code/maxwellforest/ci/jira/" . "jobs/")
  ("/Users/htmldrum/code/maxwellforest/ci/spec/" . "jira/")
- ("/Users/htmldrum/Desktop/" . "haskell/")
+ ("/Users/htmldrum/Desktop/" . "modern-cljs/")
  ("/Volumes/Samsung USB/workspace/tools/clojure/" . "modern-cljs/")
  ("/Volumes/Samsung USB/workspace/tools/" . "clojure/")
  ("/Volumes/Samsung USB/workspace/" . "tools/")
@@ -109,7 +109,7 @@
  ("/Users/htmldrum/code/htmldrum/go/" . "generate/")
  ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/requests/" . "v0/")
  ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/serializers/" . "v0/")
- ("/Users/htmldrum/" . ".emacs.d/")
+ ("/Users/htmldrum/" . "Desktop/")
  ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/db/" . "migrate/")
  ("/Users/htmldrum/code/maxwellforest/onefill_oba/config/" . "initializers/")
  ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/serializers/" . "v0/")
@@ -125,7 +125,7 @@
  ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/app/serializers/" . "v0/")
  ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/controllers/" . "v0/")
  ("/Users/htmldrum/code/htmldrum/" . "go/")
- ("/Users/htmldrum/code/maxwellforest/" . "onefill_maps_api/")
+ ("/Users/htmldrum/code/maxwellforest/" . "provision/")
  ("/Users/htmldrum/code/" . "maxwellforest/")
  ("/Users/htmldrum/code/htmldrum/generic_controller/spec/" . "lib/")
  ("/Users/htmldrum/code/htmldrum/generic_controller/" . "lib/")
@@ -133,7 +133,7 @@
  ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/app/controllers/" . "v0/")
  ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/serializers/" . "v0/")
  ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/requests/" . "v0/")
- ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/" . "controllers/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/" . "support/")
  ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/" . "spec/")
  ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/app/" . "services/")
  ("/Volumes/Samsung USB/" . "workspace/")
@@ -212,13 +212,8 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "/Users/htmldrum/"
- "/Users/htmldrum/.emacs.d/"
- "/Users/htmldrum/.emacs.d/settings/"
- "/Users/htmldrum/.emacs.d/assets/"
- "/Users/htmldrum/Desktop/haskell/gentle_introduction_to_haskell/"
- "/Users/htmldrum/Desktop/haskell/"
- "/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/controllers/v0/"
+ "/Users/htmldrum/code/htmldrum/htmldrum.xyz/"
+ #("/Users/htmldrum/code/htmldrum/htmldrum.xyz/_posts/" 43 46 (face flx-highlight-face))
  "/Users/htmldrum/Desktop/haskell/lyah/worked_examples/"
  "/Users/htmldrum/Desktop/"
  "/Users/htmldrum/go/src/github.com/htmldrum/"
@@ -227,11 +222,13 @@
  "/Users/htmldrum/Desktop/scala/akka/scala-school/"
  "/Users/htmldrum/Desktop/scala/akka/hello-world-akka/"
  "/Users/htmldrum/Desktop/scala/akka/akka_tutorial/"
+ "/Users/htmldrum/"
  "/Users/htmldrum/Desktop/prometheus/presentation/"
  "/Users/htmldrum/Desktop/prometheus/"
  "/Users/htmldrum/code/maxwellforest/provision/terraform/onefill/ap-southeast-2/"
  "/Users/htmldrum/code/maxwellforest/provision/"
  "/Users/htmldrum/Desktop/lyah/worked_examples/starting-out/"
+ "/Users/htmldrum/.emacs.d/"
  "/Users/htmldrum/Desktop/lyah/"
  "/Users/htmldrum/Desktop/purescript/purescript-book/chapter7/src/Data/"
  "/Users/htmldrum/Desktop/purescript/purescript-book/chapter6/src/Data/"
@@ -262,55 +259,44 @@
  "/Users/htmldrum/code/maxwellforest/onebank_adapter/spec/services/queues/pud/v0/users/"
  "/Users/htmldrum/code/maxwellforest/onefill_pud/spec/services/queues/sup/v0/users/"
  "/Users/htmldrum/code/maxwellforest/onebank_adapter/app/services/queues/pud/v0/users/"
+ "/Users/htmldrum/code/maxwellforest/onefill_pud/app/services/queues/sup/v0/users/"
+ "/Users/htmldrum/code/maxwellforest/onefill_pud/app/services/rpc/sup/v0/"
+ "/Users/htmldrum/code/maxwellforest/onefill_pud/spec/services/rpc/sup/v0/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- ".emacs_bash"
- "appearance.el"
- "TODO"
- "init.el"
- "application_controller_spec.rb"
+ "deploy.sh"
+ "Makefile"
+ "2016-08-16-polyglot-by-default.md"
  "double.hs"
+ "TODO"
  "README.md"
  ".bash_profile"
  "notes.txt"
  "notes.md"
+ "init.el"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- (#("/Users/htmldrum/.emacs.d/settings/" 16 25 (face flx-highlight-face)) (22578 13041 0 0) "setup-yasnippet.el" "setup-skewer.el" "setup-shell.el" "setup-ruby-mode.el" "setup-rgrep.el" "setup-perspective.el" "setup-paredit.el" "setup-package.el" "setup-org.el" "setup-markdown-mode.el" "setup-magit.el" "setup-js2-mode.el" "setup-ido.el" "setup-html-mode.el" "setup-hippie.el" "setup-go-mode.el" "setup-flycheck.el" "setup-ffip.el" "setup-elnode.el" "setup-dired.el" "setup-clojure-mode.el" "sane-defaults.el" "my-misc.el" "mode-mappings.el" "mac.el" "key-bindings.el" "appearance.el" "../" "./")
+ (#("/Users/htmldrum/code/htmldrum/htmldrum.xyz/_posts/" 43 46 (face flx-highlight-face)) (22573 7661 0 0) "todo.txt" "2016-08-16-polyglot-by-default.md" "2015-05-14-provisioning-vagrant-with-bash.md" "2015-01-12-benefits-of-scheme.md" "2014-12-20-application-controllers-in-rails.md" "2014-11-21-nested-query-sets-and-elasticsearch.md" "2014-10-15-elasticsearch-mappings-and-filters.md" "2014-08-06-top-down-depth-first-tree-parser.md" "2014-08-02-object-construction-in-javascript.md" "2014-02-12-clustering-in-nodejs.md" "2014-02-11-nodejs-init-script.md" "2013-11-15-zeroconf-networking.md~" "2013-11-15-zeroconf-networking.md" "2013-07-04-service--oriented-architecutre.md~" "2013-07-04-service--oriented-architecutre.md" "2013-03-21-blinded-by-symbolism.md" "2013-02-05-basics-of-provisioning-nodes-with-puppet.md" "2012-07-10-scripting-layouts-in-tmux-for-mac.md" "2012-05-21-svn-E2000031.md" "2012-04-11-rabbitmq-the-best-friend-you-never-knew.md" "2012-03-17-semaphores-in-js.md" "2012-02-15-python-alg-package.md" "2012-02-12-django-on-aws.md" "2011-12-28-how-to-setup-google-checkout-in-python.md" "2011-11-11-symfony-20-installation-instructions.md" "2011-10-21-pre-commit-testing.md" "2011-08-19-ludum-dare-48.md" "2011-08-18-gae-dev-note.md" "2011-07-29-flex-as3p-note-5.md~" "2011-07-29-flex-as3p-note-5.md" "2011-07-18-flex-builder-3-error-occured-while-packaging-the-application.md" "2011-05-08-away-3d-dev-note.md" "2011-04-19-overview-of-rack-and-cabinet-design.md" "2010-12-25-crappy-codealong-christmas.md" "2010-10-05-zeroconf.md~" "2010-06-02-tox.md" "2009-06-06-visual-feedback-in-the-dom.md" "2009-05-02-mousecapture-with-jquery.md" "../" "./")
 
- (#("/Users/htmldrum/.emacs.d/" 16 25 (face flx-highlight-face)) (22578 13348 0 0) "var/" "users/" "themes/" "snippets/" "site-lisp/" "settings/" "recentf" "README.md" "project-archetypes/" "places" "init.el~" "init.el" "ido.last" "history" "games/" "eshell/" "elpa/" "defuns/" "custom.el" "backups/" "auto-save-list/" "assets/" "ac-comphist.dat" ".places" ".mc-lists.el" ".gitmodules" ".gitignore" ".git/" ".emacs.d/" "../" "./")
-
- ("/Users/htmldrum/" (22578 13196 0 0) "tmp" "Qt/" "Public/" "Pictures/" "Music/" "Movies/" "log.000" "Library/" "go/" "GitHub/" "env.wine.txt" "dump.rdb" "Downloads/" "Documents/" "Desktop/" "code/" "bin/" "Applications/" "AndroidStudioProjects/" "android_sdk/" "20160918_161758.jpg" ".wget-hsts" ".viminfo" ".v8flags.5.1.281.83.htmldrum.json" ".travis/" ".Trash/" ".todo" ".tmux.conf" ".terraform.d/" ".subversion/" ".stack/" ".ssh/" ".smex-items" ".ruby-version" ".rediscli_history" ".rbenv/" ".purescript/" ".psql_history" ".pryrc" ".pry_history" ".profile" ".oracle_jre_usage/" ".npm/" ".node_repl_history" ".ngrok2/" ".netrc" ".multirust/" ".minikube/" ".m2/" ".local/" ".lesshst" ".lein/" ".kube/" ".irssi/" ".heroku/" ".gradle/" ".gitconfig" ".ghc/" ".gem/" ".emulator_console_auth_token" ".emacs_bash" ".emacs.dbackups/" ".emacs.d/" ".DS_Store" ".docker/" ".cups/" ".coreos/" ".config/" ".cocoapods/" ".cargo/" ".cache/" ".cabal/" ".bundle/" ".boot/" ".bash_sessions/" ".bash_profile~" ".bash_profile" ".bash_history" ".aws/" ".android/" ".ammonite/" "../" "./")
-
- ("/Users/htmldrum/.emacs.d/assets/" (22578 11730 0 0) "Ned - Okily Dokily.wav" "../" "./")
-
- ("/Users/htmldrum/Desktop/haskell/" (22578 10858 0 0) "tryhplay/" "TODO" "lyah/" "gentle_introduction_to_haskell/" "airpair/" "../" "./")
-
- ("/Users/htmldrum/Desktop/haskell/gentle_introduction_to_haskell/" (22578 10858 0 0) "README.md" "../" "./")
-
- ("/Users/htmldrum/Desktop/haskell/TODO/" (22578 10794 0 0) "../" "./")
-
- ("/Users/htmldrum/Desktop/" (22574 20402 0 0) "winking-jake.gif" "Web Development with Clojure.pdf" "weave/" "Unifying Theories of Programming and Formal Engineering Methods.pdf" "Understanding_Computation.pdf" "tinkerpop/" "TheDockerBook_sample.pdf" "The Well-Grounded Java Developer.pdf" "The Linux Programming Interface.pdf" "Site Reliability Engineering.pdf" "seven-web-frameworks-in-seven-weeks_p1_0.pdf" "Screen Shot 2016-11-17 at 3.45.30 PM.png" "Screen Shot 2016-11-17 at 3.35.03 PM.png" "Screen Shot 2016-11-16 at 10.42.59 PM.png" "Screen Shot 2016-11-16 at 10.38.09 AM.png" "Screen Shot 2016-11-16 at 10.37.53 AM.png" "Screen Shot 2016-11-16 at 10.20.21 PM.png" "Screen Shot 2016-11-14 at 3.25.29 PM.png" "Screen Shot 2016-11-10 at 1.08.14 PM.png" "scala/" "ruby-performance-optimization_p1_0.epub" "Ruby Under a Microscope.pdf" "rethinkDB/" "purescript/" "prometheus/" "pics/" "orientDB/" "OneBank_InHouse_Distribution.mobileprovision" "Onebank_Cert/" "modern-cljs/" "Math Mutation Classics.pdf" "main.go" "Learning RHEL Networking.pdf" "lambda.png" "Java Performance_ The Definitive Guide.pdf" "Java 8 in Action.pdf" "james" "interests2.png" "interest1.png" "htmldrum" "High Performance Browser Networking.pdf" "haskell/" "happy-bmo.gif" "goof.png" "goals.md" "ghc_perf/" "functional-programming-patterns-in-scala-and-clojure.md" "Functional Programming Patterns in Scala and Clojure.pdf" "favicon.ico" "Designing Machine Learning Systems with Python.pdf" "cpp/" "containers/" "Clojure for Machine Learning.pdf" "category_theory.md" "bmo-dance.gif" ".DS_Store" "../" "./")
-
- ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/controllers/v0/" (22559 51764 0 0) "sites_controller_spec.rb" "pud/" "application_controller_spec.rb" "../" "./")
-
- ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/controllers/" (22516 21333 0 0) "v0/" "root_controller_spec.rb" "../" "./")
-
- ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/" (22573 7661 0 0) "vendor/" "TODO" "tmp/" "spec/" "scripts/" "README.md" "Rakefile" "public/" "Procfile" "Makefile" "log/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "Dockerfile" "docker_tag" "docker_push" "docker-compose.yml" "doc/" "db/" "config.ru" "config/" "ci/" "bin/" "app.json" "app/" ".travis.yml" ".ruby-version" ".rubocop.yml" ".rspec" ".prubocop.yml" ".gitmodules" ".gitignore" ".git/" ".env" "../" "./")
+ ("/Users/htmldrum/code/htmldrum/htmldrum.xyz/" (22573 6755 0 0) "watch.sh~" "watch.sh" "README.md" "presentations/" "media/" "Makefile~" "Makefile" "index.html~" "index.html" "images/" "Gemfile.lock" "Gemfile" "favicon.ico" "deploy.sh" "cv.html" "css/" "blog.html" "_site/" "_posts/" "_plugins/" "_layouts/" "_drafts/" "_data/" "_config.yml~" "_config.yml" ".ruby-version" ".gitignore" ".git/" ".DS_Store" "../" "./")
 
  ("/Users/htmldrum/Desktop/haskell/lyah/worked_examples/" (22573 17647 0 0) "double.hs" "../" "./")
 
  ("/Users/htmldrum/Desktop/haskell/lyah/" (22573 10924 0 0) "worked_examples/" "notes.md" "../" "./")
+
+ ("/Users/htmldrum/Desktop/" (22573 9620 0 0) "Web Development with Clojure.pdf" "weave/" "Unifying Theories of Programming and Formal Engineering Methods.pdf" "Understanding_Computation.pdf" "tinkerpop/" "TheDockerBook_sample.pdf" "The Well-Grounded Java Developer.pdf" "The Linux Programming Interface.pdf" "Site Reliability Engineering.pdf" "seven-web-frameworks-in-seven-weeks_p1_0.pdf" "Screen Shot 2016-11-16 at 10.42.59 PM.png" "Screen Shot 2016-11-16 at 10.38.09 AM.png" "Screen Shot 2016-11-16 at 10.37.53 AM.png" "Screen Shot 2016-11-16 at 10.20.21 PM.png" "Screen Shot 2016-11-14 at 3.25.29 PM.png" "Screen Shot 2016-11-10 at 1.08.14 PM.png" "scala/" "ruby-performance-optimization_p1_0.epub" "Ruby Under a Microscope.pdf" "rethinkDB/" "purescript/" "prometheus/" "orientDB/" "OneBank_InHouse_Distribution.mobileprovision" "Onebank_Cert/" "modern-cljs/" "Math Mutation Classics.pdf" "main.go" "Learning RHEL Networking.pdf" "lambda.png" "Java Performance_ The Definitive Guide.pdf" "Java 8 in Action.pdf" "james" "interests2.png" "interest1.png" "htmldrum" "High Performance Browser Networking.pdf" "haskell/" "goof.png" "goals.md" "ghc_perf/" "functional-programming-patterns-in-scala-and-clojure.md" "Functional Programming Patterns in Scala and Clojure.pdf" "favicon.ico" "Designing Machine Learning Systems with Python.pdf" "cpp/" "containers/" "Clojure for Machine Learning.pdf" "category_theory.md" ".DS_Store" "../" "./")
 
  ("/Users/htmldrum/Desktop/tinkerpop/" (22573 9681 0 0) "TODO.md" "../" "./")
 
  ("/Users/htmldrum/go/src/github.com/htmldrum/" (22573 9564 0 0) "xkcd/" "stringutil/" "stackoverflow_jobs/" "README.md" "omdb/" "htmltools/" "hello/" "gui/" "goa-adder/" "deisgn_patterns/" "context/" "chan_on_chan/" "caller/" "benchmark/" "abcd/" "../" "./")
 
  ("/Users/htmldrum/code/htmldrum/go/" (22567 47880 0 0) "workspaces/" "the_go_programming_language/" "tests/" "ruby-gem/" "pact-go/" "goa/" "generate/" "docker/" "blog.golang.org/" ".DS_Store" "../" "./")
+
+ ("/Users/htmldrum/" (22573 7214 0 0) "tmp" "Qt/" "Public/" "Pictures/" "Music/" "Movies/" "log.000" "Library/" "go/" "GitHub/" "env.wine.txt" "dump.rdb" "Downloads/" "Documents/" "Desktop/" "code/" "bin/" "Applications/" "AndroidStudioProjects/" "android_sdk/" ".wget-hsts" ".viminfo" ".v8flags.5.1.281.83.htmldrum.json" ".travis/" ".Trash/" ".todo" ".tmux.conf" ".terraform.d/" ".subversion/" ".stack/" ".ssh/" ".smex-items" ".ruby-version" ".rediscli_history" ".rbenv/" ".purescript/" ".psql_history" ".pryrc" ".pry_history" ".profile" ".oracle_jre_usage/" ".npm/" ".node_repl_history" ".ngrok2/" ".netrc" ".multirust/" ".minikube/" ".m2/" ".local/" ".lesshst" ".lein/" ".kube/" ".irssi/" ".heroku/" ".gradle/" ".gitconfig" ".ghc/" ".gem/" ".emulator_console_auth_token" ".emacs.dbackups/" ".emacs.d/" ".DS_Store" ".docker/" ".cups/" ".coreos/" ".config/" ".cocoapods/" ".cargo/" ".cache/" ".cabal/" ".bundle/" ".boot/" ".bash_sessions/" ".bash_profile~" ".bash_profile" ".bash_history" ".aws/" ".android/" ".ammonite/" "../" "./")
 
  ("/Users/htmldrum/Desktop/scala/akka/" (22573 7554 0 0) "scala-school/" "hello-world-akka/" "akka_tutorial/" "../" "./")
 
@@ -339,6 +325,8 @@
  ("/Volumes/Samsung USB 3/" (22518 7546 0 0) "img-161027120805/" "._.TemporaryItems" ".TemporaryItems/" "phoenix-training.mp4" "workspace/" ".fseventsd/" ".Trash-1000/" ".Spotlight-V100/" ".Trashes/" "._.Trashes" "../" "./")
 
  ("/Volumes/" (22571 39029 0 0) "Samsung USB 3/" "Samsung USB 2/" "Samsung USB 1/" "Samsung USB/" "Macintosh HD/" ".DS_Store" "../" "./")
+
+ ("/Users/htmldrum/.emacs.d/" (22571 38835 0 0) "var/" "users/" "themes/" "snippets/" "site-lisp/" "settings/" "recentf" "README.md" "project-archetypes/" "places" "init.el~" "init.el" "ido.last" "history" "games/" "eshell/" "elpa/" "defuns/" "custom.el" "backups/" "auto-save-list/" "ac-comphist.dat" ".places" ".mc-lists.el" ".gitmodules" ".gitignore" ".git/" ".emacs.d/" "../" "./")
 
  ("/Users/htmldrum/Desktop/lyah/worked_examples/starting-out/" (22571 38842 0 0) "fp.hs" "double.hs" "../" "./")
 
@@ -393,6 +381,8 @@
  ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/acceptance/" (22516 21333 0 0) "v0/" "../" "./")
 
  ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/" (22563 65377 0 0) "test_files/" "support/" "spec_helper.rb" "serializers/" "routes_spec.rb" "requests/" "request_spec_helper.rb" "rails_helper.rb" "models/" "fixtures/" "factories.rb" "docs_helper.rb" "devise_helper.rb" "controllers/" "classes/" "acceptance/" "../" "./")
+
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/" (22564 7829 0 0) "vendor/" "TODO" "tmp/" "spec/" "scripts/" "README.md" "Rakefile" "public/" "Procfile" "Makefile" "log/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "Dockerfile" "docker_tag" "docker_push" "docker-compose.yml" "doc/" "db/" "config.ru" "config/" "ci/" "bin/" "app.json" "app/" ".travis.yml" ".ruby-version" ".rubocop.yml" ".rspec" ".prubocop.yml" ".gitmodules" ".gitignore" ".git/" ".env" "../" "./")
 
  ("/Users/htmldrum/code/maxwellforest/" (22561 18544 0 0) "tools/" "test/" "terraform/" "provision/" "onefill_pud/" "onefill_oba/" "onefill_maps_api/" "onefill_ios/" "onefill_common/" "onebank_ios/" "onebank_adapter/" "ci/" "android_onefill/" ".DS_Store" "../" "./")
 
@@ -479,6 +469,16 @@
  ("/Users/htmldrum/code/maxwellforest/onefill_pud/lib/" (22556 3340 0 0) "tasks/" "onefill_rpc.rb" "onefill_auth.rb" "onefill_auth/" "assets/" "../" "./")
 
  ("/Users/htmldrum/code/maxwellforest/onefill_pud/app/services/queues/sup/v0/users/" (22555 53222 0 0) "create.rb" "../" "./")
+
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud/app/services/queues/sup/v0/" (22555 53222 0 0) "users/" "../" "./")
+
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud/app/services/queues/sup/" (22555 53222 0 0) "v0/" "../" "./")
+
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud/app/services/queues/" (22555 53222 0 0) "sup/" "../" "./")
+
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud/app/services/rpc/" (22555 53222 0 0) "sup/" "../" "./")
+
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud/app/services/" (22555 53222 0 0) "rpc/" "queues/" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

@@ -13,5 +13,5 @@
 (add-hook 'markdown-mode-hook
           (lambda ()
             (setq imenu-generic-expression markdown-imenu-generic-expression)))
-
+(add-hook 'markdown-mode-hook 'visual-line-mode)
 (provide 'setup-markdown-mode)
