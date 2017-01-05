@@ -66,7 +66,8 @@
 ;; Install extensions if they're missing
 (defun init--install-packages ()
   (packages-install
-   '(magit
+   '(circe
+     magit
      paredit
      move-text
      gist
@@ -110,6 +111,7 @@
      purescript-mode
      kotlin-mode
      neotree
+     yaml-mode
      )))
 
 (condition-case nil
@@ -147,6 +149,7 @@
 (require 'setup-html-mode)
 (require 'setup-paredit)
 (require 'setup-neotree)
+(require 'setup-circe)
 (require 'prodigy)
 (global-set-key (kbd "C-x M-m") 'prodigy)
 
@@ -246,6 +249,8 @@
 (require 'my-misc)
 (when is-mac (require 'mac))
 
+
+
 ;; Elisp go-to-definition with M-. and back again with M-,
 (autoload 'elisp-slime-nav-mode "elisp-slime-nav")
 (add-hook 'emacs-lisp-mode-hook (lambda () (elisp-slime-nav-mode t) (eldoc-mode 1)))
@@ -269,3 +274,9 @@
 
 ;; Console sources .bash_profile
 (setenv "PATH" (shell-command-to-string "source ~/.bashrc; echo -n $PATH"))
+
+(setq zoomlevel 3)
+(zoom-out 3)
+;; (while (> zoomlevel 0)
+;;   (zoom-out)
+;;   (setq zoomlevel (- zoomlevel 1)))

@@ -1,128 +1,128 @@
-make deploy
-heroku
-chmod a-r ./spec/support/Info.plist 
-chmod a+r ./spec/support/Info.plist 
-cat /tmp/balls 
-cat /tmp/balls 
-cat /tmp/balls 
-cd ../..
-cd ..
-spring rails c
-spring rake db:routes
-spring rake routes
-spring rails c
-spring rails c
-RAILS_ENV='test' spring rails c
-tail -f ./log/test.log 
-cd ../
+kubectl get ns
+deis 
+kubectl get service --namespace=onefill-sup -o=json
+kubectl get service --namespace=onefill-sup -o=yaml
+dig --help
+dig -h
+deis info
+kubectl get ns
+kubectl get service --namepsace=onefill-redis
+kubectl get service --namespace=onefill-redis -o=yaml
+kubectl get service --namespace=onefill-oba -o=yaml
+kubectl get service --all-namespaces=true
+docker ps
+docker ps
+docker kill 5240e543bd09
+docker run -d redis
+docker ps
+redis-server
+redis-client
+redis-cli
+docker ps
+docker kill ce7af8bc1135
+docker run -d redis -p 6379
+docker ps
+docker ps
+docker ps
+docker ps
+docker ps
+docker run -d -p 6379 redis
+docker ps
+docker ps
+docker ps
+docker ps
+redis-cli -h localhost -p 32769
+docker-compose up
+pg_restore -v -h staging.cztbodtqjwpy.ap-southeast-2.rds.amazonaws.com -U dec7d9c6c7a886de1af6 onefill_sup_staging_heroku latest.dump
+pg_restore -v -h staging.cztbodtqjwpy.ap-southeast-2.rds.amazonaws.com -U dec7d9c6c7a886de1af6 -d onefill_sup_staging_heroku latest.dump
+pg_restore -v -h staging.cztbodtqjwpy.ap-southeast-2.rds.amazonaws.com -U dec7d9c6c7a886de1af6 -d onefill_sup_staging latest.dump
+deis info
+ku exec -it onefill-sup-cmd-10650681-tw67g --namespace=onefill-sup rails c
+kubectl exec -it onefill-sup-cmd-10650681-tw67g --namespace=onefill-sup rails c
+deis run rails c
+deis info
+ku exec -it --namespace=onefill-sup onefill-sup-cmd-4254696394-aopro rails c
+kubectl exec -it --namespace=onefill-sup onefill-sup-cmd-4254696394-aopro bundle exec rails c 
+tail -f ./log/staging.log 
+ls -la
+tail -f ./log/error.log 
+ls -la
+cd ./log
+ls -la
+ls -la
+ls -la
+ls -la
+ls -la
+ls -la
+ls -la
+tail -f ./nginx.error.log
+ls -la
+ls -la
+ls -la
+tail -f error.log 
+ls -la
+cd worked_examples/
+ghci
+git clone git@github.com:damncabbage/purescript-workshop
+git clone git@github.com:damncabbage/purescript-workshop.git
+git https://github.com/alexmingoia/pux-starter-app.git
+git https://github.com/alexmingoia/pux-starter-app
+git clone https://github.com/alexmingoia/pux-starter-app
+git clone https://github.com/paf31/purescript-thermite/
+cd ~/code/htmldrum/haskell/
+heroku create -b https://github.com/mietek/haskell-on-heroku
+ls -la
+ls -la
+git status
+git clone -q https://github.com/mietek/haskell-on-heroku-torial
+git clone -q https://github.com/mietek/haskell-on-heroku-tutorial
+ls -la
+cd haskell-on-heroku-tutorial/
+ls -la
+heroku -h
+heroku login
+haskell create -h
+heroku create -h
+heroku apps:create swyne
+git push heroku master
+gdb
+info gdb
+info gdb
+man gdb
+(do curl)
+(while true (exec "localhost:6969"))
+(while 1 (exec "localhost:6969"))
+(apropos exec)
+(apropos `exec)
+(apropos 'exec)
+(apropos "exec")
+(apropos "shell")
+curl -d "{'summary':'asdasd','created':'now'}" -X POST http://localhost:8000/todo
+curl -d "{'summary':'asdasd','created':'now'}" -X POST http://localhost:8000/todo
+curl -d "{'summary':'asdasd','created':'now'}" -X POST localhost:8000/todo
+curl -d "{\"summary\":\"asdasd\",\"created\":\"now\"}" -X POST localhost:8000/todo
+curl -d "{\"summary\":\"asdasd\",\"created\":\"now\"}" -X POST http://localhost:8000/todo
+curl -X POST -d "{\"summary\":\"asdasd\",\"created\":\"now\"}" http://localhost:8000/todo
+curl -X GET localhost:8000/todo
+ku
+irb
+ls -la
 cd ..
 ls -la
-cd onefill_oba
-spring rails c
-spring rails c
-curl localhost:8080
-chmod +x wat.rb
-./wat.rb 
-ruby ./wat.rb 
-spring rails c
-heroku plugins:install heroku-docker
-docker-compose run web rake db:create db:schema:load
-cd ../onefill_oba
-docker-compose run web rake db:create db:schema:load
-curl "localhost:3000/v0/public/users" -d '{"user":{"uuid":"393438a4-e3d3-4451-9048-2fdfa711d56c","pin":"1234"}}' -X POST \-H "Accept: application/json" \-H "Content-Type: application/json"
-docker ps
-docker-compose run web rake db:create db:schema:load
-cd ~/code/maxwellforest/onefill_oba/
-docker-compose run web rake db:create db:schema:load
-docker ps -A
-docker ps
-docker run --hel
-docker run --help
-docker exec --help
-docker exec e09c7c814fa0 -it /bin/bash
-docker exec e09c7c814fa0 -it /bin/bash
-docker exec e09c7c814fa0 -it bash
-docker exec e09c7c814fa0 -it 
-docker exec e09c7c814fa0 bash
-docker exec e09c7c814fa0 -i bash
-docker exec -it e09c7c814fa0 /bin/bash
-cd ..
-rake secret
-docker-compose run web rake db:create db:schema:load
-docker ps
-docker exec -it 3a8fed378f33 /bin/bash
-docker run web rake db:create db:schema:load
-docker-compose run web rake db:create db:schema:load
-docker-compose run web rake db:create db:schema:load
-docker-compose run web ENV='docker' rake db:create db:schema:load
-docker-compose run --help
-docker-compose run web -e RAILS_ENV='docker' rake db:create db:schema:load
-docker-compose run -e RAILS_ENV='docker' web rake db:create db:schema:load
-docker ps
-docker-compose run -e RAILS_ENV='docker' web rake db:create db:schema:load
-spring rspec
-docker-compose run -e RAILS_ENV='docker' web rake db:create db:schema:load
-docker ps
-docker-compose run -e RAILS_ENV='docker' web rake db:create db:schema:load
-cd ../onefill_pud/
-docker-compose run -e RAILS_ENV='docker' web rake db:create db:schema:load
-docker images
-chmod +x ./docker_tag
-docker_tag onefillpud_web 0.0.1
-./docker_tag onefillpud_web 0.0.1
-chmod +x ./docker_push 
-./docker_tag
-./docker_push
-cat docker_push
-docker images 431565877614.dkr.ecr.ap-southeast-2.amazonaws.com/onefill
-./docker_tag onefillpud_web 0.0.1
-docker ps
-docker images
-./docker_tag 1ffb577f7f9f 0.0.1
-./docker_push 
-docker-compose build
-docker-compose up
-cd ../onefill_pud
-docker-compose build
-docker-compose up
-docker images | grep -i pud
-./docker_tag 2d93ef7d79a6 0.0.1
-./docker_push 
-docker-compose run -e RAILS_ENV='docker' web rake db:create db:schema:load
-docker images | grep -i maps
-./docker_tag accc3316b07a 0.0.1
-./docker_push 
-./docker_tag accc3316b07a 0.0.1
-./docker_push 
-ls -la
-chmod +x create-key-pair 
-./create-key-pair 
-./create-key-pair 
-docker-compose run -e RAILS_ENV='docker' web rake db:create db:schema:load
-./docker_tag 142314347f3b 0.0.1
-cat ./docker_push 
-./docker_push
-./docker/login
-chmod +x ./docker/login
-./docker/login 
-docker login -u AWS -p AQECAHhLyjz7PJEPmYbqH6A6f/wWNzyz5BKa37BnBPsAyuF1KQAAAuowggLmBgkqhkiG9w0BBwagggLXMIIC0wIBADCCAswGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMz12LAVpA+nnhUjoBAgEQgIICne/d8HxZCGjCaGh+bM2gzVcFYMa7Q4MB3VWy4sAOV2wZIMk1ZRDd4cSOLOqumIHK8TQ/RQAdp0mDGBD8jYzHXQazFFgBokL99w7ArDma/U2fwVaTilRiT5CpfYNor1zRcrtn5+m2pD3SULJHsE9PLBPw25nnWGZuxu/u2OqH3TK/+jjQNZq7pqi7qxbsecJK/8gB5AI/iiB0XP9MxNjgcJpX7IyOjhJG+Rn+6Hc9IE/c1WxuzvwPXxIK7Q5zTHVGoSi8bMuLOwop61yXRQqlQmGm5/Eyz9yAIFK8IscwsuJBN0yoBczdubX3wSrLID25EuZxM80PikgNEnF8uI42PoK2T1W2iL1SeEfGzEG95FIE5/kCVIi+twuwBeYY6U9D/goYQS+uC6IrvKpjhWeGasUouQibC0QOoTL/0/WIgDqrBrjYwRk76TMLCiMPqXwhw4AQo1NlD1ue7mR/9UZrk7LB0kbgiEyhwP1NuUrY7Cv3Kd+7e7uWV++vR2L7luYE/wK97fjtlInZrjeqJh17KdOd/qrdCZs9C1tgkOhcenIynpQIUaRF1WaziJf4XVPrzjY4xE8fSKec87C0qPFjo/Ebdj5x4eDbRStC8rEth4zFSHYWc9/lIUwUwYrgxBaXcLH/OR18SPWrlb465XFmuyIChyukBwCW1OEebWG0TBSf905JncKjET/qKP6jRkgxUHMSrG9DWxtURukAwXKxdkBOkTc119MxxxGkWAF8H14kbzUdiAsqOIMTbC5sw3Ksf4rqUxY1Bkuqel8eRpkanJ9VymJHmkIC4cKRE5UkYR6CYmBb/NhecZdBWN8tfc//RMCCYL/peFTmoW1GtAQJ99U20RnwmllxVCh5q7Od19ghasnI1rggxEd6hLHEQw== -e none https://431565877614.dkr.ecr.ap-southeast-2.amazonaws.com
-./docker/push 
-env | grep -i aws
-docker-compose run -e RAILS_ENV='docker' web rake db:create db:schema:load
-./docker_tag a91317ed088f 0.0.1
-./docker/tag a91317ed088f 0.0.1
-./docker/push 
-cd ../..
-pulp psci
-pulp psci
-pulp psci
-pulp psci
-pulp psci
-pulp psci
-pulp psci
-pulp psci
-pulp psci
-pulp psci
-pulp psci
-pulp psci
-pulp psci
+./rand_name.rb
+chmod +x ./rand_name.rb
+./rand_name.rb
+./rand_name.rb
+./rand_name.rb
+./rand_name.rb
+./rand_name.rb
+./rand_name.rb
+./rand_name.rb
+./rand_name.rb
+(setq zoomlevel 3)
+(while (> zoomlevel 0)  (princ "test")  (setq zoomlevel (- zoomlevel 1)))
+ku get ns
+kubernetes get ns
+kubectl get ns
+kubectl get po --namespace=default
+kubectl get services --namespace=default
