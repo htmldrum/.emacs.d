@@ -228,7 +228,10 @@
 ;; Convenience on ThinkPad Keyboard: Use back/forward as pg up/down
 (global-set-key (kbd "<XF86Back>") 'scroll-down)
 (global-set-key (kbd "<XF86Forward>") 'scroll-up)
-(global-set-key (kbd "<XF86WakeUp>") 'beginning-of-buffer)
+(global-set-key (kbd "M-<up>") 'smart-up)
+(global-set-key (kbd "M-<down>") 'smart-down)
+(global-set-key (kbd "M-<left>") 'smart-backward)
+(global-set-key (kbd "M-<right>") 'smart-forward)(global-set-key (kbd "<XF86WakeUp>") 'beginning-of-buffer)
 
 ;; Query replace regex key binding
 (global-set-key (kbd "M-&") 'query-replace-regexp)
@@ -324,7 +327,7 @@
 
 
 ;; Find file in project, with specific patterns
-(global-unset-key (kbd "C-x C-o")) ;; which used to be delete-blank-lines (also bound to C-c C-<return>)
+;;(global-unset-key (kbd "C-x C-o")) ;; which used to be delete-blank-lines (also bound to C-c C-<return>)
 ;; (global-set-key (kbd "C-x C-o ja") (ffip-create-pattern-file-finder "*.java"))
 
 
