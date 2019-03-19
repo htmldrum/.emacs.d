@@ -2,30 +2,274 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/htmldrum/code/purescript/" . "beeraffe/")
+ ("/Users/htmldrum/code/the_ray_tracer_challenge/ps_imp/src/RayTracer/" . "Examples/")
+ ("/Users/htmldrum/code/the_ray_tracer_challenge/ps_imp/src/" . "RayTracer/")
+ ("/Users/htmldrum/code/the_ray_tracer_challenge/ps_imp/" . "src/")
+ ("/Users/htmldrum/code/rust/amethyst/pong/src/" . "systems/")
+ ("/Users/htmldrum/code/the_ray_tracer_challenge/code/" . "pseudo/")
+ ("/Users/htmldrum/code/the_ray_tracer_challenge/" . "code/")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/content/blog/" . "2019-01-22-serverless-is-paas-integration/")
+ ("/Users/htmldrum/code/github/lisp_ceo/" . "blog/")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/src/components/FoTwennyBlazeIt/" . "ChunkyBunchMeenoo/")
+ ("/Users/htmldrum/Documents/" . "gimp/")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/src/components/" . "BlogCloud/")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/src/" . "components/")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/" . "src/")
+ ("/Users/htmldrum/code/rust/egg_mode/twitter-rs/src/" . "common/")
+ ("/Users/htmldrum/code/rust/egg_mode/egg_mode_tests/" . "src/")
+ ("/Users/htmldrum/go/src/github.com/veandco/" . "go-sdl2/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/ruby/onefill_sup/spec/acceptance/v1/" . "admin_scope/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/ruby/onefill_sup/spec/acceptance/" . "v1/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/ruby/onefill_sup/spec/" . "acceptance/")
+ ("/ssh:test@" . "ANSI0/")
+ ("/ssh:user@ANSI0:/home/" . "test/")
+ ("/ssh:user@ANSI0:/etc/" . "ansible/")
+ ("/ssh:user@ANSI0:/" . "home/")
+ ("/Users/htmldrum/code/pg/pgcrypto/" . "init-scripts/")
+ ("/Users/htmldrum/code/github/" . "lisp_ceo/")
+ ("/Users/htmldrum/go/src/github.com/htmldrum/ds_solution/" . "writers/")
+ ("/Users/htmldrum/code/interviews/" . "solution/")
+ ("/Users/htmldrum/go/src/github.com/htmldrum/abcd/divisions/news/strategies/" . "v0/")
+ ("/Users/htmldrum/go/src/github.com/htmldrum/abcd/divisions/news/" . "strategies/")
+ ("/Users/htmldrum/go/src/github.com/htmldrum/abcd/divisions/" . "news/")
+ ("/Users/htmldrum/go/src/github.com/htmldrum/abcd/" . "divisions/")
+ ("/Users/htmldrum/code/react/gatsbyjs/htmldrum.com/public/static/presentations/" . "developing_with_docker/")
+ ("/Users/htmldrum/code/react/gatsbyjs/htmldrum.com/src/" . "layouts/")
+ ("/Users/htmldrum/code/react/gatsbyjs/htmldrum.com/" . "src/")
+ ("/Users/htmldrum/code/react/gatsbyjs/" . "posts/")
+ ("/Users/htmldrum/code/react/" . "gatsbyjs/")
+ ("/Users/htmldrum/code/vuejs/vue-blog/" . "dist/")
+ ("/Users/htmldrum/code/vuejs/htmldrum.blog/pages/" . "blog/")
+ ("/Users/htmldrum/Desktop/Readings/17.08/iosAnimationsByTutorial/13-shapes-and-masks/final/" . "MultiplayerSearch/")
+ ("/Users/htmldrum/Desktop/Readings/17.08/iosAnimationsByTutorial/13-shapes-and-masks/" . "final/")
+ ("/Users/htmldrum/Desktop/Readings/17.08/iosAnimationsByTutorial/03-transitions/starter/" . "BahamaAirLoginScreen/")
+ ("/Users/htmldrum/Desktop/Readings/17.08/iosAnimationsByTutorial/03-transitions/" . "starter/")
+ ("/Users/htmldrum/Desktop/Readings/17.08/iosAnimationsByTutorial/" . "13-shapes-and-masks/")
+ ("/Users/htmldrum/Desktop/Readings/" . "17.08/")
+ ("/Users/htmldrum/Desktop/MemeLand/" . "MemeLand/")
+ ("/Users/htmldrum/code/htmldrum/htmldrum.xyz/presentations/fastlane/" . "css/")
+ ("/Users/htmldrum/Desktop/DingoDan/" . "fastlane/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_engine/src/__tests__/" . "__mocks__/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_engine/src/" . "__mocks__/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_maps_engine/" . "docs/")
+ ("/Users/htmldrum/Desktop/OneShopiOS/fastlane/" . "installer/")
+ ("/Users/htmldrum/code/vuejs/nuxt/" . "layouts/")
+ ("/Users/htmldrum/code/vuejs/" . "htmldrum.blog/")
+ ("/Users/htmldrum/code/vuejs/htmldrum.blog/" . "layouts/")
+ ("/Users/htmldrum/code/rust/raytracer_example/rt/" . "src/")
+ ("/Users/htmldrum/code/rust/raytracer_example/" . "rt/")
+ ("/Users/htmldrum/code/rust/the_rust_programming_language/projects/lib_communicator/src/" . "network/")
+ ("/Users/htmldrum/code/rust/the_rust_programming_language/projects/lib_communicator/" . "src/")
+ ("/Users/htmldrum/code/rust/the_rust_programming_language/projects/matchExp/" . "src/")
+ ("/Users/htmldrum/code/rust/the_rust_programming_language/projects/heap_vs_stack/target/debug/" . "deps/")
+ ("/Users/htmldrum/code/rust/the_rust_programming_language/projects/heap_vs_stack/target/" . "debug/")
+ ("/Users/htmldrum/code/rust/the_rust_programming_language/projects/heap_vs_stack/" . "target/")
+ ("/Users/htmldrum/code/rust/the_rust_programming_language/projects/variables/" . "src/")
+ ("/Users/htmldrum/code/rust/the_rust_programming_language/projects/hello_cargo/" . "src/")
+ ("/Users/htmldrum/code/rust/" . "battleship/")
+ ("/Users/htmldrum/code/rust/the_rust_programming_language/projects/" . "lib_communicator/")
+ ("/Users/htmldrum/code/rust/the_rust_programming_language/" . "projects/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/ios/onefill_ios/" . "OneShop/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/ios/" . "onefill_ios/")
+ ("/Users/htmldrum/htmldrum.theme/src/" . "components/")
+ ("/Users/htmldrum/htmldrum.theme/" . "test/")
+ ("/Users/htmldrum/Desktop/OneShopiOS/" . "fastlane/")
+ ("/Users/htmldrum/htmldrum.xyz/Go/" . "static/")
+ ("/Users/htmldrum/Desktop/OneShopiOS/Backend/" . "static/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/ruby/onefill_pud/config/" . "initializers/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/ruby/onefill_pud/" . "k8s/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/ruby/onefill_adapter/config/" . "initializers/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/ruby/onefill_adapter/k8s/" . "staging/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/ruby/onefill_adapter/" . "config/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/monitoring/grafana/examples/" . "notes/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/monitoring/grafana/" . "examples/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/monitoring/" . "grafana/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/k8s/staging/africanelephantfinger.onefilldc.com/" . "runner/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/k8s/staging/" . "africanelephantfinger.onefilldc.com/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/k8s/" . "staging/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/ruby/onefill_sup/k8s/" . "staging/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/ruby/onefill_sup/" . "config/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/db/gorm/" . "runner/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/db/" . "gorm/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/db/pg/" . "bin/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/cmd/runner/runner_producer/" . "_out/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/cmd/runner/runner_consumer/" . "_out/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/runner/tasks/" . "consumer/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/server/runner/" . "automation_dashboard/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/cache/" . "gocache/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/cmd/runner/" . "runner_producer/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/cmd/" . "runner/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/server/runner/automation_dashboard/" . "templates/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/runner/drivers/" . "phantomjs/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/runner/" . "drivers/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/queue/" . "machinery/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/queue/machinery/examples/" . "producer/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/docker/" . "go/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/queue/machinery/" . "consumer/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/server/" . "runner/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/js/" . "engine/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/strategies/default/v2/onefill_sup/" . "v1/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/strategies/default/v2/" . "onefill_sup/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/strategies/default/" . "v2/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/strategies/" . "default/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_status/tests/onefill_runner/strategies/citi_poc/v2/onefill_pud/" . "v2/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_status/tests/onefill_runner/strategies/citi_poc/v2/" . "onefill_pud/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_status/tests/onefill_runner/strategies/citi_poc/" . "v2/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_status/tests/onefill_runner/strategies/" . "citi_poc/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_status/tests/onefill_runner/strategies/default/v2/onefill_sup/" . "v1/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_status/tests/onefill_runner/strategies/default/v2/" . "onefill_sup/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/ruby/onefill_oba/k8s/" . "staging/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/ruby/onefill_oba/" . "k8s/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/ruby/" . "onefill_sup/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/" . "ruby/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/" . "onefill/")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill_oauth/authorize/" . "static/")
+ ("/Users/htmldrum/.emacs.d/" . "settings/")
+ ("/Users/htmldrum/code/htmldrum/htmldrum.xyz/presentations/prometheus/examples/" . "demo_prometheus_ansible/")
+ ("/Users/htmldrum/code/htmldrum/htmldrum.xyz/presentations/prometheus/" . "examples/")
+ ("/Users/htmldrum/code/htmldrum/htmldrum.xyz/presentations/prometheus/examples/rails_prometheus/" . "bin/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/spec/acceptance/one_bank/v2/private/" . "users/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/strategies/one_bank_strategy/v2/public/" . "users/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/strategies/one_bank_strategy/v2/" . "public/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/strategies/one_bank_strategy/" . "v2/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/spec/acceptance/one_bank/v2/public/" . "client_credentials_grant/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/spec/acceptance/one_bank/v2/" . "private/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/spec/acceptance/one_bank/" . "v2/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/spec/acceptance/citi_poc/v2/public/" . "users/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/spec/acceptance/citi_poc/v2/" . "public/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/spec/acceptance/citi_poc/" . "v2/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/services/v2/actions/" . "public/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/services/rpc/oba/v1/" . "private/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/strategies/" . "one_bank_strategy/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/controllers/demos/citi_sandbox/" . "v2/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/controllers/demos/" . "citi_sandbox/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/services/v2/pwp/citi/" . "client_credentials_grant/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/services/v2/pwp/" . "citi/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/services/rpc/strategies/citi/" . "client_credentials_grant/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/services/rpc/strategies/" . "citi/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/spec/requests/v2/" . "private/")
+ ("/Users/htmldrum/code/DankBank/" . "rn/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_status/tests/onefill_runner/" . "probe/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/spec/services/rpc/pud/" . "v1/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/spec/services/rpc/" . "pud/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/spec/services/" . "rpc/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/services/queues/pud/v1/" . "users/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/services/queues/pud/" . "v1/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/services/queues/" . "pud/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/services/v2/" . "actions/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/services/rpc/pud/" . "v2/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/spec/cassettes/v2/actions/" . "users/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/spec/cassettes/v2/public/" . "users/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/spec/cassettes/v2/" . "actions/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/spec/cassettes/" . "v2/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/lib/" . "onefill_auth/")
+ ("/Users/htmldrum/personal/" . "housing/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/lib/" . "onefill_auth/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/services/v0/" . "public/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/serializers/v1/" . "public/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/acceptance/v1/" . "public/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/serializers/v1/" . "public/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/services/v1/" . "public/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/services/" . "v1/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/acceptance/v0/" . "public/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/db/" . "migrate/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/controllers/v2/" . "public/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/controllers/v1/" . "concerns/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/services/rpc/oba/v0/" . "public/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/services/rpc/oba/" . "v1/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/services/rpc/" . "pud/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/services/v1/" . "actions/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/services/" . "rpc/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/config/" . "initializers/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/controllers/v1/" . "public/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/spec/requests/v1/" . "public/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/spec/requests/" . "v2/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/spec/" . "requests/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/spec/acceptance/v1/" . "public/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/spec/acceptance/" . "one_bank/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/controllers/" . "v2/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/app/" . "services/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_adapter/" . "spec/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_status/" . "tests/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud_destructive/k8s/" . "staging/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud_destructive/" . "k8s/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud_destructive/app/controllers/v1/" . "ada/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud_destructive/app/controllers/" . "v1/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud_destructive/app/" . "controllers/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud/app/services/" . "rpc/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud_destructive/spec/serializers/" . "v1/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/serializers/v0/" . "public/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud_destructive/spec/" . "fixtures/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud/spec/support/" . "fixtures/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud/spec/serializers/" . "v1/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud/spec/acceptance/" . "v1/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/controllers/v0/" . "public/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud/spec/requests/" . "v1/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud/app/models/" . "concerns/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud/db/" . "migrate/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud/app/controllers/v1/" . "ada/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud/spec/requests/v1/" . "ada/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud/spec/" . "acceptance/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud/app/serializers/" . "v1/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud/lib/" . "onefill_auth/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud/app/controllers/" . "v2/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud/app/" . "controllers/")
+ ("/Users/htmldrum/code/maxwellforest/onebank_adapter/app/controllers/v1/" . "public/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_sup/app/assets/stylesheets/" . "rails_admin/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_sup/app/assets/javascripts/" . "rails_admin/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_sup/public/" . "assets/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_sup/app/assets/" . "stylesheets/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_sup/config/" . "initializers/")
+ ("/Users/htmldrum/code/maxwellforest/onebank_adapter/app/services/queues/pud/v0/" . "users/")
+ ("/Users/htmldrum/code/maxwellforest/onebank_adapter/app/services/queues/pud/" . "v0/")
+ ("/Users/htmldrum/code/maxwellforest/onebank_adapter/app/services/queues/" . "pud/")
+ ("/Users/htmldrum/code/maxwellforest/onebank_adapter/app/services/v1/" . "actions/")
+ ("/Users/htmldrum/code/maxwellforest/onebank_adapter/app/services/" . "queues/")
+ ("/Users/htmldrum/code/maxwellforest/onebank_adapter/app/controllers/" . "v1/")
+ ("/Users/htmldrum/code/maxwellforest/onebank_adapter/app/" . "models/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_status/tests/e2e/" . "onefill_sup/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_status/tests/create_user/" . "onefill_sup/")
+ ("/Users/htmldrum/go/src/k8s.io/kubernetes/test/" . "e2e/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_status/tests/" . "onefill_runner/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud/k8s/" . "staging/")
+ ("/Users/htmldrum/code/maxwellforest/onebank_adapter/config/" . "initializers/")
+ ("/Users/htmldrum/go/src/k8s.io/kubernetes/examples/" . "guestbook/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/deployments/" . "onefill_pud/")
+ ("/Users/htmldrum/code/maxwellforest/onebank_adapter/db/" . "migrate/")
+ ("/Users/htmldrum/code/maxwellforest/onebank_adapter/ci/" . "slack/")
+ ("/Users/htmldrum/code/maxwellforest/onebank_adapter/k8s/" . "staging/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_sup/k8s/" . "staging/")
+ ("/Users/htmldrum/code/maxwellforest/ci/" . "slack/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/k8s/" . "staging/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_sup/" . "k8s/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/ci/" . "slack/")
+ ("/Users/htmldrum/code/maxwellforest/onebank_adapter/" . "app/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_pud/" . "spec/")
  ("/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/kubernetes/cluster/" . "aws/")
  ("/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/kubernetes/" . "cluster/")
  ("/Users/htmldrum/go/src/k8s.io/kubernetes/examples/guestbook/" . "all-in-one/")
- ("/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/" . "kubernetes/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/" . "deployments/")
  ("/Users/htmldrum/code/maxwellforest/onefill_provision/prod_1/" . "ap-southeast-1/")
- ("/Users/htmldrum/go/src/k8s.io/kubernetes/" . "examples/")
+ ("/Users/htmldrum/go/src/k8s.io/kubernetes/" . "test/")
  ("/Users/htmldrum/go/src/k8s.io/" . "kubernetes/")
  ("/Users/htmldrum/code/maxwellforest/onefill_provision/components/yaml_based_k8s/" . "autoscale/")
  ("/Users/htmldrum/code/maxwellforest/onefill_provision/components/" . "yaml_based_k8s/")
- ("/Users/htmldrum/code/maxwellforest/onefill_provision/" . "prod_1/")
- ("/Users/htmldrum/code/maxwellforest/onefill_sup/app/controllers/" . "v0/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_provision/" . "components/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_sup/app/controllers/" . "concerns/")
  ("/Users/htmldrum/code/maxwellforest/onefill_sup/spec/acceptance/" . "v0/")
  ("/Users/htmldrum/code/maxwellforest/onefill_sup/spec/" . "support/")
- ("/Users/htmldrum/code/maxwellforest/onefill_sup/app/" . "controllers/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_sup/app/" . "services/")
  ("/Users/htmldrum/code/maxwellforest/onefill_sup/db/" . "migrate/")
  ("/System/Library/" . "LaunchDaemons/")
  ("/System/" . "Library/")
  ("/Users/htmldrum/go/src/github.com/htmldrum/tx/" . "cmd/")
  ("/Users/htmldrum/go/src/github.com/htmldrum/tx/cmd/" . "srv/")
  ("/Users/htmldrum/code/htmldrum/go/" . "the_go_programming_language/")
- ("/Users/htmldrum/go/src/github.com/htmldrum/" . "abcd/")
+ ("/Users/htmldrum/go/src/github.com/htmldrum/" . "sdl2/")
  ("/Users/htmldrum/go/" . "src/")
- ("/Users/htmldrum/go/src/github.com/" . "htmldrum/")
- ("/Users/htmldrum/go/src/" . "k8s.io/")
+ ("/Users/htmldrum/go/src/github.com/" . "veandco/")
+ ("/Users/htmldrum/go/src/" . "github.com/")
  ("/Users/htmldrum/code/maxwellforest/onefill_pud/config/" . "initializers/")
  ("/Users/htmldrum/code/maxwellforest/provision/staging_1/deployments/" . "onefill_maps_api/")
  ("/Users/htmldrum/code/maxwellforest/provision/staging_1/" . "deployments/")
@@ -36,27 +280,27 @@
  ("/Users/htmldrum/Desktop/deis/kubernetes/kubernetes.github.io/docs/" . "user-guide/")
  ("/Users/" . "htmldrum/")
  ("/Users/htmldrum/Desktop/haskell/" . "lyah/")
- ("/Users/htmldrum/Desktop/" . "ogl_xcode_build/")
- ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/requests/" . "v0/")
- ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/serializers/" . "v0/")
- ("/Users/htmldrum/" . "Desktop/")
+ ("/Users/htmldrum/Desktop/" . "Readings/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/requests/" . "v1/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/serializers/" . "v1/")
+ ("/Users/htmldrum/" . ".emacs.d/")
  ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/db/" . "migrate/")
- ("/Users/htmldrum/code/maxwellforest/onefill_oba/config/" . "initializers/")
- ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/serializers/" . "v0/")
- ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/acceptance/" . "v0/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/config/" . "environments/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/serializers/" . "v1/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/acceptance/" . "v1/")
  ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/models/" . "concerns/")
  ("/Users/htmldrum/code/maxwellforest/onefill_oba/db/" . "migrate/")
- ("/Users/htmldrum/code/maxwellforest/onefill_oba/" . "config/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/" . "k8s/")
  ("/Users/htmldrum/code/maxwellforest/onefill_oba/spec/" . "serializers/")
- ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/controllers/" . "v0/")
- ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/" . "serializers/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/controllers/" . "v1/")
+ ("/Users/htmldrum/code/maxwellforest/onefill_oba/app/" . "controllers/")
  ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/lib/" . "rails_admin/")
  ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/config/" . "initializers/")
  ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/app/serializers/" . "v0/")
  ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/controllers/" . "v0/")
- ("/Users/htmldrum/code/htmldrum/" . "go/")
- ("/Users/htmldrum/code/maxwellforest/" . "onefill_provision/")
- ("/Users/htmldrum/code/" . "maxwellforest/")
+ ("/Users/htmldrum/code/htmldrum/" . "presentations/")
+ ("/Users/htmldrum/code/maxwellforest/" . "ci/")
+ ("/Users/htmldrum/code/" . "the_ray_tracer_challenge/")
  ("/Users/htmldrum/code/htmldrum/generic_controller/spec/" . "lib/")
  ("/Users/htmldrum/code/htmldrum/generic_controller/" . "lib/")
  ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/spec/acceptance/" . "v0/")
@@ -110,7 +354,7 @@
  ("/media/htmldrum/Samsung USB/" . "workspace/")
  ("/media/htmldrum/" . "Samsung USB/")
  ("/media/" . "htmldrum/")
- ("/" . "System/")
+ ("/" . "tmp/")
  ("/tmp/web/" . "config/")
  ("/home/htmldrum/" . ".rbenv/")
  ("/Users/user/code/airtasker/airtasker/" . "lib/")
@@ -142,273 +386,273 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "/Users/htmldrum/Downloads/ogl-OpenGL-tutorial_0015_33/"
- "/Users/htmldrum/Downloads/ogl-OpenGL-tutorial_0015_33/tutorial01_first_window/"
- "/Users/htmldrum/Desktop/haskell/"
+ "/Users/htmldrum/.emacs.d/"
  "/Users/htmldrum/"
- "/Users/htmldrum/code/maxwellforest/onefill_provision/"
- "/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/"
- "/Users/htmldrum/.kube/"
- "/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/kubernetes/cluster/"
- "/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/kubernetes/cluster/aws/"
- "/Users/htmldrum/.aws/"
- "/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/kubernetes/"
- "/Users/htmldrum/code/maxwellforest/onefill_provision/prod_1/"
- "/Users/htmldrum/code/maxwellforest/onefill_provision/prod_1/kops/"
- "/Users/htmldrum/code/maxwellforest/onefill_provision/prod_1/ap-southeast-1/"
- "/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/kubernetes/client/"
- "/Users/htmldrum/go/src/k8s.io/kubernetes/cluster/"
- "/Users/htmldrum/go/src/k8s.io/kubernetes/"
- "/Users/htmldrum/go/src/k8s.io/kubernetes/cluster/aws/"
- "/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/dns/"
- "/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/rds/"
- "/Users/htmldrum/go/src/k8s.io/kubernetes/examples/guestbook/all-in-one/"
- "/Users/htmldrum/go/src/k8s.io/kubernetes/examples/guestbook/"
- "/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/dnsxxx/"
- "/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/r53/"
- "/Users/htmldrum/go/src/k8s.io/kubernetes/examples/"
- "/Users/htmldrum/code/maxwellforest/onefill_provision/prod_1/ap-southeast-1/out/terraform/"
- "/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/deployments/"
- "/Users/htmldrum/go/src/k8s.io/kubernetes/examples/explorer/"
- "/Users/htmldrum/go/src/k8s.io/kubernetes/examples/cluster-dns/"
- "/Users/htmldrum/go/src/k8s.io/kubernetes/examples/experimental/persistent-volume-provisioning/"
- "/Users/htmldrum/code/maxwellforest/onefill_provision/components/"
- "/Users/htmldrum/go/src/k8s.io/kubernetes/examples/elasticsearch/"
- "/Users/htmldrum/go/src/k8s.io/kubernetes/examples/cockroachdb/"
- "/Users/htmldrum/go/src/k8s.io/kubernetes/examples/apiserver/server/"
- "/Users/htmldrum/go/src/k8s.io/kubernetes/examples/apiserver/rest/"
- "/Users/htmldrum/go/src/k8s.io/kubernetes/examples/apiserver/"
- "/Users/htmldrum/code/maxwellforest/onefill_provision/components/yaml_based_k8s/autoscale/"
- "/Users/htmldrum/code/maxwellforest/onefill_provision/components/yaml_based_k8s/nginx/"
- "/Users/htmldrum/code/maxwellforest/onefill_provision/components/yaml_based_k8s/"
- "/Users/htmldrum/Desktop/haskell/lyah/worked_examples/"
- "/Users/htmldrum/code/maxwellforest/"
- "/Users/htmldrum/code/maxwellforest/onebank_adapter/"
- "/Users/htmldrum/code/maxwellforest/onefill_oba/"
- "/Users/htmldrum/code/maxwellforest/onefill_sup/"
- "/Users/htmldrum/code/maxwellforest/onefill_sup/app/controllers/v0/"
- "/Users/htmldrum/code/maxwellforest/onefill_sup/spec/"
- "/Users/htmldrum/code/maxwellforest/onefill_sup/spec/support/"
- "/Users/htmldrum/code/maxwellforest/onefill_sup/spec/acceptance/v0/"
- "/Users/htmldrum/code/maxwellforest/onefill_sup/db/"
- "/Users/htmldrum/code/maxwellforest/onefill_sup/spec/models/"
+ "/Users/htmldrum/.emacs.d/site-lisp/"
+ "/Users/htmldrum/code/the_ray_tracer_challenge/ps_imp/"
+ "/Users/htmldrum/.emacs.d/settings/"
+ "/Users/htmldrum/.emacs.d/site-lisp/dash/"
+ "/Users/htmldrum/.emacs.d/themes/"
+ "/Users/htmldrum/code/the_ray_tracer_challenge/ps_imp/src/RayTracer/Examples/"
+ "/Users/htmldrum/code/the_ray_tracer_challenge/ps_imp/src/RayTracer/"
+ "/Users/htmldrum/code/"
+ "/Users/htmldrum/code/elisp/"
+ "/Users/htmldrum/code/fz_code/"
+ "/Users/htmldrum/Desktop/"
+ "/Users/htmldrum/code/rust/amethyst/pong/"
+ "/Users/htmldrum/code/rust/amethyst/"
+ "/Users/htmldrum/code/rust/amethyst/pong/src/"
+ "/Users/htmldrum/code/rust/amethyst/pong/src/systems/"
+ "/Users/htmldrum/code/purescript/beeraffe/test/"
+ "/Users/htmldrum/code/purescript/beeraffe/src/Beeraffe/"
+ "/Users/htmldrum/code/the_ray_tracer_challenge/ps_imp/src/Data/"
+ "/Users/htmldrum/code/purescript/beeraffe/src/"
+ "/Users/htmldrum/code/the_ray_tracer_challenge/ps_imp/src/"
+ "/Users/htmldrum/code/the_ray_tracer_challenge/"
+ "/Users/htmldrum/code/the_ray_tracer_challenge/code/pseudo/tuples/"
+ "/Users/htmldrum/code/the_ray_tracer_challenge/code/files/"
+ "/Users/htmldrum/code/the_ray_tracer_challenge/code/features/"
+ "/Users/htmldrum/code/the_ray_tracer_challenge/code/"
+ "/Users/htmldrum/code/ruby/"
+ "/Users/htmldrum/code/github/lisp_ceo/blog/src/components/"
+ "/Users/htmldrum/code/github/lisp_ceo/blog/content/blog/2019-01-22-serverless-is-paas-integration/"
+ "/Users/htmldrum/code/github/lisp_ceo/blog/src/components/BlogCloudBut2ColWithAbsLeft/"
+ "/Users/htmldrum/code/github/lisp_ceo/blog/content/blog/2019-01-29-magic-is-not-maintainable/"
+ "/Users/htmldrum/code/github/lisp_ceo/blog/src/pages/"
+ "/Users/htmldrum/code/github/lisp_ceo/blog/content/blog/2019-02-26-exploring-golang-reflection/"
+ "/Users/htmldrum/code/github/lisp_ceo/blog/"
+ "/Users/htmldrum/code/github/lisp_ceo/blog/src/components/FoTwennyBlazeIt/ChunkyBunchMeenoo/"
+ "/Users/htmldrum/code/github/lisp_ceo/blog/src/components/FoTwennyBlazeIt/"
+ "/Users/htmldrum/code/github/lisp_ceo/blog/src/layouts/"
+ "/Users/htmldrum/code/github/lisp_ceo/"
+ "/Applications/Emacs.app/Contents/Resources/etc/"
+ "/Users/htmldrum/code/rust/battleship/src/"
+ "/Users/htmldrum/code/rust/egg_mode/twitter-rs/src/"
+ "/Users/htmldrum/code/rust/egg_mode/twitter-rs/src/direct/"
+ "/Users/htmldrum/code/rust/egg_mode/twitter-rs/src/common/"
+ "/Users/htmldrum/code/rust/battleship/"
+ "/Users/htmldrum/code/rust/egg_mode/twitter-rs/sample_payloads/"
+ "/Users/htmldrum/code/rust/egg_mode/twitter-rs/"
+ "/Users/htmldrum/code/rust/egg_mode/"
+ "/Users/htmldrum/code/rust/egg_mode/egg_mode_tests/src/"
+ "/Users/htmldrum/code/rust/egg_mode/egg_mode_tests/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- ".todo"
- "citi_api.md"
- ".citi"
- "rand_name.rb"
- "config"
- "kube-util.sh"
- "kube-up.sh"
- "options.md"
- ".env"
- "pass"
+ ".gitignore"
+ "setup-ido.el"
+ "key-bindings.el"
+ "init.el"
+ "appearance.el"
+ "Basic.purs"
+ "Canvas.purs"
+ "DERP.png"
+ "DERPHD.png"
+ "README.md"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/htmldrum/Downloads/ogl-OpenGL-tutorial_0015_33/" (22625 57018 0 0) "tutorial18_billboards_and_particles/" "tutorial17_rotations/" "tutorial16_shadowmaps/" "tutorial15_lightmaps/" "tutorial14_render_to_texture/" "tutorial13_normal_mapping/" "tutorial12_extensions/" "tutorial11_2d_fonts/" "tutorial10_transparency/" "tutorial09_vbo_indexing/" "tutorial08_basic_shading/" "tutorial07_model_loading/" "tutorial06_keyboard_and_mouse/" "tutorial05_textured_cube/" "tutorial04_colored_cube/" "tutorial03_matrices/" "tutorial02_red_triangle/" "tutorial01_first_window/" "playground/" "misc05_picking/" "misc04_building_your_own_app/" "misc01_math_cheatsheet/" "Makefile" "external/" "distrib/" "common/" "CMakeLists.txt" "BUILDING.txt" ".hgignore" ".gitignore" ".DS_Store" "../" "./")
+ ("/Users/htmldrum/.emacs.d/" (23697 5993 455692 773000) "backups/" "themes/" "games/" "assets/" "timelog" ".git/" "%backup%~" "elpa/" "recentf" "site-lisp/" "history" "scripts/" "users/" ".gitignore" "defuns/" "README.md" "init.el" "todo/" "auto-save-list/" ".places" "var/" "project-archetypes/" "custom.el" "recentf~" "transient/" "tramp" "places" "eshell/" ".mc-lists.el" "ido.last" "settings/" "snippets/" "ac-comphist.dat" "../" "./")
 
- ("/Users/htmldrum/Downloads/ogl-OpenGL-tutorial_0015_33/tutorial01_first_window/" (22625 58434 0 0) "tutorial01_first_window" "tutorial01.cpp" "screenshots/" ".DS_Store" "../" "./")
+ ("/Users/htmldrum/.emacs.d/site-lisp/" (23697 2517 149810 35000) "wgrep/" "find-file-in-project/" "buster-snippets/" "oppdrag-mode.el" "perspective/" "multifiles/" "bash-completion/" "diminish.el" "ace-jump-mode/" "puppet-mode/" "tern/" "buster-mode/" "js2-refactor/" "frame-cmds.el" "top-mode.el" "symbol-focus.el" "rhtml-mode/" "skewer-mode/" "browse-kill-ring/" "feature-mode/" "mouse-slider-mode.el" "jade-mode/" "change-inner/" "smart-forward/" "multiple-cursors/" "smex/" "hardcore-mode/" "undo-tree.el" "expand-region/" "tagedit/" "s/" "shell-command.el" "project-archetypes/" "angular-snippets/" "clj-refactor/" "groovy-mode/" "smooth-scrolling.el" "datomic-snippets/" "frame-fns.el" "php-mode/" "simplezen/" "ido-ubiquitous/" "single-quotes-mode.el" "jump-char/" "delsel/" "yaml-mode/" "eproject/" "evil/" "core-async-mode.el" "clj-autotest.el" "apache-mode.el" "js2-mode/" "fill-column-indicator/" "fold-this/" "annoying-arrows-mode/" "crappy-jsp-mode/" "zoom-frm.el" "../" "./")
 
- ("/Users/htmldrum/Desktop/ogl_xcode_build/" (22625 56923 0 0) "Tutorials.xcodeproj/" "Tutorials.build/" "launch-tutorial18_particles-RelWithDebInfo.sh" "launch-tutorial18_particles-Release.sh" "launch-tutorial18_particles-MinSizeRel.sh" "launch-tutorial18_particles-Debug.sh" "launch-tutorial18_billboards-RelWithDebInfo.sh" "launch-tutorial18_billboards-Release.sh" "launch-tutorial18_billboards-MinSizeRel.sh" "launch-tutorial18_billboards-Debug.sh" "launch-tutorial17_rotations-RelWithDebInfo.sh" "launch-tutorial17_rotations-Release.sh" "launch-tutorial17_rotations-MinSizeRel.sh" "launch-tutorial17_rotations-Debug.sh" "launch-tutorial16_shadowmaps_simple-RelWithDebInfo.sh" "launch-tutorial16_shadowmaps_simple-Release.sh" "launch-tutorial16_shadowmaps_simple-MinSizeRel.sh" "launch-tutorial16_shadowmaps_simple-Debug.sh" "launch-tutorial16_shadowmaps-RelWithDebInfo.sh" "launch-tutorial16_shadowmaps-Release.sh" "launch-tutorial16_shadowmaps-MinSizeRel.sh" "launch-tutorial16_shadowmaps-Debug.sh" "launch-tutorial15_lightmaps-RelWithDebInfo.sh" "launch-tutorial15_lightmaps-Release.sh" "launch-tutorial15_lightmaps-MinSizeRel.sh" "launch-tutorial15_lightmaps-Debug.sh" "launch-tutorial14_render_to_texture-RelWithDebInfo.sh" "launch-tutorial14_render_to_texture-Release.sh" "launch-tutorial14_render_to_texture-MinSizeRel.sh" "launch-tutorial14_render_to_texture-Debug.sh" "launch-tutorial13_normal_mapping-RelWithDebInfo.sh" "launch-tutorial13_normal_mapping-Release.sh" "launch-tutorial13_normal_mapping-MinSizeRel.sh" "launch-tutorial13_normal_mapping-Debug.sh" "launch-tutorial12_extensions-RelWithDebInfo.sh" "launch-tutorial12_extensions-Release.sh" "launch-tutorial12_extensions-MinSizeRel.sh" "launch-tutorial12_extensions-Debug.sh" "launch-tutorial11_2d_fonts-RelWithDebInfo.sh" "launch-tutorial11_2d_fonts-Release.sh" "launch-tutorial11_2d_fonts-MinSizeRel.sh" "launch-tutorial11_2d_fonts-Debug.sh" "launch-tutorial10_transparency-RelWithDebInfo.sh" "launch-tutorial10_transparency-Release.sh" "launch-tutorial10_transparency-MinSizeRel.sh" "launch-tutorial10_transparency-Debug.sh" "launch-tutorial09_vbo_indexing-RelWithDebInfo.sh" "launch-tutorial09_vbo_indexing-Release.sh" "launch-tutorial09_vbo_indexing-MinSizeRel.sh" "launch-tutorial09_vbo_indexing-Debug.sh" "launch-tutorial09_several_objects-RelWithDebInfo.sh" "launch-tutorial09_several_objects-Release.sh" "launch-tutorial09_several_objects-MinSizeRel.sh" "launch-tutorial09_several_objects-Debug.sh" "launch-tutorial09_AssImp-RelWithDebInfo.sh" "launch-tutorial09_AssImp-Release.sh" "launch-tutorial09_AssImp-MinSizeRel.sh" "launch-tutorial09_AssImp-Debug.sh" "launch-tutorial08_basic_shading-RelWithDebInfo.sh" "launch-tutorial08_basic_shading-Release.sh" "launch-tutorial08_basic_shading-MinSizeRel.sh" "launch-tutorial08_basic_shading-Debug.sh" "launch-tutorial07_model_loading-RelWithDebInfo.sh" "launch-tutorial07_model_loading-Release.sh" "launch-tutorial07_model_loading-MinSizeRel.sh" "launch-tutorial07_model_loading-Debug.sh" "launch-tutorial06_keyboard_and_mouse-RelWithDebInfo.sh" "launch-tutorial06_keyboard_and_mouse-Release.sh" "launch-tutorial06_keyboard_and_mouse-MinSizeRel.sh" "launch-tutorial06_keyboard_and_mouse-Debug.sh" "launch-tutorial05_textured_cube-RelWithDebInfo.sh" "launch-tutorial05_textured_cube-Release.sh" "launch-tutorial05_textured_cube-MinSizeRel.sh" "launch-tutorial05_textured_cube-Debug.sh" "launch-tutorial04_colored_cube-RelWithDebInfo.sh" "launch-tutorial04_colored_cube-Release.sh" "launch-tutorial04_colored_cube-MinSizeRel.sh" "launch-tutorial04_colored_cube-Debug.sh" "launch-tutorial03_matrices-RelWithDebInfo.sh" "launch-tutorial03_matrices-Release.sh" "launch-tutorial03_matrices-MinSizeRel.sh" "launch-tutorial03_matrices-Debug.sh" "launch-tutorial02_red_triangle-RelWithDebInfo.sh" "launch-tutorial02_red_triangle-Release.sh" "launch-tutorial02_red_triangle-MinSizeRel.sh" "launch-tutorial02_red_triangle-Debug.sh" "launch-tutorial01_first_window-RelWithDebInfo.sh" "launch-tutorial01_first_window-Release.sh" "launch-tutorial01_first_window-MinSizeRel.sh" "launch-tutorial01_first_window-Debug.sh" "launch-playground-RelWithDebInfo.sh" "launch-playground-Release.sh" "launch-playground-MinSizeRel.sh" "launch-playground-Debug.sh" "launch-misc05_picking_slow_easy-RelWithDebInfo.sh" "launch-misc05_picking_slow_easy-Release.sh" "launch-misc05_picking_slow_easy-MinSizeRel.sh" "launch-misc05_picking_slow_easy-Debug.sh" "launch-misc05_picking_custom-RelWithDebInfo.sh" "launch-misc05_picking_custom-Release.sh" "launch-misc05_picking_custom-MinSizeRel.sh" "launch-misc05_picking_custom-Debug.sh" "launch-misc05_picking_BulletPhysics-RelWithDebInfo.sh" "launch-misc05_picking_BulletPhysics-Release.sh" "launch-misc05_picking_BulletPhysics-MinSizeRel.sh" "launch-misc05_picking_BulletPhysics-Debug.sh" "external/" "CMakeScripts/" "CMakeFiles/" "CMakeCache.txt" "cmake_install.cmake" ".DS_Store" "../" "./")
+ ("/Users/htmldrum/.emacs.dvar/" (23689 63401 713371 196000) "pcache/" "../" "./")
 
- ("/Users/htmldrum/Desktop/" (22625 56828 0 0) "weave/" "tinkerpop/" "terraform/" "swagger/" "scala/" "rethinkDB/" "raft.pdf" "purescript/" "prometheus/" "pics/" "pepe" "orientDB/" "Onebank_Cert/" "ogl_xcode_build/" "modern-cljs/" "main.go" "james" "ISM_controls/" "htmldrum" "haskell/" "goals.md" "ghc_perf/" "g" "functional-programming-patterns-in-scala-and-clojure.md" "EngineLogic.bmpr" "docker_i/" "docker/" "deis/" "cpp/" "coursera/" "coq/" "containers/" "consul/" "category_theory.md alias 2" "category_theory.md" "books/" "awesome-emoji/" ".DS_Store" "../" "./")
+ ("/Users/htmldrum/" (23697 2523 737932 24000) ".guard_history" ".goals" ".smex-items" ".gtk-bookmarks" ".viminfo" ".bash_history" ".mindterm/" ".v8flags.5.1.281.83.htmldrum.json" ".onepass" ".todo" ".gitconfig" ".aws/" ".cache/" "Downloads/" ".rediscli_history" ".Xauthority" "AndroidStudioProjects/" ".gem/" ".pry_history" ".bash_profile" ".m2/" ".vscode/" ".mono/" ".citi" ".coreos/" ".babel.json" ".pyenv/" ".ngrok2/" "Documents/" ".terraform.d/" ".npm/" ".scala_history" ".keras/" ".pryrc" ".travis/" ".Trash/" ".ghci" ".gradle/" ".ghc/" ".profile" "Applications/" "Movies/" "OhMyGod/" ".ssh/" ".rustup/" "all_playbooks.txt" ".ansible/" "Android/" "scala/" ".kube/" ".1password/" "package-lock.json" "htmldrum.theme/" "GitHub/" "Public/" "htmldrum_code_max/" "ssh" "yarn.lock" ".lein/" ".sbt/" ".purescript/" ".helm/" ".bash_sessions/" ".cups/" ".gitignore_global" ".cocoapods/" ".android/" ".cargo/" ".node_repl_history" ".nix-defexpr/" ".emacs.d/" ".minikube/" "shops/" ".coursier/" ".IdentityService/" ".emacs.dvar/" ".emulator_console_auth_token" ".oracle_jre_usage/" ".lesshst" ".matplotlib/" "lisp_ceo_scenes.json" "eclipse-workspace/" "Library/" "Desktop/" ".p2/" ".certs.txt" ".now.json" "guitar/" "code/" ".nix-profile" ".rnd" "repl-test.data" ".bundle/" ".nvm/" "node_modules/" ".atom/" ".multirust/" ".irssi/" "Pictures/" "Projects/" "temp-41509.rdb" "training/" ".psql_history" ".local/" "corectld" ".templateengine/" ".boot/" ".vue-templates/" ".adobe/" ".ServiceHub/" ".emacs.dbackups/" "android_sdk/" ".subversion/" ".cabal/" ".netrc" ".vagrant.d/" ".rbenv/" "bin/" ".tooling/" "pbcopy" ".wget-hsts" ".hgignore_global" "LearningCSharp2D/" ".CFUserTextEncoding" ".yarnrc" ".ruby-version" ".ammonite/" ".AndroidStudio2.1/" "VirtualBox VMs/" ".tmux.conf" ".btc/" ".thumbnails/" ".jspm/" ".gnupg/" "eclipse/" ".DS_Store" "go/" "index.html" ".vim/" ".emacs_bash" ".node-gyp/" "completeness_proof" ".heroku/" ".deis/" ".ivy2/" "env.wine.txt" ".docker/" "wrong.js" "Music/" "personal/" ".config/" ".eclipse/" ".example_facts" ".idris/" ".stack/" ".fastlane/" "../" "./")
 
- ("/Users/htmldrum/" (22625 53938 0 0) "tmp" "scala/" "repl-test.data" "Qt/" "qcow-tool" "Public/" "Pictures/" "Music/" "Movies/" "log.000" "Library/" "go/" "GitHub/" "env.wine.txt" "dump.rdb" "Downloads/" "Documents/" "Desktop/" "corectld.runner" "corectld" "corectl" "code/" "bin/" "Applications/" "AndroidStudioProjects/" "android_sdk/" "20160918_161758.jpg" ".wget-hsts" ".viminfo" ".vagrant.d/" ".v8flags.5.1.281.83.htmldrum.json" ".travis/" ".Trash/" ".todo" ".tmux.conf" ".terraform.d/" ".subversion/" ".stack/" ".ssh/" ".smex-items" ".scala_history" ".sbt/" ".ruby-version" ".rnd" ".rediscli_history" ".rbenv/" ".purescript/" ".psql_history" ".pryrc" ".pry_history" ".profile" ".oracle_jre_usage/" ".npm/" ".node_repl_history" ".ngrok2/" ".netrc" ".multirust/" ".minikube/" ".m2/" ".local/" ".lesshst" ".lein/" ".kube/" ".ivy2/" ".irssi/" ".heroku/" ".helm/" ".gradle/" ".gnupg/" ".gitconfig" ".ghci" ".ghc/" ".gem/" ".emulator_console_auth_token" ".emacs_bash" ".emacs.dbackups/" ".emacs.d/" ".DS_Store" ".docker/" ".deis/" ".cups/" ".coreos/" ".config/" ".cocoapods/" ".citi" ".cargo/" ".cache/" ".cabal/" ".bundle/" ".boot/" ".bash_sessions/" ".bash_profile~" ".bash_profile" ".bash_history" ".aws/" ".AndroidStudio2.1/" ".android/" ".ammonite/" "../" "./")
+ ("/Users/htmldrum/.emacs.d/settings/" (23697 5719 649499 222000) "setup-org.el" "setup-magit.el" "setup-ruby-mode.el" "setup-rgrep.el" "setup-html-mode.el" "setup-tide-mode.el" "setup-env.el" "setup-hippie.el" "setup-shell.el" "mac.el" "setup-package.el" "appearance.el" "setup-dired.el" "key-bindings.el" "setup-flycheck.el" "mode-mappings.el" "setup-ffip.el" "setup-circe.el" "setup-perspective.el" "setup-skewer.el" "setup-js2-mode.el" "setup-paredit.el" "setup-clojure-mode.el" "sane-defaults.el" "setup-elnode.el" "setup-ido.el" "setup-go-mode.el" "setup-neotree.el" "setup-markdown-mode.el" "setup-yasnippet.el" "my-misc.el" "../" "./")
 
- ("/Users/htmldrum/Desktop/haskell/" (22616 25978 0 0) "wikibooks.org/" "tryhplay/" "TODO" "sjp/" "servant-swagger/" "pux-starter-app/" "purescript-workshop/" "purescript-thermite/" "purescript/" "lyah/" "lyaa/" "haskellonheroku.com/" "haskell-lang.org/" "getting-started-in-purescript/" "gentle_introduction_to_haskell/" "free-monad/" "first-servant/" "example-servant-minimal/" "airpair/" ".DS_Store" "../" "./")
+ ("/Users/htmldrum/.emacs.d/site-lisp/dash/" (22495 7657 0 0) "run-travis-ci.sh" ".travis.yml" "rainbow-dash.png" "dash-functional.el" ".git" "Cask" "dev/" "pre-commit.sh" ".gitignore" "readme-template.md" "watch-tests.watchr" "create-docs.sh" "README.md" "dash-template.texi" "dash.info" "run-tests.sh" "dash.el" "dash.texi" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_provision/components/" (22620 31888 0 0) "yaml_based_k8s/" "TODO.md" "runbook.md" "replication_controllers/" "psql.md" "minikube.md" "k8s.md" "jobs/" "fluentd.md" "etcd.md" "data_recovery.md" ".#runbook.md" "#fluentd.md#" "../" "./")
+ ("/Users/htmldrum/code/purescript/beeraffe/" (23675 44182 142434 990000) "src/" "data/" ".git/" "scripts/" "psc-package.json" ".gitignore" "README.md" "webpack.config.js" "Makefile" "test/" "LICENSE" ".DS_Store" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_provision/" (22620 26027 0 0) "staging_1/" "README.md" "rand_name.rb" "prod_1/" "network-diagram.pdf" "network-diagram.bmpr" "components/" ".gitignore" ".git/" "../" "./")
+ ("/Users/htmldrum/code/purescript/" (23691 39212 792192 227000) "twimg.lisp-ceo.com/" "purescript_by_example/" "beeraffe/" ".DS_Store" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/" (22620 25444 0 0) "terraform.tfstate.backup" "terraform.tfstate" "smtp.md" "s3/" "README.md" "rds/" "main.tf" "kubernetes.tar.gz" "kubernetes/" "kube-up.sh" "dns/" "deployments/" "data/" "crash.log" ".terraform/" ".env" "../" "./")
+ ("/Users/htmldrum/.emacs.d/themes/" (22495 7658 0 0) "railscasts-theme.el" "zenburn-theme.el" "prez-theme.el" "railscasts-theme-pkg.el" "default-black-theme.el" "zenburn-theme-autoloads.el" "zenburn-theme-pkg.el" "railscasts-theme-autoloads.el" "../" "./")
 
- ("/Users/htmldrum/.kube/" (22620 23318 0 0) "schema/" "config" "cache/" "../" "./")
+ ("/Users/" (23488 13950 441463 383000) "Guest/" "htmldrum/" "Shared/" ".localized" "../" "./")
 
- ("/Users/htmldrum/AndroidStudioProjects/" (22560 6485 0 0) "Swyne/" ".DS_Store" "../" "./")
+ ("/Users/htmldrum/code/the_ray_tracer_challenge/ps_imp/" (23697 469 744040 932000) "src/" ".git/" "psc-package.json" ".gitignore" ".psci_modules/" ".purs-repl" "bower.json" "html/" "output/" ".psc-package/" ".pulp-cache/" "Makefile" "bower_components/" "dist/" "test/" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/kubernetes/cluster/" (22608 39884 0 0) "vsphere/" "validate-cluster.sh" "vagrant/" "update-storage-objects.sh" "ubuntu/" "test-smoke.sh" "test-network.sh" "test-e2e.sh" "skeleton/" "restore-from-backup.sh" "README.md" "rackspace/" "photon-controller/" "OWNERS" "ovirt/" "options.md" "openstack-heat/" "mesos/" "log-dump.sh" "local/" "libvirt-coreos/" "lib/" "kubemark/" "kubectl.sh" "kubeadm.sh" "kube-util.sh" "kube-up.sh" "kube-push.sh" "kube-down.sh" "juju/" "images/" "gke/" "get-kube.sh" "get-kube-local.sh" "get-kube-binaries.sh" "gce/" "common.sh" "centos/" "azure-legacy/" "azure/" "aws/" "addons/" "../" "./")
+ ("/Users/htmldrum/code/the_ray_tracer_challenge/ps_imp/src/RayTracer/Examples/" (23697 403 707131 34000) "Basic.purs" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/kubernetes/cluster/aws/" (22608 39884 0 0) "wily/" "util.sh" "templates/" "options.md" "jessie/" "config-test.sh" "config-default.sh" "common/" "../" "./")
+ ("/Users/htmldrum/code/the_ray_tracer_challenge/ps_imp/src/RayTracer/" (23696 65490 36749 349000) "Canvas.purs" "Examples/" "Tuple.purs" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/kubernetes/client/" (22620 21042 0 0) "README" "kubernetes-client-darwin-amd64.tar.gz" "bin/" "../" "./")
+ ("/Users/htmldrum/code/the_ray_tracer_challenge/ps_imp/src/" (23692 62199 617914 876000) "Main.purs" "RayTracer/" "PsDemos/" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/kubernetes/" (22620 21042 0 0) "version" "Vagrantfile" "third_party/" "server/" "README.md" "platforms/" "LICENSES" "federation/" "examples/" "docs/" "cluster/" "client/" "../" "./")
+ ("/Users/htmldrum/.emacs.d/games/" (23695 53453 529339 493000) "tetris-scores" "snake-scores" "tron-scores" "../" "./")
 
- ("/Users/htmldrum/go/src/k8s.io/" (22619 26529 0 0) "kubernetes/" "kops/" "../" "./")
+ ("/Users/htmldrum/code/elisp/" (22954 1504 0 0) "tron.el/" "refcard.pdf" "../" "./")
 
- ("/Users/htmldrum/go/src/k8s.io/kubernetes/cluster/aws/" (22617 53325 0 0) "wily/" "util.sh" "templates/" "options.md" "jessie/" "config-test.sh" "config-default.sh" "common/" "../" "./")
+ ("/Users/htmldrum/code/fz_code/" (23492 22746 949447 369000) "james.meldrum/" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/rds/" (22619 32218 0 0) "main.tf" "../" "./")
+ ("/Users/htmldrum/Desktop/" (23695 48739 182426 190000) "border.xcf" "Dash.zip" "terminal-phun.png" "Screen Shot 2019-03-13 at 5.26.37 pm.png" "Screen Shot 2019-03-11 at 5.16.57 pm.png" "8h1fs8b9dh9nj13u2r8.png" "Screen Shot 2019-03-19 at 12.03.09 am.png" "DERP.png" "Screen Shot 2019-02-23 at 4.48.31 pm.png" "Screen Shot 2019-03-02 at 8.07.56 am.png" "Screen Shot 2019-03-18 at 6.29.04 pm.png" "cornerPiece.png" "m8.jpg" "m8.png" "Screen Shot 2019-03-14 at 5.38.25 pm.png" "tool.mp4" "tv.xcf" "Screen Shot 2019-01-12 at 1.25.49 pm.png" "Screen Shot 2019-02-09 at 11.07.26 am.png" "Screen Shot 2018-10-21 at 8.16.24 am.png" "Screen Shot 2018-10-14 at 2.13.22 pm.png" "Screen Shot 2019-03-08 at 7.40.00 am.png" "2016-17 tax return.pdf" "Screen Shot 2019-02-27 at 12.15.59 pm.png" "Screen Shot 2019-02-09 at 11.07.18 am.png" "Screen Shot 2019-03-19 at 12.03.03 am.png" "Screen Shot 2019-03-18 at 4.04.58 pm.png" "stutter_breath.xcf" "Screen Shot 2019-03-16 at 6.23.04 am.png" "Dyy2LmrUcAAK9bV.jpg large.jpeg" "fayce.png" "Screen Shot 2019-01-15 at 10.17.03 am.png" "84743370-retro-sketch-mechanical-gears-hand-drawn-vintage-cog-wheel-parts-of-factory-machine-vector-illustrat.jpg" "Screen Shot 2019-03-19 at 2.19.01 am.png" "shonk1.png" "694847-518a3baf6096388726e4e9ac7ca0336f.mp4" "Screen Shot 2019-03-12 at 10.04.20 am.png" "2017-18 tax return.pdf" "Screen Shot 2019-02-07 at 3.12.47 pm.png" "8745fnjvdfbpacq.png" "Screen Shot 2019-03-14 at 5.38.31 pm.png" "Screen Shot 2019-02-25 at 9.10.04 pm.png" "sandy_bridge_pipeline.png" "tv-anim.xcf" "backView2.gif" "megaphone.jpg" "1552669670969.jpg" "terminal-phun.gif" "Conditioning.numbers" "Screen Shot 2019-03-12 at 10.09.13 am.png" "kisspng-cheech-chong-drawing-art-film-producer-5b444a46d2b9c9.7640014615312021188631.jpg" "Screen Shot 2019-03-12 at 10.09.03 am.png" "Shares.numbers" "Screen Shot 2018-12-16 at 10.57.51 am.png" "Screen Shot 2019-03-19 at 2.19.01 am (2).png" "sandbridge_diagram.png" "Screen Shot 2019-02-27 at 12.52.00 pm.png" "Screen Shot 2019-03-14 at 1.55.12 pm.png" "Screen Shot 2018-10-14 at 4.52.18 pm.png" "maxresdefault.jpg" "Japan 2019.numbers" "Screen Shot 2019-01-12 at 1.25.49 pm (2).png" "Screen Shot 2019-03-19 at 12.03.14 am.png" "jimbo.png" "Screen Shot 2019-01-29 at 8.46.33 pm.png" ".localized" "Screen Shot 2019-02-27 at 12.35.52 pm.png" "Untitled.xcf" "lambda_defends_against_city_destroying_monolith.png" "Screen Shot 2019-03-18 at 4.59.35 am.png" "Screen Shot 2019-03-18 at 1.35.23 am.png" "m8.xcf" "Screen Shot 2019-03-19 at 2.19.01 am 1(2).png" "Screen Shot 2019-03-19 at 2.15.08 am.png" "raynor.jpg" ".DS_Store" "Screen Shot 2019-02-27 at 12.15.25 pm.png" "Screen Shot 2019-03-17 at 3.21.35 am.png" "Screen Shot 2019-03-14 at 1.59.38 pm.png" "depositphotos_120581802-stock-illustration-gear-white-cog-machine-part.jpg" "Screen Shot 2019-03-18 at 6.29.01 pm.png" "Screen Shot 2018-10-22 at 9.11.17 am.png" "Screen Shot 2018-10-14 at 4.49.58 pm.png" "DERP.xcf" "Screen Shot 2019-01-29 at 8.47.01 pm.png" "poor_shadoof.png" "Screen Shot 2019-03-12 at 10.07.45 am.png" "Screen Shot 2019-03-19 at 2.19.01 am 1.png" "svc2.jpg" "Screen Shot 2019-01-12 at 8.25.22 pm.png" "Screen Shot 2019-03-16 at 5.37.55 am.png" "b41163b5ea6ba5d6d85194df0c8960b8.jpg" "Screen Shot 2019-01-24 at 6.07.32 pm.png" "me.jpg" "../" "./")
 
- ("/Users/htmldrum/go/src/k8s.io/kubernetes/cluster/" (22617 53325 0 0) "vsphere/" "validate-cluster.sh" "vagrant/" "update-storage-objects.sh" "ubuntu/" "test-smoke.sh" "test-network.sh" "test-e2e.sh" "skeleton/" "saltbase/" "restore-from-backup.sh" "README.md" "rackspace/" "photon-controller/" "OWNERS" "ovirt/" "options.md" "openstack-heat/" "log-dump.sh" "local/" "libvirt-coreos/" "lib/" "kubemark/" "kubectl.sh" "kubeadm.sh" "kube-util.sh" "kube-up.sh" "kube-push.sh" "kube-down.sh" "juju/" "images/" "gke/" "get-kube.sh" "get-kube-local.sh" "get-kube-binaries.sh" "gce/" "common.sh" "centos/" "azure-legacy/" "azure/" "aws/" "addons/" "../" "./")
+ ("/Users/htmldrum/Downloads/" (23695 26417 520255 903000) "dev_team_photos/" "medicare-card.JPG" "1505712155071.jpg" "katana_macd_v100.tgz" "IMG_1105.JPG" "VB.jpg" "important 2.pcapng" "full.jpg" "GooglyPuff_Swift3_Part1_Starter/" "MVT_SAFEDOME_ISO_8.0.8.img" "4634731-6917058a9f6437092531794fa022aed8069e4aea.zip" "Dash.zip" "voting_rights_control.jpg" "security_engineering_a_guide_to_building_dependable_distributed_systems.prc" "boad1x.png" "card-1@3x.png" "purescript-tutorial-1.0.0.tar.gz" "new_cert.zip" "bts_katana_m200.zip" "linux_academy.pem" "example_files/" "phantomjs-2.1.1-linux-x86_64/" "nathanielknight-smashbing-78094a0e90b0.zip" "IMG_1110.JPG" "1501100504338.jpg" "1500577839794.gif" "slothfullbody(1).png" "2410176085459(1).pdf" "boost_1_67_0.tar.gz" "Info.plist" "4634731-6917058a9f6437092531794fa022aed8069e4aea/" "katana_sys_v201.zip" "bts_rc_m110.zip" "Explode.zip" "IMG_1112.JPG" "modernopenglcplusplus3dgametutorialseriesand3drendering_video.zip.torrent" "bts_rc_m110-1.zip" "pTqr5Rp8c.gif" "07_ImplementNavigation.zip" "node-exporter.yaml" "learningcsharpbydevelopinggameswithunity_video_supplement.zip.torrent" "ogl-OpenGL-tutorial_0015_33/" "IMG_2552.JPG" "bts_gp10_m111/" "influxdb-metrics_rev1.json" "IMG_1107.JPG" "IMG_0782.JPG" "Video_compression.swift" "ios_development.cer" "github-recovery-codes.txt" "buildingacharacterusingblender3d_video_supplement.zip" "slothfullbody.png" "go-server-server/" "Gartner_2017_Chart_Image.jpg" "1bank.zip" "02085285.pdf" "Jazz Guitar Chord Tone Soloing/" "i18n/" "Adobe Illustrator CC 2018 v22.0.0.243 + Crack {Mac OS X} [CracksNow]/" "unifi_sysvinit_all.deb" "card-2.png" "dist.p12" "commaxwellforestonecartactivity.mobileprovision" "1483378784756.png" "duane-walters-katie-morris.jpg" "1500605481548.gif" "cloudcraft - Protected User Data Environment.png" "KeychainTouchIDUsingTouchIDwithKeychainandLocalAuthentication/" "OrderHistory-201902042117.csv" "Codes 2/" "Starter Project 2/" "Lambda_cube.png" "learningcsharpbydevelopinggameswithunity_video_supplement/" "OneShopiOS 2017-07-28 16-34-57/" "wjs33dni.jpg" "GeometryFighterResources.zip" "card-1@2x.png" "HS5USBDriver 2/" "04_ImplementACustomControl.zip" "DElEensUIAA_MmM.jpg_large.jpeg" "learningkubernetes_video/" "Japan 2019.xlsx" "card-1.png" "LearningC#7ByDevelopingGameswithUnity2017_Code/" "prometheus-configmap-2.yaml" "1505778865217.jpg" "1501642916745.jpg" "swift3gamedevelopment_supplement(1).zip" "Codes/" "jdk1.8.0_144/" "OneBank_InHouse_Distribution.mobileprovision" "KeychainTouchIDUsingTouchIDwithKeychainandLocalAuthentication.zip" "client_secret_890409237091-9gmvan7a4u1v15rd20bkmh73st42l0vn.apps.googleusercontent.com.json" "KATANAUSBDriver/" "chromedriver_mac32.zip" "wallpaper/" "cloudcraft - Support Environment Reference Architecture.png" "7106604014929.pdf" "Wineskin Winery.app Version 1.7.zip" "status_reports_2017-03-15T23-31-42+00-00.csv" "GenericKeychain/" "kenney_medievalrtspack/" "Isometric_world_meadow_images/" "katana_sys_v102.zip" "contents(1).pdf" "1500465936410.jpg" "image013.jpg" "03_WorkWithViewControllers.zip" "foreverdealwithit.gif" "kerasdeeplearningprojects_video.zip" "James Meldrum - Flip Employment Agreement.pdf" "DzP-KfpV4AA4TH2.jpg" "FullSizeRender.jpg" "TransactionHistory.xlsx" "xplsv_einv2.zip" "1501566081316.jpg" "swift3gamedevelopment_supplement.zip" "fastlane/" "AppleWWDRCA.cer" "2410176085459.pdf" "gamedevelopmentpatternsandbestpractices_supplement.zip" "buildingacharacterusingblender3d_video.zip" "Dash 2.app/" "ptk_v2.5.4_macosx_svn_665.zip" "swift.png" "IMG_1011.JPG" "Artboard 5.png" "ID2_Book_of_Spells_and_Table.zip" "1499794789119.png" "Ned - Hidely ho.wav" "1481682009856.webm" "Dash(1).zip" "1500307247827.gif" "Slack.png" "jbmaze-code.zip" "hs5_mx11d100.tgz" "03_WorkWithViewControllers/" "04_ImplementACustomControl/" "1493275165902.png" "license.JPG" "1483378626578.jpg" "Starter Project/" "go-server-server-generated.zip" "misc1.cpp" "Kitematic-Mac.zip" "dungeon_keeper_manual.zip" "tcpserver.c" "dk1_dev_team_photos.zip" "1500861404602.gif" "image001.png" "Pasted image at 2017_07_12 02_26 PM.png" "1500459379474.gif" "manual/" "Messages Image(1737907172) copy.png" "CameraDemoStarter.zip" "credentials-1.csv" "credentials.csv" "katana_sys_v102/" "sloth.png" "javascript-client-generated.zip" "1500269142422.gif" "1499159920955.png" "history.pdf" "bts_rc_m110/" "bts_katana_m200/" "status_reports_2017-06-15T00-39-20+00-00.csv" "Wonder Boy III - The Dragon's Trap (USA, Europe).sms" "dk1_wallpaper.zip" "Artboard 3.png" "Screen Shot 2016-12-21 at 11.49.44 AM.png" "inspect.zip" "052eeafd-2b06-407a-8f47-fb7d14c9fe90.mp4" "h2o-3.14.0.2.zip" "jbtracer-code.zip" "1494896877272.png" "Simple OpenGL Image Library/" "monad-transformers-step-by-step.pdf" "TouchMeInCD-final.v.1.02.zip" "credentials-2.csv" "Install Spotify.app/" "1481616673834.jpg" "Adobe Photoshop CS6 13.0 Final (English Japanese)  Mac Os X [ChingLiu]/" "Gervais.jpg" "hs5_sys_v104.zip" "1505722163564.png" "DGzgz2ZXsAAp08H.jpg_large.jpeg" "Citi_API_Getting_Started_v0_0_2.pptx" "haskell-server/" "07_ImplementNavigation/" "MVT_SAFEDOME_ISO_8.0.8(1).img" "google-cloud-sdk/" "kenney_medievalrtspack.zip" "3D Apple Games by Tutorials Beginning 3D Apple Game Development with Swift 3.zip" "Deep Learning with TensorFlow/" "1500428264201.gif" "TouchMeInCD-final.v.1.02/" "The_iOS_Apprentice_1_Getting_Started_v5.0.zip" "Packt.PostgreSQL.High.Performance.Cookbook.1785284339.rar" "PhotoScroll_Starter/" "1500849755602.png" "nathanielknight-smashbing-78094a0e90b0/" "1.gif" "InstrumentsSwift-Starter.zip" "boost_1_51_0.tar.bz2" "1500944063661.gif" "1500414721036.jpg" "1501708899680.png" "Homer - Soft d'oh.wav" "soil.zip" "IMG_0851.JPG" "card-2@2x.png" "8585c32c4eb294fdd80d794650876f6f.jpg" "modernopenglcplusplus3dgametutorialseriesand3drendering_video/" "katana_macd_v100(1).tgz" "dinner.pdf" "1500936540334.gif" "learningcsharpbydevelopinggameswithunity_video_supplement.zip" "Updated Loan Application Summary.pdf" "modernopenglcplusplus3dgametutorialseriesand3drendering_video_supplement.zip" "null_pointer.webm" "cloudcraft - Bank Adapter.png" "AntifaMolli.png" "7106604014929(1).pdf" "new_cert/" "issue24.pdf" "TypeDD-Samples.zip" "1508962489629.jpg" "Images 2/" "ANZ.csv" "IMG_2552 2.JPG" "Dash.app/" "bts_katana_m102/" "card-2@3x.png" "Screen Shot 2016-12-20 at 6.35.55 PM.png" "4634731-6917058a9f6437092531794fa022aed8069e4aea(1).zip" "visual_osx_1.27.zip" "Source/" "HuionTablet_NEW_1060PLUS(8192)_MacDriver_v13.9.2.zip" "mbfpp-code.tgz" "commaxwellforestdingodan.mobileprovision" "Resources/" "1500601290316.png" "GenericKeychain.zip" "katana_sys_v201/" "javascript-client/" "bank-card.JPG" "Asset 2.png" "1502055705419.gif" "OneBank_Brands_InHouse.mobileprovision" "GooglyPuff_Swift3_Part1_Starter.zip" "dingo-thumb.png" "dingo-thumb.jpg" "SpriteKitSimpleGameResources.zip" "1501585111201.gif" "Isometric_world_meadow_images.zip" "hs5_sys_v104 2/" "Resources.zip" "ptk_v2.5.4_macosx_svn_665/" "471.jpg" "1502126491651.jpg" "Images/" "Spectacle+1.1.zip" "learningcsharp7bydevelopinggameswithunity2017_supplement.zip" "slothfullbody(3).png" "1481682279037.webm" "config" "fastlane 2/" "Wonder Boy III - The Dragon's Trap (USA, Europe).zip" "01daee00-3992-41bf-a7da-468ac44f66d7.mp4" "nathanielknight-smashbing-78094a0e90b0 2/" ".localized" "72a635ea846dac3e7de5b44c5ae95edec3ae6238adf88795fc07a737cd38e4f9.pdf" "boad3x.png" "KATANAUSBDriver 3/" "Screen Shot 2017-02-02 at 12.54.31 pm.png" "meal1.png" "guyfieri.png" "prometheus-configmap-1.yaml" "The-Great-Replacement-New-Zealand-Shooter.pdf" "Screen Shot 2016-11-10 at 1.08.14 PM.png" "cert-reg.JPG" "Dash-1.zip" "xplsv_einv2/" "csmith-2.2.0/" "hs5_sys_v104/" "ID2_Manual.zip" "KATANAUSBDriver 2/" "IO_stack_of_the_Linux_kernel.svg" "iconActivity.png" "f27fbbe8-2bb3-4a90-a322-e606de0ec5dd.mp4" "votingrights_2v2.jpg" "implementingaitoplaygames_video.zip" "ANZ-1.csv" "learningkubernetes_video.zip" "iOS8-day-by-day/" "Battle.net-Setup.zip" "rog.gif" "jdk-8u144-macosx-x86_64-demos.zip" "blender-2.78a-OSX_10.6-x86_64/" ".DS_Store" "commaxwellforestonecart.mobileprovision" "Citishop - Integration Workshop (1).key" "wat.png" "index.html" "The iOS Apprentice 1 - Getting Started/" "xplsv_einv2 2/" "Professional" "_.mylasu.com.chain.crt" "license.dash-license" "1501207710157.gif" "darwin-amd64/" "billingreport-lastyear.csv" "bts_rc_m110 2/" "IMG_0162.JPG" "1500436673642.jpg" "modernopenglcplusplus3dgametutorialseriesand3drendering_video.zip" "dealwithitneti.gif" "glfw-3.2.1/" "no_flter.JPG" "TouchMeInCD-starter v1.02/" "deeplearningwithtensorflow_video.zip" "635390843440183403Fotolia_59998455_XS.jpg" "1501113547685.jpg" "Packt.PostgreSQL.9.6.High.Performance.1784392979.rar" "contents.pdf" "InstrumentsSwift-Starter 2/" "HS5USBDriver/" "ProgrammingChallenges.png" "social_engineering_the_art_of_human_hacking.prc" "gamephysicscookbook_supplement.zip" "bts_rc_m110 3/" "Starter_Project.zip" "51529019483__A542DDAB-C2D2-42DD-BEF7-FD9F37C6EDC8.JPG" "boad2x.png" "dreams.png" "starwars.yaml" "Citishop - Integration Workshop.key" "taco_bell.png" "1505859257967.jpg" "1501209753842.gif" "1500429029424.gif" "Discord.dmg" "csmith-2.2.0.tar.gz" "1500460426280.gif" "2410176085459(2).pdf" "dns-records.CSV" "slothfullbody(2).png" "../" "./")
 
- ("/Users/htmldrum/go/src/k8s.io/kubernetes/examples/guestbook/all-in-one/" (22619 44421 0 0) "redis-slave.yaml" "guestbook-all-in-one.yaml" "frontend.yaml" "../" "./")
+ ("/Users/htmldrum/code/rust/amethyst/pong/" (23695 43936 914151 354000) "src/" ".git/" "font/" "texture/" ".gitignore" "README.md" "Cargo.lock" "resources/" "target/" "Makefile" ".DS_Store" "Cargo.toml" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/dns/" (22619 37086 0 0) "main.tf" "../" "./")
+ ("/Users/htmldrum/code/rust/amethyst/" (23695 8479 160113 502000) "pong/" "README.md" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/dnsxxx/" (22619 32917 0 0) "main.tf" "../" "./")
+ ("/Users/htmldrum/code/rust/amethyst/pong/src/" (23695 43717 778562 872000) "systems/" "pong.rs" "main.rs" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/r53/" (22619 32558 0 0) "main.tf" "../" "./")
+ ("/Users/htmldrum/code/rust/amethyst/pong/src/systems/" (23695 43657 461931 509000) "bounce.rs" "winner.rs" "move_balls.rs" "#paddle.rs#" "mod.rs" "paddle.rs" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_provision/prod_1/ap-southeast-1/out/terraform/" (22596 47311 0 0) "terraform.tfstate" "Makefile" "kubernetes.tf" "graph.pdf" "data/" "../" "./")
+ ("/Users/htmldrum/code/purescript/beeraffe/test/" (23675 16074 529695 967000) "Main.purs" "Beeraffe/" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_provision/staging_1/deployments/" (22597 12299 0 0) "README.md" "onefill_pud/" "onefill_oba/" "onefill_maps_api/" "onebank_adapter/" "../" "./")
+ ("/Users/htmldrum/code/purescript/beeraffe/src/Beeraffe/" (23675 16074 526502 775000) "Debug.js" "Assets.js" "Stack.purs" "Sprite.js" "BinarySearch.purs" "Image.js" "Array.purs" "Debug.purs" "Array.js" "Compose.purs" "Compose/" "Linear/" "Color/" "Assets.purs" "Sprite.purs" "UI/" "Image.purs" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_provision/prod_1/ap-southeast-1/" (22596 45349 0 0) "README.md" "out/" "create.sh" ".env" "../" "./")
+ ("/Users/htmldrum/code/purescript/beeraffe/src/" (23675 16074 527658 490000) "Demo1.purs" "Beeraffe/" "Beeraffe.purs" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_provision/prod_1/kops/" (22596 45349 0 0) "main.tf" "../" "./")
+ ("/Users/htmldrum/code/the_ray_tracer_challenge/" (23689 62002 920534 552000) "jbtracer-code(1).zip" "README.md" "code/" ".DS_Store" "ps_imp/" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_provision/prod_1/" (22596 45394 0 0) "terraform.tfstate.backup" "terraform.tfstate" "main.tf" "kops/" "create.sh" "ap-southeast-1/" ".terraform/" "../" "./")
+ ("/Users/htmldrum/code/the_ray_tracer_challenge/ps_imp/src/Data/" (23689 62152 542463 781000) "Tuple.purs" "../" "./")
 
- ("/Users/htmldrum/go/src/k8s.io/kubernetes/examples/guestbook/" (22617 53325 0 0) "redis-slave-service.yaml" "redis-slave-deployment.yaml" "redis-slave/" "redis-master-service.yaml" "redis-master-deployment.yaml" "README.md" "php-redis/" "legacy/" "frontend-service.yaml" "frontend-deployment.yaml" "all-in-one/" "../" "./")
+ ("/Users/htmldrum/code/the_ray_tracer_challenge/code/pseudo/" (23668 40814 0 0) "matrices/" "ray-sphere/" "lights/" "scene/" "cubes/" "canvas/" "groups/" "tuples/" "triangles/" "shadows/" "patterns/" "transformations/" "reflections/" "csg/" "planes/" "cylinders/" "../" "./")
 
- ("/Users/htmldrum/go/src/k8s.io/kubernetes/examples/explorer/" (22617 53325 0 0) "README.md" "pod.yaml" "Makefile" "explorer.go" "Dockerfile" "BUILD" "../" "./")
+ ("/Users/htmldrum/code/" (23689 57443 347605 245000) "godot/" "ruby/" "interviews/" "react/" "c_cpp/" "the_ray_tracer_challenge/" "exp/" "maxwellforest/" "ideas/" "javascript/" "fully-sick-music/" "htmldrum/" "scala/" "github/" "elisp/" "fz_code/" "CRYENGINE/" "pg/" "DankBank/" "lymchat/" "write_your_own_vm/" "haskell/" "docs/" "PowerslaveEX/" "beejs_guide_to_unix_ipc/" "purescript/" "rust/" "typescript/" "vuejs/" "contributing/" "MachKernel/" "mazes_for_programmers/" ".DS_Store" "godot-demo-projects/" "AdvancedLinuxProgramming/" "unity/" "Wyatt-STM/" "../" "./")
 
- ("/Users/htmldrum/go/src/k8s.io/kubernetes/examples/experimental/persistent-volume-provisioning/" (22617 53325 0 0) "README.md" "rbd/" "quobyte/" "glusterfs-provisioning-secret.yaml" "glusterfs-dp.yaml" "gce-pd.yaml" "claim1.json" "aws-ebs.yaml" "../" "./")
+ ("/Users/htmldrum/code/the_ray_tracer_challenge/code/pseudo/tuples/" (23668 40814 0 0) "normalize.pseudo" "tick.pseudo" "cross.pseudo" "projectile-start.pseudo" "float-compare.pseudo" "dot.pseudo" "../" "./")
 
- ("/Users/htmldrum/go/src/k8s.io/kubernetes/examples/elasticsearch/" (22617 53325 0 0) "service-account.yaml" "README.md" "production_cluster/" "es-svc.yaml" "es-rc.yaml" "../" "./")
+ ("/Users/htmldrum/code/the_ray_tracer_challenge/code/files/" (23668 40814 0 0) "triangles.obj" "../" "./")
 
- ("/Users/htmldrum/go/src/k8s.io/kubernetes/examples/cockroachdb/" (22617 53325 0 0) "README.md" "minikube.sh" "demo.sh" "cockroachdb-statefulset.yaml" "../" "./")
+ ("/Users/htmldrum/code/the_ray_tracer_challenge/code/features/" (23668 40814 0 0) "patterns.feature" "intersections.feature" "rays.feature" "obj_file.feature" "cones.feature" "spheres.feature" "lights.feature" "groups.feature" "cubes.feature" "transformations.feature" "matrices.feature" "planes.feature" "triangles.feature" "shapes.feature" "materials.feature" "world.feature" "csg.feature" "camera.feature" "tuples.feature" "canvas.feature" "smooth-triangles.feature" "cylinders.feature" "../" "./")
 
- ("/Users/htmldrum/go/src/k8s.io/kubernetes/examples/cluster-dns/" (22619 21061 0 0) "README.md" "namespace-prod.yaml" "namespace-dev.yaml" "images/" "dns-frontend-pod.yaml" "dns-backend-service.yaml" "dns-backend-rc.yaml" "../" "./")
+ ("/Users/htmldrum/code/the_ray_tracer_challenge/code/" (23668 40814 0 0) "files/" "cover.yml" "pseudo/" "features/" "../" "./")
 
- ("/Users/htmldrum/go/src/k8s.io/kubernetes/examples/apiserver/server/" (22617 53325 0 0) "main.go" "BUILD" "../" "./")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/src/components/" (23689 13644 800116 233000) "Footer.js" "FoTwennyBlazeIt/" "NavigationButton.js" "menu.css" "Menu.js" "Content.js" "ImageShift.js" "SocialIcons.js" "BlogCloud/" "Date.js" "TwoColumnAbout/" "PostTitle.js" "Header.js" "BackLookBlock/" "Link.js" "BlogCloudBut2ColWithAbsLeft/" "Preview.js" "Post.js" "Tags.js" "BlogCloudBut2Col/" "WallpaperCentre/" "About.js" ".DS_Store" "PostToolbar.js" "Layout.js" "SocialButton.js" "../" "./")
 
- ("/Users/htmldrum/go/src/k8s.io/kubernetes/examples/apiserver/rest/" (22617 53325 0 0) "reststorage.go" "BUILD" "../" "./")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/src/templates/" (23689 12869 457668 265000) "blog-post.js" "tags.js" "../" "./")
 
- ("/Users/htmldrum/go/src/k8s.io/kubernetes/examples/apiserver/" (22617 53325 0 0) "server/" "rest/" "README.md" "BUILD" "apiserver.go" "../" "./")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/src/components/BlogCloud/" (23610 34911 167193 228000) "cornerPiece.png" "component.css" "vCloud.png" "leftCol1.png" "rightCol.png" "top.png" "cornerPiecePortrai.png" "component.js" "terminal.png" ".DS_Store" "tv.jpg" "../" "./")
 
- ("/Users/htmldrum/go/src/k8s.io/kubernetes/examples/" (22617 63516 0 0) "volumes/" "sysdig-cloud/" "storm/" "storage/" "spark/" "simple-nginx.md" "sharing-clusters/" "selenium/" "scheduler-policy-config.json" "scheduler-policy-config-with-extender.json" "runtime-constraints/" "README.md" "podsecuritypolicy/" "pod" "phabricator/" "OWNERS" "openshift-origin/" "nodesjs-mongodb/" "newrelic/" "mysql-wordpress-pd/" "mysql-cinder-pd/" "meteor/" "kubectl-container/" "k8petstore/" "job/" "javaweb-tomcat-sidecar/" "javaee/" "https-nginx/" "guidelines.md" "guestbook-go/" "guestbook/" "explorer/" "experimental/" "examples_test.go" "elasticsearch/" "doc.go" "cockroachdb/" "cluster-dns/" "BUILD" "apiserver/" ".DS_Store" "../" "./")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/content/blog/2019-01-29-magic-is-not-maintainable/" (23689 12725 991178 884000) "ui-and-code.png" "index.md" "undefinedBehaviour.png" "../" "./")
 
- ("/Users/htmldrum/go/src/k8s.io/kubernetes/" (22617 53327 0 0) "WORKSPACE" "vendor/" "Vagrantfile" "third_party/" "test/" "staging/" "README.md" "plugin/" "pkg/" "OWNERS_ALIASES" "OWNERS" "Makefile.generated_files" "Makefile" "logo/" "LICENSE" "labels.yaml" "hooks/" "hack/" "Godeps/" "federation/" "examples/" "docs/" "CONTRIBUTING.md" "code-of-conduct.md" "cmd/" "cluster/" "CHANGELOG.md" "BUILD.bazel" "build/" "api/" ".gitignore" ".github/" ".gitattributes" ".git/" ".generated_files" ".generated_docs" ".gazelcfg.json" "../" "./")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/src/components/BlogCloudBut2ColWithAbsLeft/" (23689 7693 230275 656000) "smallerSelfie.png" "cornerPiece.png" "component.css" "vCloud.png" "leftCol1.png" "rightCol.png" "top2.png" "top.png" "cornerPiecePortrai.png" "postPreview.js" "component.js" "backView.png" "terminal.png" ".DS_Store" "tv.jpg" "postPreview.css" ".#postPreview.js" "../" "./")
 
- ("/Users/htmldrum/go/src/" (22609 23043 0 0) "k8s.io/" "htmldrum.xyz/" "gopl.io/" "gopkg.in/" "google.golang.org/" "golang.org/" "github.com/" "../" "./")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/" (23688 65474 441249 957000) "src/" ".travis.yml" ".cache/" "assets/" ".git/" ".eslintrc.js" "Vagrantfile" "gatsby-node.js" "gatsby-config.js" "package.json" "package-lock.json" ".gitignore" "public/" "yarn.lock" "gatsby/" "README.md" "jest.transform.js" "test.json" "content/" "node_modules/" "jest.config.js" "Makefile" ".notposts/" "renovate.json" "yarn-error.log" "bin/" "LICENSE" ".Makefile.swp" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_provision/components/yaml_based_k8s/autoscale/" (22619 18367 0 0) "run.sh" "load.sh" "autoscale.sh" "../" "./")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/content/blog/2019-01-22-serverless-is-paas-integration/" (23689 6498 265950 802000) "sharedComponents.png" "ui-and-code.png" "costCurve.png" "index.md" "lambda_defends_against_city_destroying_monolith.png" ".DS_Store" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_provision/components/yaml_based_k8s/" (22619 10192 0 0) "rollout/" "notes.md" "nginx/" "autoscale/" "../" "./")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/content/blog/2019-02-26-exploring-golang-reflection/" (23688 63147 573827 201000) "ui-and-code.png" "index.md" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_provision/components/yaml_based_k8s/nginx/" (22617 48780 0 0) "updated_deployment.yaml" "deployment.yaml" "create_deployment.sh" "../" "./")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/src/" (23688 57571 84562 581000) "pages/" "templates/" "layouts/" "json/" "components/" "utils/" "images/" "css/" ".DS_Store" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/" (22615 16800 0 0) "tools/" "test/" "terraform/" "reference_provision/" "onefill_sup/" "onefill_status/" "onefill_redis/" "onefill_pud/" "onefill_provision/" "onefill_oba/" "onefill_maps_engine/" "onefill_ios/" "onefill_consul/" "onefill_common/" "onefill_api/" "onebank_ios/" "onebank_adapter/" "kops/" "helloworld/" "design/" "android_onefill/" ".DS_Store" "../" "./")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/src/components/FoTwennyBlazeIt/ChunkyBunchMeenoo/" (23688 60805 832987 386000) "component.js" "../" "./")
 
- ("/Users/htmldrum/code/" (22615 13527 0 0) "Wyatt-STM/" "spring/" "maxwellforest/" "lymchat/" "htmldrum/" "godot-demo-projects/" "godot/" "CRYENGINE/" ".DS_Store" "../" "./")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/src/pages/" (23687 60838 620880 716000) "blog_list.js" "aboot.js" "blog.js" "index.js" "404.js" "blog_list_2.js" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_sup/" (22616 45247 0 0) "vendor/" "TODO" "tmp/" "spec/" "scripts/" "README.md" "Rakefile" "public/" "Makefile" "log/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "Dockerfile" "docker-compose.yml" "doc/" "db/" "config.ru" "config/" "ci/" "bin/" "app.json" "app/" ".travis.yml" ".staging.env" ".ruby-version" ".rubocop.yml" ".rspec" ".prubocop.yml" ".gitmodules" ".gitignore" ".git/" ".app.nginx.conf" "../" "./")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/src/components/FoTwennyBlazeIt/" (23687 57529 477235 716000) "ChunkyBunchMeenoo/" "component.js" "DavesNotHere.js" "puff.jpg" "styles.css" "plaster.jpg" "../" "./")
 
- ("/Users/htmldrum/Desktop/haskell/lyah/worked_examples/" (22616 28492 0 0) "WriterMo.hs" "WriterDo.hs" "when.hs" "vector.hs" "type_synonyms.hs" "traffic_light.hs" "TailRec.hs" "StackI.hs" "rpn.hs" "reverse_words.hs" "repl.o" "repl.hs" "repl.hi" "repl" "random_string.hs" "pierre.hs" "MoFood.hs" "Makefile" "Knight.hs" "inp.hs" "helloworld.o" "helloworld.hs" "helloworld.hi" "helloworld" "haiku.txt" "guessNumber.hs" "girlfriend.txt" "girlfriend.o" "girlfriend.hs" "girlfriend.hi" "girlfriend" "getContents.o" "getContents.hs" "getContents.hi" "getContents" "GenCoinStateMonad.hs" "GenCoin.hs" "gay.txt" "EuclidGCD.hs" "eq.hs" "double.hs" "do_notation.hs" "DiffList.hs" "copyFile.hs" "capsLocker.o" "capsLocker.hs" "capsLocker.hi" "capsLocker" "ArgCap.hs" "arg.o" "arg.hs" "arg.hi" "arg" "addStuff.hs" "../" "./")
+ ("/Users/htmldrum/Documents/gimp/" (23664 60982 720914 117000) "shitposting/" "twitch/" ".DS_Store" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_oba/" (22611 25534 0 0) "vendor/" "tmp/" "spec/" "README.md" "Rakefile" "public/" "Makefile" "log/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "Dockerfile" "docker-compose.yml" "doc/" "db/" "config.ru" "config/" "ci/" "bin/" "app.json" "app/" ".travis.yml" ".staging.env" ".ruby-version" ".rubocop.yml" ".rspec" ".prubocop.yml" ".gitignore" ".git/" ".app.nginx.conf" "../" "./")
+ ("/Users/htmldrum/Documents/" (23665 8467 91780 757000) "gimp/" "1.png" "ColordGlassIdeas.m4a" "First App/" "SharingExtension/" "2.png" "dropped.gif" "FoodTracker/" "DankBank.json" "overlords.JPG" "2015-07-03-useful-ruby-tools.md" "2016-07-03-abc-cli.md" "Levels/" "ColordGlass.m4a" "Derp/" "DingoDan/" "Terminal Saved Output.txt" "CuznUeDWEAAUFaG.jpg_large.jpeg" "SafariExtension/" "Readings/" "LLDBTest/" "makeBlog.js" "leftCol1.png" "Baldur's Gate II - Enhanced Edition/" "fz_documents.tar.gz" "PrometheusScreencast/" "KeychainDemo/" "ColordGlassVamp.m4a" "obs/" "BullsEye/" "CalculatorKeyboard/" "MetalDemo/" "ColordGlassRep.m4a" "lgoos/" "dancer.gif" "arm-5-stage-pipeline.png" "Desktop/" "index.fidget-spinner.gif" "dream.jpg.sb-8005c202-fZ79r0" "XCUITesting/" "Ratings/" "CookieCrunch/" "AC Custom Keyboard/" "dream.png" "OneShopiOS/" "AndroidTabs/" ".localized" "GLFW.xcworkspace/" "iconActivity.pdf" "audio.html" "tasty-imitation-keyboard/" "MetalCaps/" "roll.gif" "CoreTextMagazine/" "League of Legends/" ".DS_Store" "Untitled-1.psd" "MemeLand/" "self portrait.xcf" "Unreal Projects/" "CustomKeyboard/" "Screen Shot 2017-10-22 at 11.19.04 am.png" "BlogMenu.xcf" "xcode/" "me.png" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onebank_adapter/" (22608 57722 0 0) "TODO" "to_spec/" "tmp/" "spec/" "README.md" "Rakefile" "public/" "Procfile" "Makefile" "log/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "Dockerfile" "docker-compose.yml" "db/" "config.ru" "config/" "ci/" "bin/" "app.json" "app/" ".travis.yml" ".staging.env" ".ruby-version" ".rubocop.yml" ".rspec" ".prubocop.yml" ".gitmodules" ".gitignore" ".git/" ".app.nginx.conf" "../" "./")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/src/images/" (23687 57708 579381 93000) "404.jpeg" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_sup/app/controllers/v0/" (22610 626 0 0) "users_controller.rb" "tickets_controller.rb" "tenants_controller.rb" "sites_controller.rb" "sessions_controller.rb" "schemas_controller.rb" "schemas/" "reports_controller.rb" "pud/" "promotions_controller.rb" "mappings_controller.rb" "locations_controller.rb" "flows_controller.rb" "engine_builds_controller.rb" "editor_reports_controller.rb" "editor/" "concerns/" "application_controller.rb" "admins_controller.rb" "admin_scope/" "../" "./")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/src/layouts/" (23687 57569 155915 759000) "index.js" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_sup/app/controllers/" (22610 626 0 0) "v0/" "sessions_controller.rb" "root_controller.rb" "application_controller.rb" "../" "./")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/content/" (23531 47784 682510 596000) "blog/" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_sup/log/" (22601 11414 0 0) "test.log" "staging.log" "nginx.error.log" "nginx.access.log" "error.log" "development.log" "access.log" ".keep" "../" "./")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/content/blog/" (23684 59500 792717 339000) "2019-03-09-property-based-testing-in-golang/" "2019-01-29-magic-is-not-maintainable/" "2010-06-02-tox/" "2012-05-21-svn-E2000031/" "2014-08-06-top-down-depth-first-tree-parser/" "2012-03-17-semaphores-in-js/" "2011-08-18-gae-dev-note/" "2009-06-06-visual-feedback-in-the-dom/" "2012-07-10-scripting-layouts-in-tmux-for-mac/" "2014-08-02-object-construction-in-javascript/" "2013-02-05-basics-of-provisioning-nodes-with-puppet/" "2011-07-18-flex-builder-3-error-occured-while-packaging-the-application/" "2011-08-19-ludum-dare-48/" "2015-11-22-setting-up-a-gce-environment/" "2014-02-11-nodejs-init-script/" "2011-11-11-symfony-20-installation-instructions/" "2017-05-09-Instrumenting-go-with-prometheus/" "2016-11-25-terraform-with-aws/" "2013-07-04-service--oriented-architecutre/" "2009-05-02-mousecapture-with-jquery/" "2011-05-08-away-3d-dev-note/" "2019-01-22-serverless-is-paas-integration/" "2011-07-29-flex-as3p-note-5/" "2012-02-12-django-on-aws/" "2014-10-15-elasticsearch-mappings-and-filters/" "2013-11-15-zeroconf-networking/" "2011-04-19-overview-of-rack-and-cabinet-design/" "2015-05-14-provisioning-vagrant-with-bash/" "2011-10-21-pre-commit-testing/" "2017-03-12-gorm-orm/" "2017-09-21-bootstrapping-kubernetes-with-terraform/" "2019-02-26-exploring-golang-reflection/" "2011-12-28-how-to-setup-google-checkout-in-python/" ".ideas.org" "2014-11-21-nested-query-sets-and-elasticsearch/" ".DS_Store" "2012-04-11-rabbitmq-the-best-friend-you-never-knew/" "2012-02-15-python-alg-package/" "2016-08-16-polyglot-by-default/" "2014-12-20-application-controllers-in-rails/" "2014-02-12-clustering-in-nodejs/" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_sup/spec/acceptance/v0/" (22610 8079 0 0) "users_spec.rb" "tickets_spec.rb" "tenants_spec.rb" "sites_spec.rb" "sessions_spec.rb" "schemas_spec.rb" "reports_spec.rb" "promotions_spec.rb" "mappings_spec.rb" "locations_spec.rb" "flows_spec.rb" "engine_builds_spec.rb" "editor_reports_spec.rb" "editor/" "admins_spec.rb" "admin_scope/" "../" "./")
+ ("/Users/htmldrum/code/github/lisp_ceo/blog/content/blog/2019-03-09-property-based-testing-in-golang/" (23687 55370 783745 539000) "ui-and-code.png" "index.md" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_sup/spec/support/" (22607 18189 0 0) "timecop_share_context.rb" "soft_deletable_shared_example.rb" "response_helpers.rb" "resource_helpers.rb" "request_show_shared_examples.rb" "request_shared_context.rb" "request_index_shared_examples.rb" "json_schema_show_shared_example.rb" "json_schema_index_shared_example.rb" "json_matchers.rb" "has_status_spec.rb" "fixtures/" "factory_girl.rb" "authentication_shared_context.rb" "admin_authentication_shared_context.rb" "acceptance_show_shared_context.rb" "acceptance_shared_context.rb" "acceptance_index_shared_context.rb" "acceptance_headers_shared_context.rb" "#acceptance_index_shared_context.rb#" "../" "./")
+ ("/Users/htmldrum/code/github/lisp_ceo/" (23686 60341 65827 172000) "htmldrum.com/" "docker-llgo/" "new_htmldrum/" "req_diff/" "yarn.lock" "blog_clean/" "blog/" "node_modules/" "bd/" "_htmldrum_blog_content/" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_sup/spec/acceptance/" (22516 21333 0 0) "v0/" "../" "./")
+ ("/Users/htmldrum/code/github/" (23683 18238 727157 719000) "onepassword-app-extension/" "lisp_ceo/" "ewig/" "ExpandableCell/" "PureLayout/" "llvm/" "iMessageSticker/" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_sup/spec/" (22610 7486 0 0) "test_files/" "support/" "spec_helper.rb" "serializers/" "routes_spec.rb" "requests/" "request_spec_helper.rb" "rails_helper.rb" "models/" "mailers/" "fixtures/" "factories.rb" "docs_helper.rb" "devise_helper.rb" "controllers/" "classes/" "acceptance/" "../" "./")
+ ("/Users/htmldrum/code/rust/battleship/src/" (23664 4471 404141 876000) "main.rs" "#game.rs#" "lib.rs" ".#game.rs" "game.rs" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_sup/spec/models/" (22610 7755 0 0) "user_spec.rb" "ticket_spec.rb" "tenant_stats_spec.rb" "tenant_spec.rb" "stats/" "sites_tenant_spec.rb" "site_spec.rb" "schema_spec.rb" "report_spec.rb" "promotion_spec.rb" "mapping_spec.rb" "location_spec.rb" "flow_spec.rb" "engine_build_spec.rb" "editor_session_spec.rb" "editor_report_spec.rb" "charts/" "admin_tenant_spec.rb" "admin_spec.rb" "../" "./")
+ ("/Applications/Emacs.app/Contents/Resources/etc/" (22778 10858 0 0) "yow.lines" "DEBUG" "e/" "NEXTSTEP" "emacs.desktop" "themes/" "publicsuffix.txt.gz" "JOKES" "ORDERS" "future-bug" "MH-E-NEWS" "HELLO" "ORG-NEWS" "compilation.txt" "DOC" "tutorials/" "HISTORY" "MORE.STUFF" "MACHINES" "package-keyring.gpg" "NEWS" "gnus-tut.txt" "NEWS.20" "COPYING" "NEWS.18" "DISTRIB" "schema/" "NEWS.19" "CALC-NEWS" "enriched.txt" "NEWS.1-17" "NEWS.21" "emacs-buffer.gdb" "TODO" "GNU" "README" "LINUX-GNU" "NXML-NEWS" "PROBLEMS" "ETAGS.EBNF" "THE-GNU-PROJECT" "rgb.txt" "TERMS" "srecode/" "GNUS-NEWS" "org/" "refcards/" "images/" "AUTHORS" "nxml/" "charsets/" "WHY-FREE" "spook.lines" "grep.txt" "ps-prin0.ps" "emacs.appdata.xml" "DEVEL.HUMOR" "forms/" "ses-example.ses" "edt-user.el" "gnus/" "ETAGS.README" "NEWS.24" "NEWS.23" "emacs.icon" "FTP" "NEWS.22" "CENSORSHIP" "ERC-NEWS" "ps-prin1.ps" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_sup/db/migrate/" (22610 7290 0 0) "20161215043042_dropping_update_logs.rb" "20161215042651_uniques_on_join_tables.rb" "20161213061025_add_url_to_editor_reports.rb" "20161213001520_add_interal_to_site.rb" "20161129060943_add_cancel_reason_to_editor_sessions.rb" "20161115000053_create_admin_tenants.rb" "20161107004135_remove_users_tenants_fk.rb" "20161102221449_remove_name_from_user_model.rb" "20161027020729_create_editor_sessions.rb" "20161024062438_create_editor_reports.rb" "20161021055422_add_token_fields_to_user.rb" "20161018041327_add_id_to_sites_tenants.rb" "20161018025151_add_tenants_to_user.rb" "20161013234736_many_to_many_sites_tenants.rb" "20161013221746_p_key_for_tenants_as_uuid.rb" "20161013043326_associate_promos_with_tenants.rb" "20161007012439_add_search_term_to_sites.rb" "20161006012027_add_users_to_admins.rb" "20161004064219_adds_promos.rb" "20160928060317_admin_belongs_to_user.rb" "20160923062916_drop_tenant_sites.rb" "20160919031656_generate_normalized_site_names.rb" "20160919014829_remove_tenant_sites.rb" "20160918233242_add_featured_to_sites.rb" "20160915014218_add_nomalized_name_to_sites.rb" "20160908003848_create_tenant_sites.rb" "20160908001948_create_tenants.rb" "20160906052219_add_trigram_extension.rb" "20160905063045_add_deleted_at_to_sites.rb" "20160830225904_add_timestamps_to_locations.rb" "20160830072006_add_timestamps_to_user.rb" "20160830010137_add_cascade_delete_behavior_to_dependent_tables.rb" "20160829044603_create_update_log.rb" "20160829032725_add_fetch_count_to_sites.rb" "20160825002118_remove_constraints_on_bank_information.rb" "20160822010145_create_engine_builds.rb" "20160818063929_refine_columns_from_users.rb" "20160815014912_change_log_column_type_to_text_from_reports.rb" "20160809042642_add_logo_to_site.rb" "20160808064656_add_locations_logo_block.rb" "20160808001448_reports_rename_blob_to_log.rb" "20160807233750_adjust_tickets_reports_relation.rb" "20160803015550_create_comments.rb" "20160803015522_create_tickets.rb" "20160802070353_add_status_as_derived_property.rb" "20160801044922_create_reports.rb" "20160728233213_add_unique_index_to_sites.rb" "20160728053129_create_flows.rb" "20160728011315_devise_create_admins.rb" "20160727055333_drop_widgets.rb" "20160727055147_create_users.rb" "20160725061705_create_sites.rb" "20140707111715_create_widgets.rb" "#20160928060317_admin_belongs_to_user.rb#" "../" "./")
+ ("/Users/htmldrum/code/rust/egg_mode/twitter-rs/src/" (23663 62064 718263 796000) "media/" "place/" "search.rs" "list/" "entities.rs" "cursor.rs" "common/" "service.rs" "user/" "auth.rs" "stream/" "lib.rs" "error.rs" "direct/" "tweet/" "links.rs" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_sup/db/" (22610 7240 0 0) "site_example.json" "schema.rb" "migrate/" "#schema.rb#" "../" "./")
+ ("/Users/htmldrum/code/rust/egg_mode/twitter-rs/src/direct/" (23663 58229 290513 296000) "mod.rs" "raw.rs" "fun.rs" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_sup/app/models/" (22607 21677 0 0) "user.rb" "ticket.rb" "tenant_stats.rb" "tenant.rb" "stats/" "sites_tenant.rb" "site.rb" "schemas/" "report.rb" "promotion.rb" "mapping.rb" "location.rb" "flow.rb" "engine_build.rb" "editor_session.rb" "editor_report.rb" "concerns/" "comment.rb" "charts/" "admin_tenant.rb" "admin.rb" "../" "./")
+ ("/Users/htmldrum/code/rust/battleship/" (23663 56459 283961 245000) "src/" ".todo.org" ".git/" ".gitignore" "Cargo.lock" "target/" "Cargo.toml" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_sup/app/" (22563 65377 0 0) "views/" "validators/" "services/" "serializers/" "models/" "mailers/" "controllers/" "concerns/" "classes/" "assets/" "../" "./")
+ ("/Users/htmldrum/code/rust/egg_mode/twitter-rs/src/common/" (23663 55654 539840 215000) "mod.rs" "response.rs" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_sup/config/" (22610 626 0 0) "secrets.yml" "routes.rb" "puma.rb" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "boot.rb" "application.rb" "../" "./")
+ ("/Users/htmldrum/code/rust/egg_mode/twitter-rs/sample_payloads/" (23661 17055 680378 0) "compatibilityplus_extended_13997.json" "sample-extended-onepic.json" "rate_limit_sample.json" "compatibilityplus_classic_13994.json" "media.json" "extended_classic_14002.json" "sample-retweet.json" "sample-quote.json" "media_pending.json" "extended_extended_14001.json" "extended_classic_hidden_13761.json" "media_in_progress.json" "media_fail.json" "compatibilityplus_classic_hidden_13797.json" "sample-reply.json" "nullable_user_mention.json" "../" "./")
 
- ("/Users/htmldrum/.aws/" (22599 21908 0 0) "pass" "deis_pass" "credentials" "config" "../" "./")
+ ("/Users/htmldrum/code/rust/egg_mode/twitter-rs/" (23661 17055 680523 606000) "src/" ".travis.yml" ".git/" "examples/" "CONTRIBUTING.md" ".gitignore" "appveyor.yml" "README.md" "TODO.md" "sample_payloads/" "CHANGELOG.md" "LICENSE" "Cargo.toml" "../" "./")
 
- ("/System/Library/LaunchDaemons/" (22505 56548 0 0) "tftp.plist" "telnet.plist" "ssh.plist" "shell.plist" "org.postfix.newaliases.plist" "org.postfix.master.plist" "org.openldap.slapd.plist" "org.ntp.ntpd.plist" "org.net-snmp.snmpd.plist" "org.cups.cupsd.plist" "org.cups.cups-lpd.plist" "org.apache.httpd.plist" "ntalk.plist" "login.plist" "ftp.plist" "finger.plist" "exec.plist" "com.vix.cron.plist" "com.apple.xscertd.plist" "com.apple.xscertd-helper.plist" "com.apple.xscertadmin.plist" "com.apple.xsandaily.plist" "com.apple.xsan.plist" "com.apple.xpc.uscwoap.plist" "com.apple.xpc.smd.plist" "com.apple.wwand.plist" "com.apple.WirelessRadioManagerd-osx.plist" "com.apple.wirelessproxd.plist" "com.apple.WindowServer.plist" "com.apple.wifid.plist" "com.apple.wdhelper.plist" "com.apple.watchdogd.plist" "com.apple.warmd.plist" "com.apple.vsdbutil.plist" "com.apple.var-db-dslocal-backup.plist" "com.apple.uucp.plist" "com.apple.UserNotificationCenter.plist" "com.apple.UserEventAgent-System.plist" "com.apple.usbmuxd.plist" "com.apple.usbd.plist" "com.apple.updateEFIDesktopPicture.plist" "com.apple.unmountassistant.sysagent.plist" "com.apple.uninstalld.plist" "com.apple.ucupdate.plist" "com.apple.TrustEvaluationAgent.system.plist" "com.apple.trustd.plist" "com.apple.TMCacheDelete.plist" "com.apple.thermald.plist" "com.apple.tccd.system.plist" "com.apple.taskgated.plist" "com.apple.taskgated-helper.plist" "com.apple.systemstatsd.plist" "com.apple.systemstats.daily.plist" "com.apple.systemstats.analysis.plist" "com.apple.systempreferences.installer.plist" "com.apple.systemkeychain.plist" "com.apple.system_installd.plist" "com.apple.sysmond.plist" "com.apple.syslogd.plist" "com.apple.sysdiagnose.plist" "com.apple.symptomsd.plist" "com.apple.suhelperd.plist" "com.apple.SubmitDiagInfo.plist" "com.apple.storereceiptinstaller.plist" "com.apple.storeinstalld.plist" "com.apple.storedownloadd.daemon.plist" "com.apple.storeassetd.daemon.plist" "com.apple.storeagent.daemon.plist" "com.apple.storeaccountd.daemon.plist" "com.apple.storagekitd.plist" "com.apple.statd.notify.plist" "com.apple.startupdiskhelper.plist" "com.apple.spindump.plist" "com.apple.speech.speechsynthesisd.plist" "com.apple.softwareupdated.plist" "com.apple.softwareupdate_firstrun_tasks.plist" "com.apple.softwareupdate_download_service.plist" "com.apple.smbd.plist" "com.apple.smb.preferences.plist" "com.apple.sessionlogoutd.plist" "com.apple.securityd_service.plist" "com.apple.securityd.plist" "com.apple.security.syspolicy.plist" "com.apple.security.FDERecoveryAgent.plist" "com.apple.security.authhost.plist" "com.apple.security.agent.login.plist" "com.apple.secinitd.plist" "com.apple.scsid.plist" "com.apple.screensharing.plist" "com.apple.SCHelper.plist" "com.apple.sandboxd.plist" "com.apple.rpmuxd.plist" "com.apple.rpcbind.plist" "com.apple.rootless.init.plist" "com.apple.RFBEventHelper.plist" "com.apple.revisiond.plist" "com.apple.ReportPanicService.plist" "com.apple.ReportCrash.Root.plist" "com.apple.remotepairtool.plist" "com.apple.RemoteDesktop.PrivilegeProxy.plist" "com.apple.racoon.plist" "com.apple.printtool.daemon.plist" "com.apple.preferences.timezone.auto.plist" "com.apple.preferences.timezone.admintool.plist" "com.apple.powerd.swd.plist" "com.apple.powerd.plist" "com.apple.platform.ptmd.plist" "com.apple.pfd.plist" "com.apple.pfctl.plist" "com.apple.periodic-weekly.plist" "com.apple.periodic-monthly.plist" "com.apple.periodic-daily.plist" "com.apple.PCIELaneConfigTool.plist" "com.apple.PasswordService.plist" "com.apple.opendirectoryd.plist" "com.apple.ODSAgent.plist" "com.apple.odproxyd.plist" "com.apple.ocspd.plist" "com.apple.nsurlstoraged.plist" "com.apple.nsurlsessiond.plist" "com.apple.notifyd.plist" "com.apple.noticeboard.state.plist" "com.apple.nis.ypbind.plist" "com.apple.nfsd.plist" "com.apple.nfsconf.plist" "com.apple.newsyslog.plist" "com.apple.NetworkSharing.plist" "com.apple.NetworkLinkConditioner.plist" "com.apple.NetworkDiagnostics.plist" "com.apple.networkd_privileged.plist" "com.apple.networkd.plist" "com.apple.NetBootClientStatus.plist" "com.apple.netbiosd.plist" "com.apple.netauth.sys.gui.plist" "com.apple.netauth.sys.auth.plist" "com.apple.nesessionmanager.plist" "com.apple.nehelper.plist" "com.apple.mtmfs.plist" "com.apple.mtmd.plist" "com.apple.msrpc.wkssvc.plist" "com.apple.msrpc.srvsvc.plist" "com.apple.msrpc.netlogon.plist" "com.apple.msrpc.mdssvc.plist" "com.apple.msrpc.lsarpc.plist" "com.apple.msrpc.echosvc.plist" "com.apple.MRTd.plist" "com.apple.MobileFileIntegrity.plist" "com.apple.metadata.mds.spindump.plist" "com.apple.metadata.mds.scan.plist" "com.apple.metadata.mds.plist" "com.apple.metadata.mds.index.plist" "com.apple.mDNSResponderHelper.plist" "com.apple.mDNSResponder.plist" "com.apple.mdmclient.daemon.runatboot.plist" "com.apple.mdmclient.daemon.plist" "com.apple.mbusertrampoline.plist" "com.apple.mbsystemadministration.plist" "com.apple.ManagedClient.startup.plist" "com.apple.ManagedClient.plist" "com.apple.ManagedClient.enroll.plist" "com.apple.ManagedClient.cloudconfigurationd.plist" "com.apple.lsd.plist" "com.apple.logkextloadsd.plist" "com.apple.loginwindow.plist" "com.apple.loginwindow.LFVTracer.plist" "com.apple.logind.plist" "com.apple.logd.plist" "com.apple.lockd.plist" "com.apple.locationd.plist" "com.apple.locate.plist" "com.apple.kuncd.plist" "com.apple.kextd.plist" "com.apple.KernelEventAgent.plist" "com.apple.Kerberos.kpasswdd.plist" "com.apple.Kerberos.kdc.plist" "com.apple.Kerberos.kcm.plist" "com.apple.Kerberos.kadmind.plist" "com.apple.Kerberos.digest-service.plist" "com.apple.kdumpd.plist" "com.apple.kcproxy.plist" "com.apple.IOBluetoothUSBDFU.plist" "com.apple.IOAccelMemoryInfoCollector.plist" "com.apple.InstallerDiagnostics.installerdiagwatcher.plist" "com.apple.InstallerDiagnostics.installerdiagd.plist" "com.apple.installd.plist" "com.apple.installandsetup.systemmigrationd.plist" "com.apple.ifdreader.plist" "com.apple.IFCStart.plist" "com.apple.iconservices.iconservicesd.plist" "com.apple.iconservices.iconservicesagent.plist" "com.apple.icloud.findmydeviced.plist" "com.apple.hidfud.plist" "com.apple.hidd.plist" "com.apple.hdiejectd.plist" "com.apple.gssd.plist" "com.apple.GSSCred.plist" "com.apple.gkreport.plist" "com.apple.getty.plist" "com.apple.GameController.gamecontrollerd.plist" "com.apple.ftp-proxy.plist" "com.apple.fseventsd.plist" "com.apple.FontWorker.plist" "com.apple.fontmover.plist" "com.apple.fontd.plist" "com.apple.firmwaresyncd.plist" "com.apple.findmymacmessenger.plist" "com.apple.findmymac.plist" "com.apple.FileSyncAgent.sshd.plist" "com.apple.FileCoordination.plist" "com.apple.familycontrols.plist" "com.apple.eppc.plist" "com.apple.emond.plist" "com.apple.emond.aslmanager.plist" "com.apple.emlog.plist" "com.apple.efilogin-helper.plist" "com.apple.efax.plist" "com.apple.eapolcfg_auth.plist" "com.apple.dynamic_pager.plist" "com.apple.dvdplayback.setregion.plist" "com.apple.DumpPanic.plist" "com.apple.DumpGPURestart.plist" "com.apple.dspluginhelperd.plist" "com.apple.dpd.plist" "com.apple.dpaudiothru.plist" "com.apple.dnsextd.plist" "com.apple.distnoted.xpc.daemon.plist" "com.apple.displaypolicyd.plist" "com.apple.diskmanagementstartup.plist" "com.apple.diskmanagementd.plist" "com.apple.diskarbitrationd.plist" "com.apple.diagnosticd.plist" "com.apple.diagnostic.uuidpathd.plist" "com.apple.DesktopServicesHelper.plist" "com.apple.cvmsServ.plist" "com.apple.ctkd.plist" "com.apple.csrutil.report.plist" "com.apple.CrashReporterSupportHelper.plist" "com.apple.coresymbolicationd.plist" "com.apple.corestorage.corestoragehelperd.plist" "com.apple.corestorage.corestoraged.plist" "com.apple.coreservicesd.plist" "com.apple.coreservices.sharedfilelistd.plist" "com.apple.coreservices.launchservicesd.plist" "com.apple.coreservices.appleid.passwordcheck.plist" "com.apple.coreservices.appleevents.plist" "com.apple.CoreRAID.plist" "com.apple.coreduetd.osx.plist" "com.apple.corecaptured.plist" "com.apple.configureLocalKDC.plist" "com.apple.configd.plist" "com.apple.comsat.plist" "com.apple.CommCenterRootHelper.plist" "com.apple.colorsyncd.plist" "com.apple.cmio.VDCAssistant.plist" "com.apple.cmio.iOSScreenCaptureAssistant.plist" "com.apple.cmio.IIDCVideoAssistant.plist" "com.apple.cmio.AVCAssistant.plist" "com.apple.cmio.AppleCameraAssistant.plist" "com.apple.cloudfamilyrestrictionsd-mac.plist" "com.apple.cfprefsd.xpc.daemon.plist" "com.apple.cache_delete.plist" "com.apple.bsd.dirhelper.plist" "com.apple.bnepd.plist" "com.apple.bluetoothReporter.plist" "com.apple.bluetoothaudiod.plist" "com.apple.blued.plist" "com.apple.backupd.plist" "com.apple.backupd-auto.plist" "com.apple.awdd.plist" "com.apple.awacsd.plist" "com.apple.avbdeviced.plist" "com.apple.automountd.plist" "com.apple.autofsd.plist" "com.apple.auditd.plist" "com.apple.audio.systemsoundserverd.plist" "com.apple.audio.coreaudiod.plist" "com.apple.atrun.plist" "com.apple.AssetCacheLocatorService.plist" "com.apple.aslmanager.plist" "com.apple.apsd.plist" "com.apple.applessdstatistics.plist" "com.apple.appleseed.fbahelperd.plist" "com.apple.AppleFileServer.plist" "com.apple.alf.agent.plist" "com.apple.akd.plist" "com.apple.airportd.plist" "com.apple.airport.wps.plist" "com.apple.AirPlayXPCHelper.plist" "com.apple.airplaydiagnostics.server.mac.plist" "com.apple.afpfs_checkafp.plist" "com.apple.afpfs_afpLoad.plist" "bootps.plist" "../" "./")
+ ("/Users/htmldrum/code/rust/egg_mode/" (23661 17050 617487 428000) "twitter-rs/" "egg_mode_tests/" "../" "./")
 
- ("/System/Library/" (22517 9233 0 0) "WidgetResources/" "Video/" "UserEventPlugins/" "User Template/" "TextEncodings/" "Tcl/" "SystemProfiler/" "SystemConfiguration/" "SyncServices/" "StartupItems/" "Spotlight/" "Speech/" "Sounds/" "Services/" "Security/" "SDKSettingsPlist/" "ScriptingDefinitions/" "ScriptingAdditions/" "ScreenReader/" "Screen Savers/" "Sandbox/" "Recents/" "Receipts/" "QuickTime/" "QuickLook/" "PrivateFrameworks/" "Printers/" "PrelinkedKernels/" "PreferencePanes/" "Perl/" "Password Server Filters/" "OpenSSL/" "OpenDirectory/" "MonitorPanels/" "Metadata/" "Messages/" "LoginPlugins/" "LocationBundles/" "LinguisticData/" "LaunchDaemons/" "LaunchAgents/" "Keychains/" "Keyboard Layouts/" "Kernels/" "KerberosPlugins/" "Java/" "InternetAccounts/" "Intelligent Suggestions/" "Input Methods/" "Image Capture/" "IdentityServices/" "Graphics/" "Frameworks/" "Fonts/" "Filters/" "Filesystems/" "Extensions/" "DuetKnowledgeBase/" "DTDs/" "Displays/" "DirectoryServices/" "CryptoTokenKit/" "CoreServices/" "ConfigurationProfiles/" "Compositions/" "Components/" "ColorSync/" "Colors/" "Caches/" "CacheDelete/" "BridgeSupport/" "Automator/" "Assistant/" "Address Book Plug-Ins/" "Accounts/" "Accessibility/" ".localized" "../" "./")
+ ("/Users/htmldrum/code/rust/" (23661 16808 345292 134000) "game_of_life/" "rust_by_example/" "writing_an_os_in_rust/" "jenkem_bot/" "spatini/" "change_my_twitter_logo/" "nom/" "inquisition_bot/" "arm_64/" "egg_mode/" "tokio/" "battleship/" "nathanielknight-smashbing-78094a0e90b0/" "cookbook/" "raytracer_example/" "choose_your_own_adventure_bot/" ".DS_Store" "read_stdin/" "the_rust_programming_language/" "../" "./")
 
- ("/System/" (22422 42582 0 0) "Library/" ".localized" "../" "./")
+ ("/Users/htmldrum/code/rust/egg_mode/egg_mode_tests/" (23661 16937 693161 460000) "src/" ".git/" ".gitignore" "Cargo.lock" "target/" "Cargo.toml" "../" "./")
 
- ("/Users/htmldrum/go/src/github.com/htmldrum/tx/cmd/" (22606 3917 0 0) "srv/" "cli/" "../" "./")
+ ("/Users/htmldrum/code/rust/egg_mode/egg_mode_tests/src/" (23661 16861 963322 490000) "main.rs" "../" "./")
 
- ("/Users/htmldrum/go/src/github.com/htmldrum/tx/" (22606 4018 0 0) "TODO.md" "README.md" "Makefile" "jira.go" "github.go" "comp.go" "cmd/" ".git/" ".#Makefile" "../" "./")
+ ("/Users/htmldrum/code/rust/inquisition_bot/" (23646 15847 5176 244000) "README.org" "../" "./")
 
- ("/Users/htmldrum/go/src/github.com/htmldrum/tx/cmd/srv/" (22606 3957 0 0) "main.go" "../" "./")
+ ("/Users/htmldrum/code/rust/tokio/hw/" (23657 361 32070 338000) "src/" ".git/" ".gitignore" "Cargo.lock" "target/" "Cargo.toml" "../" "./")
 
- ("/Users/htmldrum/go/src/github.com/htmldrum/tx/cmd/cli/" (22606 3917 0 0) "../" "./")
+ ("/Users/htmldrum/code/rust/tokio/hw/src/" (23657 1295 16627 438000) "echo_server.rs" "main.rs" "#echo_server.rs#" "../" "./")
 
- ("/Volumes/Samsung USB/workspace/tools/go/the_go_programming_language/" (22606 2496 0 0) "The Go Programming Language.pdf" ".#notes.md" "._The Go Programming Language.pdf" "examples/" "notes.md" "../" "./")
+ ("/Users/htmldrum/code/rust/cookbook/" (23206 56685 0 0) "src/" ".git/" ".gitignore" "Cargo.lock" "target/" "Cargo.toml" "../" "./")
 
- ("/Users/htmldrum/code/htmldrum/go/the_go_programming_language/chp7/" (22605 59658 0 0) "sleep.go" "../" "./")
+ ("/Users/htmldrum/code/rust/cookbook/src/" (23656 37595 837809 787000) "main.rs" "../" "./")
 
- ("/Users/htmldrum/code/htmldrum/go/the_go_programming_language/ch7/" (22605 59203 0 0) "../" "./")
+ ("/Users/htmldrum/LearningCSharp2D/Assets/Scripts/" (23474 3684 298361 235000) "CameraFollow.cs" "ViewInGame.cs.meta" "GameManager.cs" "Enemy.cs" "LevelGenerator.cs.meta" "PlayerController.cs.meta" "LeaveTrigger.cs.meta" "LevelPiece.cs" "KillTrigger.cs.meta" "Collectable.cs.meta" "Collectable.cs" "Enemy.cs.meta" "LevelGenerator.cs" "triggerMovement.cs.meta" "CameraFollow.cs.meta" "LeaveTrigger.cs" "ViewInGame.cs" "KillTrigger.cs" "triggerMovement.cs" "GameManager.cs.meta" "LevelPiece.cs.meta" "PlayerController.cs" "../" "./")
 
- ("/Volumes/Samsung USB/workspace/tools/go/the_go_programming_language/examples/chp4/" (22503 13884 0 0) "slices.go" "sha256.go" "sha256" "maps.go" "ex.go" "arrays.go~" "arrays.go" "append.go" "../" "./")
+ ("/Users/htmldrum/LearningCSharp2D/Assets/" (23473 42275 733105 42000) "Animations/" "Animations.meta" "Sprites/" "Sprites.meta" "Scripts/" "Prefabs.meta" "Scripts.meta" "Prefabs/" ".DS_Store" "../" "./")
 
- ("/Volumes/Samsung USB/" (22518 7546 0 0) "img-161027120805/" "._.TemporaryItems" ".TemporaryItems/" "phoenix-training.mp4" "workspace/" ".fseventsd/" ".Trash-1000/" ".Spotlight-V100/" ".Trashes/" "._.Trashes" "../" "./")
+ ("/Users/htmldrum/OhMyGod/Assets/Scripts/" (23473 36766 130334 197000) "LearningScript.cs.meta" "LearningScript.cs" "Person.cs.meta" "Person.cs" "../" "./")
 
- ("/Volumes/" (22605 58354 0 0) "Samsung USB/" "Macintosh HD/" "corectl/" ".DS_Store" "../" "./")
+ ("/Users/htmldrum/OhMyGod/Assets/Notes/" (23473 33251 29059 24000) "README.md.meta" "#README.md#" "README.md" ".#README.md" "#README.md#.meta" "../" "./")
 
- ("/Users/htmldrum/code/htmldrum/go/the_go_programming_language/chp8/clockclient1/" (22506 20528 0 0) "main.go" "../" "./")
+ ("/Users/htmldrum/OhMyGod/Assets/" (23473 32592 832300 863000) "Scenes.meta" "Scripts/" "Scripts.meta" ".DS_Store" "Scenes/" "../" "./")
 
- ("/Users/htmldrum/code/htmldrum/go/the_go_programming_language/chp6/" (22605 58983 0 0) "geometry.go" "../" "./")
+ ("/Users/htmldrum/go/src/github.com/veandco/go-sdl2/.go-sdl2-examples/examples/gfx/" (23306 14423 0 0) "gfx.go" "gfx.c" "../" "./")
 
- ("/Users/htmldrum/code/htmldrum/go/the_go_programming_language/chp8/clock1/" (22605 58521 0 0) "main.go" "../" "./")
+ ("/Users/htmldrum/go/src/github.com/veandco/go-sdl2/.go-sdl2-examples/examples/events/" (23306 13057 0 0) "WaitEventTimeout.go" "WaitEvent.go" "PushEvent.go" "PeepEvents_peek.go" "PeepEvents_add.go" "events.go" "events.c" "../" "./")
 
- ("/Users/htmldrum/code/htmldrum/go/the_go_programming_language/" (22529 36811 0 0) "chp8/" "chp6/" "chp5/" "chp4/" "chp1/" ".DS_Store" "../" "./")
+ ("/Users/htmldrum/go/src/github.com/veandco/go-sdl2/.go-sdl2-examples/examples/audio_network/" (23289 26875 0 0) "audio_network.go" "../" "./")
 
- ("/Users/htmldrum/code/htmldrum/go/" (22567 47880 0 0) "workspaces/" "the_go_programming_language/" "tests/" "ruby-gem/" "pact-go/" "goa/" "generate/" "docker/" "blog.golang.org/" ".DS_Store" "../" "./")
+ ("/Users/htmldrum/go/src/github.com/veandco/go-sdl2/.go-sdl2-examples/examples/audio_mp3/" (23289 26875 0 0) "audio_mp3.go" "audio_mp3.c" "../" "./")
 
- ("/Users/htmldrum/go/src/github.com/htmldrum/caller/" (22512 25958 0 0) "main.go" "htmltools.go" "example.html" "../" "./")
+ ("/Users/htmldrum/go/src/github.com/veandco/go-sdl2/.go-sdl2-examples/examples/" (23289 26875 0 0) "texture_png/" "texture/" "text/" "syswminfo/" "render_queue/" "render_goroutines/" "render/" "opengl3/" "opengl/" "messagebox/" "haptic/" "gfx/" "events/" "audio_wav_memory/" "audio_network/" "audio_mp3/" "audio/" "../" "./")
 
- ("/Users/htmldrum/go/src/github.com/htmldrum/gui/" (22520 12321 0 0) "Makefile" "gui" "go-ui.go" "../" "./")
+ ("/Users/htmldrum/go/src/github.com/veandco/go-sdl2/.go-sdl2-examples/examples/text/" (23306 10755 0 0) "text.go" "text" "../" "./")
 
- ("/Users/htmldrum/go/src/github.com/htmldrum/htmltools/" (22605 57532 0 0) "README.md" "outline.go" "htmltools.go" ".git/" "../" "./")
+ ("/Users/htmldrum/go/src/github.com/htmldrum/sdl2/" (23306 10217 0 0) "Makefile" "main.go" "main" "colors/" "array/" ".dogo.json" "../" "./")
 
- ("/Users/htmldrum/go/src/github.com/htmldrum/abcd/" (22605 57082 0 0) "README.md" "pkg/" "Makefile" "make.go" "fs/" "config/" "cmd/" ".git/" "../" "./")
+ ("/Users/htmldrum/go/src/github.com/htmldrum/sdl2/colors/" (23306 11158 0 0) "talky_screen.go" "renderer" "read.go" "read" "no_supported_renderers.go" "main" "demos.go" "demos" "../" "./")
 
- ("/Users/htmldrum/go/src/github.com/htmldrum/" (22605 56936 0 0) "xkcd/" "tx/" "stringutil/" "stackoverflow_jobs/" "README.md" "omdb/" "htmltools/" "hello/" "gui/" "goa-adder/" "deisgn_patterns/" "context/" "chan_on_chan/" "caller/" "benchmark/" "abcd/" "../" "./")
+ ("/Users/htmldrum/go/src/github.com/veandco/go-sdl2/gfx/" (23289 26804 0 0) "sdl_gfx_wrapper.h" "sdl_gfx_test.go" "sdl_gfx_cgo_static.go" "sdl_gfx_cgo.go" "sdl_gfx.go" "../" "./")
 
- ("/Users/htmldrum/go/src/github.com/" (22582 14113 0 0) "zach-klippenstein/" "visualfx/" "visualfc/" "spf13/" "SEEK-Jobs/" "satori/" "prometheus/" "pkg/" "netflix/" "maxwellforest/" "mattn/" "manveru/" "jbuberel/" "htmldrum/" "heroku/" "hashicorp/" "golang/" "goadesign/" "dimfeld/" "cstockton/" "armon/" "andlabs/" "../" "./")
+ ("/Users/htmldrum/go/src/github.com/veandco/go-sdl2/sdl/" (23306 8599 0 0) "video_test.go" "video.go" "version.go" "touch.go" "TODO.md" "timer_test.go" "timer.go" "syswm.go" "system_android.go" "sysrender.go" "surface_test.go" "surface.go" "struct_test.go" "sdl_wrapper.h" "sdl_test.go" "sdl_cgo_static.go" "sdl_cgo.go" "sdl.go" "scancode.go" "rwops.go" "render.go" "rect_test.go" "rect.go" "power_test.go" "power.go" "pixels.go" "mutex.go" "mouse.go" "log_test.go" "log.h" "log.go" "log.c" "loadso.go" "keycode.go" "keyboard.go" "joystick.go" "hints_test.go" "hints.h" "hints.go" "hints.c" "helpers.go" "haptic.go" "gesture.go" "gamecontroller.go" "filesystem_test.go" "filesystem.go" "events_test.go" "events.h" "events.go" "events.c" "error.go" "endian.go" "cpuinfo_test.go" "cpuinfo.go" "clipboard_test.go" "clipboard.go" "blendmode.go" "audio_test.go" "audio.go" "../" "./")
 
- ("/Users/htmldrum/go/" (22536 34473 0 0) "src/" "pkg/" "bin/" "../" "./")
+ ("/Users/htmldrum/go/src/github.com/veandco/go-sdl2/img/" (23289 26804 0 0) "sdl_image_wrapper.h" "sdl_image_test.go" "sdl_image_cgo_static.go" "sdl_image_cgo.go" "sdl_image.go" "../" "./")
 
- ("/Users/htmldrum/Desktop/haskell/lyah/" (22605 52823 0 0) "worked_examples/" "todo.txt" "todo.hs" "temp16807282475249" "notes.md" "catch.hs" "../" "./")
+ ("/Users/htmldrum/go/src/github.com/veandco/go-sdl2/" (23289 26804 0 0) "ttf/" "sdl/" "README.md" "mix/" "make.bat" "LICENSE" "img/" "GNUmakefile" "gfx/" "CONTRIBUTORS.md" "CONTRIBUTING.md" "BSDmakefile" "BREAKING.md" ".travis.yml" ".go-sdl2-libs/" ".go-sdl2-examples/" ".gitmodules" ".gitignore" ".gitattributes" ".git/" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_pud/" (22597 13405 0 0) "vendor/" "TODO" "tmp/" "spec/" "README.md" "Rakefile" "public/" "Procfile" "Makefile" "log/" "lib/" "Gemfile.lock" "Gemfile" "Dockerfile" "docker_tag" "docker_push" "docker-compose.yml" "doc/" "db/" "config.ru" "config/" "ci/" "bin/" "app.json" "app/" ".travis.yml" ".ruby-version" ".rubocop.yml" ".rspec" ".prubocop.yml" ".gitmodules" ".gitignore" ".git/" ".env" "../" "./")
+ ("/Users/htmldrum/go/src/github.com/veandco/" (23289 26795 0 0) "go-sdl2/" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/" (22597 13358 0 0) "vendor/" "TODO" "tmp/" "spec/" "scripts/" "README.md" "Rakefile" "public/" "Procfile" "Makefile" "log/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "Dockerfile" "docker_tag" "docker_push" "docker-compose.yml" "doc/" "db/" "config.ru" "config/" "ci/" "bin/" "app.json" "app/" ".travis.yml" ".ruby-version" ".rubocop.yml" ".rspec" ".prubocop.yml" ".gitmodules" ".gitignore" ".git/" ".env" "../" "./")
+ ("/Users/htmldrum/go/src/github.com/htmldrum/" (23289 32044 0 0) "xkcd/" "tx/" "stringutil/" "stackoverflow_jobs/" "sdl2/" "README.md" "omdb/" "machinery/" "htmltools/" "hello/" "gui/" "goa-adder/" "ds_solution/" "deisgn_patterns/" "context/" "chan_on_chan/" "caller/" "benchmark/" "abcd/" ".DS_Store" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/bin/" (22555 60417 0 0) "spring" "results.html" "rake" "rails" "notify" "draw" "create_user.rb" "configure" "bundle" "bench" "../" "./")
+ ("/Users/htmldrum/go/src/github.com/" (23289 29485 0 0) "zhgo/" "zach-klippenstein/" "yhat/" "visualfx/" "visualfc/" "veandco/" "tsenart/" "tools/" "tidwall/" "stretchr/" "streadway/" "spf13/" "Sirupsen/" "SEEK-Jobs/" "sclevine/" "satori/" "RichardKnop/" "prometheus/" "pmezard/" "pkg/" "patrickmn/" "oxtoacart/" "onsi/" "nu7hatch/" "netflix/" "nbio/" "maxwellforest/" "matttproud/" "mattn/" "manveru/" "manucorporat/" "liudng/" "lib/" "kubernetes-incubator/" "jinzhu/" "jbuberel/" "htmldrum/" "html/" "heroku/" "hashicorp/" "gorilla/" "googleapis/" "golang/" "goadesign/" "gin-gonic/" "garyburd/" "dnaeon/" "dimfeld/" "davecgh/" "DataDog/" "cstockton/" "codegangsta/" "circonus-labs/" "bradfitz/" "boj/" "beorn7/" "aws/" "armon/" "andlabs/" "abcd/" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/provision/staging_1/deployments/onefill_maps_api/" (22597 12424 0 0) "conig.txt" "../" "./")
+ ("/tmp/" (23074 32441 0 0) "jp_co_roland_RDUSB01D8Dev_SF" "jp_co_roland_RDUSB0198Dev_SF" "com.apple.launchd.XCb2KL34I8/" "com.apple.launchd.TJ3nLMcB84/" "com.apple.launchd.c3I77LqKuj/" "com.apple.launchd.8wJWumnAha/" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/config/initializers/" (22597 12405 0 0) "wrap_parameters.rb" "session_store.rb" "secrect.rb" "rails_admin.rb" "mime_types.rb" "inflections.rb" "filter_parameter_logging.rb" "devise.rb" "cookies_serializer.rb" "backtrace_silencers.rb" "assets.rb" "apitome.rb" "ams.rb" "action_controller.rb" "#rails_admin.rb#" "../" "./")
+ ("/Users/htmldrum/scala/scalacaster/src/collection/" (22953 34487 0 0) "Stack.scala" "Set.scala" "Queue.scala" "List.scala" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/provision/staging_1/deployments/onefill_pud/" (22597 10100 0 0) "config.txt" "../" "./")
+ ("/Users/htmldrum/scala/scalacaster/" (22953 34486 0 0) "src/" "README.md" ".git/" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/provision/staging_1/deployments/" (22597 12299 0 0) "README.md" "onefill_pud/" "onefill_oba/" "onefill_maps_api/" "onebank_adapter/" "../" "./")
+ ("/Users/htmldrum/scala/learnxinyminutes/" (22953 34490 0 0) "README.md" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/provision/" (22597 6538 0 0) "staging_1/" "README.md" "prod_1/" "network-diagram.pdf" "network-diagram.bmpr" ".kube_hax.md" ".gitignore" ".git/" "../" "./")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/ruby/onefill_sup/spec/acceptance/v1/admin_scope/" (22953 34205 0 0) "tenants_spec.rb" "stats_spec.rb" "sites_spec.rb" "editor_sessions_spec.rb" "editor_reports_spec.rb" "charts_spec.rb" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/config/" (22597 12275 0 0) "secrets.yml" "routes.rb" "puma.rb" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "boot.rb" "application.rb" "../" "./")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/ruby/onefill_sup/spec/acceptance/v1/" (22953 34205 0 0) "users_spec.rb" "tickets_spec.rb" "tenants_spec.rb" "sites_spec.rb" "sessions_spec.rb" "schemas_spec.rb" "reports_spec.rb" "promotions_spec.rb" "mappings_spec.rb" "locations_spec.rb" "flows_spec.rb" "events_spec.rb" "engine_builds_spec.rb" "editor_reports_spec.rb" "editor/" "admins_spec.rb" "admin_scope/" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_oba/config/" (22597 9692 0 0) "secrets.yml" "routes.rb" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "boot.rb" "application.rb" "../" "./")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/ruby/onefill_sup/spec/acceptance/" (22934 34409 0 0) "v1/" "v0/" "../" "./")
 
- ("/Users/htmldrum/code/maxwellforest/onefill_maps_api/db/" (22555 55075 0 0) "site_example.json" "schema.rb" "migrate/" "#schema.rb#" "../" "./")
+ ("/Users/htmldrum/go/src/github.com/maxwellforest/onefill/ruby/onefill_sup/config/" (22988 10004 0 0) "secrets.yml" "routes.rb" "puma.rb" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "boot.rb" "application.rb" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

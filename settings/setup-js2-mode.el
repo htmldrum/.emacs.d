@@ -1,6 +1,7 @@
 ;;; setup-js2-mode.el --- tweak js2 settings -*- lexical-binding: t; -*-
 
 (setq-default js2-allow-rhino-new-expr-initializer nil)
+(setq-default js2-auto-insert-semicolon nil)
 (setq-default js2-auto-indent-p nil)
 (setq-default js2-enter-indents-newline nil)
 (setq-default js2-global-externs '("module" "require" "buster" "sinon" "assert" "refute" "setTimeout" "clearTimeout" "setInterval" "clearInterval" "location" "__dirname" "console" "JSON"))
@@ -188,14 +189,14 @@
 (require 'json)
 
 ;; Tern.JS
-(add-to-list 'load-path (expand-file-name "tern/emacs" site-lisp-dir))
-(autoload 'tern-mode "tern.el" nil t)
-;;(add-hook 'js2-mode-hook (lambda () (tern-mode t)))
-(eval-after-load 'auto-complete
-  '(eval-after-load 'tern
-     '(progn
-        (require 'tern-auto-complete)
-        (tern-ac-setup))))
+;; (add-to-list 'load-path (expand-file-name "tern/emacs" site-lisp-dir))
+;; (autoload 'tern-mode "tern.el" nil t)
+;; ;;(add-hook 'js2-mode-hook (lambda () (tern-mode t)))
+;; (eval-after-load 'auto-complete
+;;   '(eval-after-load 'tern
+;;      '(progn
+;;         (require 'tern-auto-complete)
+;;         (tern-ac-setup))))
 
 
 (defun my-aget (key map)

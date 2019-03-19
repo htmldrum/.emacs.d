@@ -1,4 +1,4 @@
-(require 'find-file-in-project)
+;; (require 'find-file-in-project)
 (require 's)
 
 ;; No need to be stingy

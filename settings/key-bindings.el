@@ -15,12 +15,12 @@
 (global-set-key (kbd "s-.") 'copy-from-above-command)
 
 ;; Smart M-x
-(global-set-key (kbd "M-x") 'smex)
-(global-set-key (kbd "M-X") 'smex-major-mode-commands)
+;; (global-set-key (kbd "M-x") 'smex)
+;; (global-set-key (kbd "M-X") 'smex-major-mode-commands)
 (global-set-key (kbd "C-c C-c M-x") 'execute-extended-command)
 
 ;; Use C-x C-m to do M-x per Steve Yegge's advice
-(global-set-key (kbd "C-x C-m") 'smex)
+;; (global-set-key (kbd "C-x C-m") 'smex)
 
 ;; Expand region (increases selected region by semantic units)
 (global-set-key (if is-mac (kbd "C-@") (kbd "C-'")) 'er/expand-region)
@@ -97,10 +97,10 @@
 
 ;; Change word separators
 (global-unset-key (kbd "C-x +")) ;; used to be balance-windows
-(global-set-key (kbd "C-x + -") (λ (replace-region-by 's-dashed-words)))
-(global-set-key (kbd "C-x + _") (λ (replace-region-by 's-snake-case)))
-(global-set-key (kbd "C-x + c") (λ (replace-region-by 's-lower-camel-case)))
-(global-set-key (kbd "C-x + C") (λ (replace-region-by 's-upper-camel-case)))
+;; (global-set-key (kbd "C-x + -") (λ (replace-region-by 's-dashed-words)))
+;; (global-set-key (kbd "C-x + _") (λ (replace-region-by 's-snake-case)))
+;; (global-set-key (kbd "C-x + c") (λ (replace-region-by 's-lower-camel-case)))
+;; (global-set-key (kbd "C-x + C") (λ (replace-region-by 's-upper-camel-case)))
 
 ;; Killing text
 (global-set-key (kbd "C-S-k") 'kill-and-retry-line)
@@ -110,7 +110,7 @@
 ;; Use M-w for copy-line if no active region
 (global-set-key (kbd "M-w") 'save-region-or-current-line)
 (global-set-key (kbd "s-w") 'save-region-or-current-line)
-(global-set-key (kbd "M-W") (λ (save-region-or-current-line 1)))
+;; (global-set-key (kbd "M-W") (λ (save-region-or-current-line 1)))
 
 ;; Make shell more convenient, and suspend-frame less ; shell is not convenient
                                         ; (global-set-key (kbd "C-z") 'shell)
@@ -158,7 +158,7 @@
 (global-set-key (kbd "s-y") 'bury-buffer)
 
 ;; Revert without any fuss
-(global-set-key (kbd "M-<escape>") (λ (revert-buffer t t)))
+;; (global-set-key (kbd "M-<escape>") (λ (revert-buffer t t)))
 
 ;; Edit file with sudo
 (global-set-key (kbd "M-s e") 'sudo-edit)
@@ -178,7 +178,7 @@
 (global-set-key (kbd "C-!") 'mf/mirror-region-in-multifile)
 
 ;; Indentation help
-(global-set-key (kbd "M-j") (λ (join-line -1)))
+;; (global-set-key (kbd "M-j") (λ (join-line -1)))
 
 ;; Help should search more than just commands
 (global-set-key (kbd "<f1> a") 'apropos)
@@ -209,18 +209,18 @@
 (global-set-key (kbd "C-<tab>") 'completion-at-point)
 
 ;; Like isearch, but adds region (if any) to history and deactivates mark
-(global-set-key (kbd "C-s") 'isearch-forward-use-region)
-(global-set-key (kbd "C-r") 'isearch-backward-use-region)
+(global-set-key (kbd "C-s") 'isearch-forward)
+(global-set-key (kbd "C-r") 'isearch-backward)
 
 ;; Like isearch-*-use-region, but doesn't fuck with the active region
 (global-set-key (kbd "C-S-s") 'isearch-forward)
 (global-set-key (kbd "C-S-r") 'isearch-backward)
 
 ;; Move more quickly
-(global-set-key (kbd "C-S-n") (λ (ignore-errors (next-line 5))))
-(global-set-key (kbd "C-S-p") (λ (ignore-errors (previous-line 5))))
-(global-set-key (kbd "C-S-f") (λ (ignore-errors (forward-char 5))))
-(global-set-key (kbd "C-S-b") (λ (ignore-errors (backward-char 5))))
+;; (global-set-key (kbd "C-S-n") (λ (ignore-errors (next-line 5))))
+;; (global-set-key (kbd "C-S-p") (λ (ignore-errors (previous-line 5))))
+;; (global-set-key (kbd "C-S-f") (λ (ignore-errors (forward-char 5))))
+;; (global-set-key (kbd "C-S-b") (λ (ignore-errors (backward-char 5))))
 
 (global-set-key (kbd "H-*") 'beginning-of-buffer) ;; H-p
 (global-set-key (kbd "H-n") 'end-of-buffer)
@@ -298,7 +298,7 @@
 
 ;; Jump from file to containing directory
 (global-set-key (kbd "C-x C-j") 'dired-jump) (autoload 'dired-jump "dired")
-(global-set-key (kbd "C-x M-j") '(λ (dired-jump 1)))
+;; (global-set-key (kbd "C-x M-j") '(λ (dired-jump 1)))
 
 ;; Easy-mode fullscreen rgrep
 (global-set-key (kbd "M-s s") 'git-grep-fullscreen)
@@ -325,32 +325,8 @@
 
 ;; Find file in project, with specific patterns
 (global-unset-key (kbd "C-x C-o")) ;; which used to be delete-blank-lines (also bound to C-c C-<return>)
-(global-set-key (kbd "C-x C-o ja") (ffip-create-pattern-file-finder "*.java"))
-(global-set-key (kbd "C-x C-o js") (ffip-create-pattern-file-finder "*.js"))
-(global-set-key (kbd "C-x C-o ht") (ffip-create-pattern-file-finder "*.html"))
-(global-set-key (kbd "C-x C-o jp") (ffip-create-pattern-file-finder "*.jsp"))
-(global-set-key (kbd "C-x C-o cs") (ffip-create-pattern-file-finder "*.css"))
-(global-set-key (kbd "C-x C-o ft") (ffip-create-pattern-file-finder "*.feature"))
-(global-set-key (kbd "C-x C-o cl") (ffip-create-pattern-file-finder "*.clj"))
-(global-set-key (kbd "C-x C-o el") (ffip-create-pattern-file-finder "*.el"))
-(global-set-key (kbd "C-x C-o ed") (ffip-create-pattern-file-finder "*.edn"))
-(global-set-key (kbd "C-x C-o md") (ffip-create-pattern-file-finder "*.md"))
-(global-set-key (kbd "C-x C-o rb") (ffip-create-pattern-file-finder "*.rb"))
-(global-set-key (kbd "C-x C-o or") (ffip-create-pattern-file-finder "*.org"))
-(global-set-key (kbd "C-x C-o ph") (ffip-create-pattern-file-finder "*.php"))
-(global-set-key (kbd "C-x C-o tx") (ffip-create-pattern-file-finder "*.txt"))
-(global-set-key (kbd "C-x C-o vm") (ffip-create-pattern-file-finder "*.vm"))
-(global-set-key (kbd "C-x C-o xm") (ffip-create-pattern-file-finder "*.xml"))
-(global-set-key (kbd "C-x C-o in") (ffip-create-pattern-file-finder "*.ini"))
-(global-set-key (kbd "C-x C-o pr") (ffip-create-pattern-file-finder "*.properties"))
-(global-set-key (kbd "C-x C-o in") (ffip-create-pattern-file-finder "*.ini"))
-(global-set-key (kbd "C-x C-o gr") (ffip-create-pattern-file-finder "*.groovy"))
-(global-set-key (kbd "C-x C-o ga") (ffip-create-pattern-file-finder "*.gradle"))
-(global-set-key (kbd "C-x C-o sc") (ffip-create-pattern-file-finder "*.scala"))
-(global-set-key (kbd "C-x C-o co") (ffip-create-pattern-file-finder "*.conf"))
-(global-set-key (kbd "C-x C-o j2") (ffip-create-pattern-file-finder "*.j2"))
-(global-set-key (kbd "C-x C-o sh") (ffip-create-pattern-file-finder "*.sh"))
-(global-set-key (kbd "C-x C-o !") (ffip-create-pattern-file-finder "*"))
+;; (global-set-key (kbd "C-x C-o ja") (ffip-create-pattern-file-finder "*.java"))
+
 
 ;; View occurrence in occur mode
 (define-key occur-mode-map (kbd "v") 'occur-mode-display-occurrence)

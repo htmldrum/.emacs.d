@@ -1,9 +1,3 @@
-/Users/htmldrum/Desktop/prometheus/alertmanager
-~/Desktop/deis/minikube/k8s101
-~/code/maxwellforest/provision/terraform/onefill/swag_cluster
-/Users/htmldrum/code/htmldrum/todohs
-~/Desktop/deis/kubernetes
-/Users/htmldrum/code/maxwellforest/provision/terraform/onefill/fresh_start
 ~/code/maxwellforest/onefill_oba
 /Users/htmldrum/code/maxwellforest/onefill_maps_api
 /Users/htmldrum/code/maxwellforest/provision/prod_1/ap-southeast-1/out/terraform
@@ -31,3 +25,9 @@
 /Users/htmldrum/code/maxwellforest/onefill_provision
 /Users/htmldrum/.emacs.d
 /Users/htmldrum/code/maxwellforest/onefill_provision/staging_1
+/Users/htmldrum/code/maxwellforest/onefill_oba
+~/go/src/github.com/maxwellforest/onefill/js/onefill_maps_runner/dist
+~/.emacs.d
+/Users/htmldrum/code/elisp
+~/code/pg/pgcrypto
+/Users/htmldrum/code/pg/pgcrypto/openssl

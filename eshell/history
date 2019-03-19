@@ -1,128 +1,128 @@
-kubectl get ns
-deis 
-kubectl get service --namespace=onefill-sup -o=json
-kubectl get service --namespace=onefill-sup -o=yaml
-dig --help
-dig -h
-deis info
-kubectl get ns
-kubectl get service --namepsace=onefill-redis
-kubectl get service --namespace=onefill-redis -o=yaml
-kubectl get service --namespace=onefill-oba -o=yaml
-kubectl get service --all-namespaces=true
-docker ps
-docker ps
-docker kill 5240e543bd09
-docker run -d redis
-docker ps
-redis-server
-redis-client
-redis-cli
-docker ps
-docker kill ce7af8bc1135
-docker run -d redis -p 6379
-docker ps
-docker ps
-docker ps
-docker ps
-docker ps
-docker run -d -p 6379 redis
-docker ps
-docker ps
-docker ps
-docker ps
-redis-cli -h localhost -p 32769
-docker-compose up
-pg_restore -v -h staging.cztbodtqjwpy.ap-southeast-2.rds.amazonaws.com -U dec7d9c6c7a886de1af6 onefill_sup_staging_heroku latest.dump
-pg_restore -v -h staging.cztbodtqjwpy.ap-southeast-2.rds.amazonaws.com -U dec7d9c6c7a886de1af6 -d onefill_sup_staging_heroku latest.dump
-pg_restore -v -h staging.cztbodtqjwpy.ap-southeast-2.rds.amazonaws.com -U dec7d9c6c7a886de1af6 -d onefill_sup_staging latest.dump
-deis info
-ku exec -it onefill-sup-cmd-10650681-tw67g --namespace=onefill-sup rails c
-kubectl exec -it onefill-sup-cmd-10650681-tw67g --namespace=onefill-sup rails c
-deis run rails c
-deis info
-ku exec -it --namespace=onefill-sup onefill-sup-cmd-4254696394-aopro rails c
-kubectl exec -it --namespace=onefill-sup onefill-sup-cmd-4254696394-aopro bundle exec rails c 
-tail -f ./log/staging.log 
+(sha256 "text")
+echo "text" | sha256
+gpg
+brew info gpg
+brew install gpg
+gpg
+gpg --gen-key
+gpg --full-generate-key
 ls -la
-tail -f ./log/error.log 
-ls -la
-cd ./log
+gpg --full-generate-key
 ls -la
 ls -la
+cd openssl/
 ls -la
 ls -la
+./gen_key
+./gen_key.sh
+chmod +x *.sh
 ls -la
+./gen_key.sh 
+./gen_key.sh 
+./gen_key.sh 
+./gen_key.sh 
+./gen_key.sh 
 ls -la
+cat domain.key
+cat domain.csr
+openssl asn1parse -i in domain.csr
+openssl asnlparse -i in domain.csr
+openssl asn1parse -i -in domain.csr
 ls -la
-tail -f ./nginx.error.log
+chmod +x *.sh
 ls -la
+./gen_self-signed.sh 
 ls -la
+rm domain.key
+./gen_self-signed.sh 
 ls -la
-tail -f error.log 
+cat domain.key
+cat domain.crt 
+openssl asnlparse -i in domain.crt
+openssl asnlparse -i -in domain.crt
+openssl asnlparse --help
+openssl asnlparse help
+openssl asnlparse -help
+openssl asn1parse --help
+openssl asn1parse -in domain.crt
+openssl asn1parse -in domain.key
+openssl asn1parse -in domain.crt
+openssl asn1parse -i -in domain.crt
 ls -la
-cd worked_examples/
-ghci
-git clone git@github.com:damncabbage/purescript-workshop
-git clone git@github.com:damncabbage/purescript-workshop.git
-git https://github.com/alexmingoia/pux-starter-app.git
-git https://github.com/alexmingoia/pux-starter-app
-git clone https://github.com/alexmingoia/pux-starter-app
-git clone https://github.com/paf31/purescript-thermite/
-cd ~/code/htmldrum/haskell/
-heroku create -b https://github.com/mietek/haskell-on-heroku
+cat domain.key
+openssl asn1parse -i -in domain.key
 ls -la
+chmod +x *.sh
+./gen_self-signed_from_existing.sh
 ls -la
-git status
-git clone -q https://github.com/mietek/haskell-on-heroku-torial
-git clone -q https://github.com/mietek/haskell-on-heroku-tutorial
-ls -la
-cd haskell-on-heroku-tutorial/
-ls -la
-heroku -h
-heroku login
-haskell create -h
-heroku create -h
-heroku apps:create swyne
-git push heroku master
-gdb
-info gdb
-info gdb
-man gdb
-(do curl)
-(while true (exec "localhost:6969"))
-(while 1 (exec "localhost:6969"))
-(apropos exec)
-(apropos `exec)
-(apropos 'exec)
-(apropos "exec")
-(apropos "shell")
-curl -d "{'summary':'asdasd','created':'now'}" -X POST http://localhost:8000/todo
-curl -d "{'summary':'asdasd','created':'now'}" -X POST http://localhost:8000/todo
-curl -d "{'summary':'asdasd','created':'now'}" -X POST localhost:8000/todo
-curl -d "{\"summary\":\"asdasd\",\"created\":\"now\"}" -X POST localhost:8000/todo
-curl -d "{\"summary\":\"asdasd\",\"created\":\"now\"}" -X POST http://localhost:8000/todo
-curl -X POST -d "{\"summary\":\"asdasd\",\"created\":\"now\"}" http://localhost:8000/todo
-curl -X GET localhost:8000/todo
-ku
-irb
-ls -la
-cd ..
-ls -la
-./rand_name.rb
-chmod +x ./rand_name.rb
-./rand_name.rb
-./rand_name.rb
-./rand_name.rb
-./rand_name.rb
-./rand_name.rb
-./rand_name.rb
-./rand_name.rb
-./rand_name.rb
-(setq zoomlevel 3)
-(while (> zoomlevel 0)  (princ "test")  (setq zoomlevel (- zoomlevel 1)))
-ku get ns
-kubernetes get ns
-kubectl get ns
-kubectl get po --namespace=default
-kubectl get services --namespace=default
+openssl req -text -noout -verify in domain.csr
+openssl req -text -noout -verify -in domain.csr
+head -A 2 domain.key 
+head domain.key 
+head domain.key | grep .* -A 2
+head domain.key | grep ".*" -A 2
+head domain.key | grep ".*" -A 1
+head domain.key | grep "---" -A 1
+head domain.key | grep  -E "---" -A 1
+head domain.key | grep -A 2 ".*"
+head domain.key | grep -A 1 ".*"
+head domain.key | grep -A 1 "-.*"
+head domain.key | grep -A 1 "-+"
+head domain.key | grep -A 1 '-+'
+head domain.key | grep -A 1 -e '-+'
+head domain.key | grep -A 1 -e '-*'
+head domain.key | grep -A 1 -e '\-*'
+head domain.key | grep -A 1 -e '\-+'
+head domain.key | grep -A 1 -e '---'
+head domain.key | grep -A 2 -e '---'
+head domain.key | grep -V -A 2 -e '---'
+head domain.key | grep -v -A 2 -e '---'
+head domain.key | grep -v -e '---'
+head domain.key | grep -v -e '---' | hex
+head domain.key | grep -v -e '---' | hexdump 
+head domain.key | grep -v -e '---' | xargs ruby -e 'puts(STDIN.read)'
+head domain.key | grep -v -e '---' | xargs ruby -e 'puts(STDIN)'
+head domain.key | grep -v -e '---' | xargs ruby -e 'puts($STDIN)'
+head domain.key | grep -v -e '---' | xargs ruby -e 'puts($STDIN.read)'
+head domain.key | grep -v -e '---' | xargs ruby -e 'puts(STDIN)'
+head domain.key | grep -v -e '---' | xargs ruby -e 'puts(STDIN.class)'
+head domain.key | grep -v -e '---' | xargs ruby -e 'puts(STDIN.ead)'
+head domain.key | grep -v -e '---' | xargs ruby -e 'puts(STDIN.read)'
+head domain.key | grep -v -e '---' | xargs ruby -e 'puts(STDIN.readlines)'
+head domain.key | grep -v -e '---' | xargs ruby -e 'puts(STDIN.open)'
+head domain.key | grep -v -e '---' | xargs ruby -e 'puts(STDIN.read)'
+head domain.key | grep -v -e '---' | xargs ruby -e 'puts("jew")'
+head domain.key | grep -v -e '---' | xargs ruby -e 'puts(STDIN)'
+head domain.key | grep -v -e '---' | xargs ruby -e 'puts(STDIN.read)'
+head domain.key | grep -v -e '---' | xargs ruby -e 'puts(STDIN)'
+head domain.key | grep -v -e '---' | xargs ruby -e 'puts(STDIN.methods)'
+head domain.key | grep -v -e '---' | xargs ruby -e 'puts(STDIN.char)'
+head domain.key | grep -v -e '---' | xargs ruby -e 'puts(STDIN.readchar)'
+head domain.key | grep -v -e '---' | xargs ruby -e 'puts(STDIN.readchar)'
+head domain.key | grep -v -e '---' | echo
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.readchar)'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.read)'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.read.hex)'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.read)'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.readchar.map(&:hex))'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.map(&:hex))'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.readline.map(&:hex))'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.read.map(&:hex))'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.read)'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.read.class)'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.readchar)'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.each_byte.map(&:hex))'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.each_byte.map(&:to_s).map(&:hex))'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.each_byte.map(&:to_s).map(&:hex).join(""))'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.each_byte.map(&:to_s).map(&:hex).join(" "))'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.each_byte.map(&:to_s).join(" "))'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.each_byte.map(&:to_s).join(" "))'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.each_byte)'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.each_byte.map(&:hex))'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.each_byte.map(&:class))'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.each_byte.map(&:class).map(&:methods))'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.each_byte..map(&:first).map(&:class).map(&:methods))'
+head domain.key | grep -v -e '---' | ruby -e 'puts(STDIN.each_byte.map(&:first).map(&:class).map(&:methods))'
+openssl req -text -noout -verify -in domain.csr
+openssl req -text -noout -verify -in domain.crt
+openssl x509 -text -noout -in domain.crt

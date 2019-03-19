@@ -3,8 +3,8 @@
       color-theme-is-global t
       truncate-partial-width-windows nil)
 
-(setq ring-bell-function (lambda ()
-                             (shell-command "afplay ~/.emacs.d/assets/ned.wav&")))
+;; (setq ring-bell-function (lambda ()
+;;                              (shell-command "afplay ~/.emacs.d/assets/ned.wav&")))
 
 ;; Highlight current line
 (global-hl-line-mode 1)
@@ -25,7 +25,7 @@
 
 (defun use-default-theme ()
   (interactive)
-  (load-theme 'default-black)
+    (load-theme 'wombat)
   (when (boundp 'magnars/default-font)
     (set-face-attribute 'default nil :font magnars/default-font)))
 
@@ -59,22 +59,22 @@
   (blink-cursor-mode -1))
 
 ;; Make zooming affect frame instead of buffers
-(require 'zoom-frm)
+;; (require 'zoom-frm)
 
 ;; Unclutter the modeline
-(require 'diminish)
-(eval-after-load "yasnippet" '(diminish 'yas-minor-mode))
-(eval-after-load "eldoc" '(diminish 'eldoc-mode))
-(eval-after-load "paredit" '(diminish 'paredit-mode))
-(eval-after-load "tagedit" '(diminish 'tagedit-mode))
-(eval-after-load "elisp-slime-nav" '(diminish 'elisp-slime-nav-mode))
-(eval-after-load "skewer-mode" '(diminish 'skewer-mode))
-(eval-after-load "skewer-css" '(diminish 'skewer-css-mode))
-(eval-after-load "skewer-html" '(diminish 'skewer-html-mode))
-(eval-after-load "smartparens" '(diminish 'smartparens-mode))
-(eval-after-load "guide-key" '(diminish 'guide-key-mode))
-(eval-after-load "whitespace-cleanup-mode" '(diminish 'whitespace-cleanup-mode))
-(eval-after-load "subword" '(diminish 'subword-mode))
+;; (require 'diminish)
+;; (eval-after-load "yasnippet" '(diminish 'yas-minor-mode))
+;; (eval-after-load "eldoc" '(diminish 'eldoc-mode))
+;; (eval-after-load "paredit" '(diminish 'paredit-mode))
+;; (eval-after-load "tagedit" '(diminish 'tagedit-mode))
+;; (eval-after-load "elisp-slime-nav" '(diminish 'elisp-slime-nav-mode))
+;; (eval-after-load "skewer-mode" '(diminish 'skewer-mode))
+;; (eval-after-load "skewer-css" '(diminish 'skewer-css-mode))
+;; (eval-after-load "skewer-html" '(diminish 'skewer-html-mode))
+;; (eval-after-load "smartparens" '(diminish 'smartparens-mode))
+;; (eval-after-load "guide-key" '(diminish 'guide-key-mode))
+;; (eval-after-load "whitespace-cleanup-mode" '(diminish 'whitespace-cleanup-mode))
+;; (eval-after-load "subword" '(diminish 'subword-mode))
 
 (defmacro rename-modeline (package-name mode new-name)
   `(eval-after-load ,package-name
