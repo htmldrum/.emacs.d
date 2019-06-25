@@ -7,7 +7,7 @@
 ;;                              (shell-command "afplay ~/.emacs.d/assets/ned.wav&")))
 
 ;; Highlight current line
-(global-hl-line-mode 1)
+(global-hl-line-mode 0)
 
 ;; Set custom theme path
 (setq custom-theme-director (concat user-emacs-directory "themes"))
@@ -23,11 +23,11 @@
   (when (boundp 'magnars/presentation-font)
     (set-face-attribute 'default nil :font magnars/presentation-font)))
 
-(defun use-default-theme ()
-  (interactive)
-    (load-theme 'wombat)
-  (when (boundp 'magnars/default-font)
-    (set-face-attribute 'default nil :font magnars/default-font)))
+;; (defun use-default-theme ()
+;;   (interactive)
+;;     (load-theme 'wombat)
+;;   (when (boundp 'magnars/default-font)
+;;     (set-face-attribute 'default nil :font magnars/default-font)))
 
 (defun toggle-presentation-mode ()
   (interactive)
@@ -37,7 +37,7 @@
 
 (global-set-key (kbd "C-<f9>") 'toggle-presentation-mode)
 
-(use-default-theme)
+;; (use-default-theme)
 
 ;; Don't defer screen updates when performing operations
 (setq redisplay-dont-pause t)
@@ -45,10 +45,10 @@
 ;; org-mode colors
 (setq org-todo-keyword-faces
       '(
-        ("INPR" . (:foreground "yellow" :weight bold))
-        ("DONE" . (:foreground "green" :weight bold))
-        ("IMPEDED" . (:foreground "red" :weight bold))
-        ))
+	("INPR" . (:foreground "yellow" :weight bold))
+	("DONE" . (:foreground "green" :weight bold))
+	("IMPEDED" . (:foreground "red" :weight bold))
+	))
 
 ;; Highlight matching parentheses when the point is on them.
 (show-paren-mode 1)
@@ -62,7 +62,7 @@
 ;; (require 'zoom-frm)
 
 ;; Unclutter the modeline
-;; (require 'diminish)
+(require 'diminish)
 ;; (eval-after-load "yasnippet" '(diminish 'yas-minor-mode))
 ;; (eval-after-load "eldoc" '(diminish 'eldoc-mode))
 ;; (eval-after-load "paredit" '(diminish 'paredit-mode))
@@ -79,7 +79,10 @@
 (defmacro rename-modeline (package-name mode new-name)
   `(eval-after-load ,package-name
      '(defadvice ,mode (after rename-modeline activate)
-        (setq mode-name ,new-name))))
+	(setq mode-name ,new-name))))
+
+;; whitespace cleanup on save
+(add-hook 'before-save-hook 'whitespace-cleanup)
 
 (rename-modeline "js2-mode" js2-mode "JS2")
 (rename-modeline "clojure-mode" clojure-mode "Clj")

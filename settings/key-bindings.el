@@ -2,6 +2,7 @@
 ;; the mnemonic is C-x REALLY QUIT
 (global-set-key (kbd "C-x r q") 'save-buffers-kill-terminal)
 (global-set-key (kbd "C-x C-c") 'delete-frame)
+(global-set-key (kbd "M-_") 'redo)
 
 ;; Corral
 (global-set-key (kbd "C-x x '") 'delete-frame)
@@ -95,6 +96,11 @@
 (global-set-key (kbd "C-c C--") 'replace-next-underscore-with-camel)
 (global-set-key (kbd "M-s M--") 'snakeify-current-word)
 
+;; Inserting things
+(global-unset-key (kbd "C-x i")) ;; used to be balance-windows
+(global-set-key (kbd "C-x i r") 'string-insert-rectangle)
+(global-set-key (kbd "C-x i f") 'insert-file)
+
 ;; Change word separators
 (global-unset-key (kbd "C-x +")) ;; used to be balance-windows
 ;; (global-set-key (kbd "C-x + -") (λ (replace-region-by 's-dashed-words)))
@@ -113,8 +119,8 @@
 ;; (global-set-key (kbd "M-W") (λ (save-region-or-current-line 1)))
 
 ;; Make shell more convenient, and suspend-frame less ; shell is not convenient
-                                        ; (global-set-key (kbd "C-z") 'shell)
-                                        ; (global-set-key (kbd "C-x M-z") 'suspend-frame)
+					; (global-set-key (kbd "C-z") 'shell)
+					; (global-set-key (kbd "C-x M-z") 'suspend-frame)
 
 ;; Zap to char
 (global-set-key (kbd "M-z") 'zap-up-to-char)
@@ -132,8 +138,8 @@
 (global-set-key (kbd "M-I") 'change-inner)
 (global-set-key (kbd "M-O") 'change-outer)
 
-                                        ;(global-set-key (kbd "s-i") 'copy-inner)
-                                        ;(global-set-key (kbd "s-o") 'copy-outer)
+					;(global-set-key (kbd "s-i") 'copy-inner)
+					;(global-set-key (kbd "s-o") 'copy-outer)
 
 ;; Create new frame
 (define-key global-map (kbd "C-x C-n") 'make-frame-command)
@@ -148,8 +154,11 @@
 (global-set-key (kbd "C-x M-p") 'find-or-create-file-at-point-other-window)
 (global-set-key (kbd "C-c y") 'bury-buffer)
 (global-set-key (kbd "C-c r") 'revert-buffer)
+(global-set-key (kbd "C-x k") 'kill-current-buffer)
 (global-set-key (kbd "M-`") 'file-cache-minibuffer-complete)
 (global-set-key (kbd "C-x C-b") 'ibuffer)
+(global-set-key (kbd "S-b") 'ibuffer)
+
 
 ;; toggle two most recent buffers
 (fset 'quick-switch-buffer [?\C-x ?b return])
@@ -171,6 +180,9 @@
 (global-set-key (kbd "C-x -") 'toggle-window-split)
 (global-set-key (kbd "C-x C--") 'rotate-windows)
 (global-unset-key (kbd "C-x C-+")) ;; don't zoom like this
+(global-set-key (kbd "C-c =")
+		'zoom-in)
+(global-set-key (kbd "C-c -") 'zoom-out)
 
 (global-set-key (kbd "C-x 3") 'split-window-right-and-move-there-dammit)
 
@@ -206,7 +218,8 @@
 (global-set-key (kbd "C-x M-g") 'browse-url-at-point)
 
 ;; Completion at point
-(global-set-key (kbd "C-<tab>") 'completion-at-point)
+;; (global-set-key (kbd "C-<tab>") 'completion-at-point)
+(global-set-key (kbd "C-<tab>") 'company-complete)
 
 ;; Like isearch, but adds region (if any) to history and deactivates mark
 (global-set-key (kbd "C-s") 'isearch-forward)
@@ -319,7 +332,11 @@
 
 ;; Find file in project
 ;; clubbers 'C-x o' => 'other-window
-;; (global-set-key (kbd "C-x o") 'find-file-in-project)
+(global-set-key (kbd "C-x i") 'find-file-in-project)
+(defun prev-window ()
+  (interactive)
+  (other-window -1))
+(global-set-key (kbd "C-x p") 'prev-window)
 
 ;; Zencoding mode
 (global-set-key (kbd "C-M-RET") 'zencoding-expand-line)
