@@ -27,8 +27,24 @@
 ;;   '(require 'flymake-go))
 
 ;; required for flycheck-golangci-lint
-(setenv "GO111MODULE"  on)(
-require 'go-complete)
+(setenv "GO111MODULE" "on")
+(require 'go-complete)
+(require 'go-autocomplete)
+(require 'auto-complete-config)
+(require 'dap-go)
+
+(ac-config-default)
 (add-hook 'completion-at-point-functions 'go-complete-at-point)
+
+;; (use-package lsp-mode
+;;              :commands (lsp lsp-deferred))
+;; (add-hook 'go-mode-hook #'lsp-deferred)
+;; (use-package lsp-ui
+;;              :commands lsp-ui-mode)
+;; (use-package company-lsp
+;;              :commands company-lsp)
+
+;; now handled by gofmt
+;; (require 'go-imports)
 
 (provide 'setup-go-mode)

@@ -182,7 +182,7 @@
 ;;           groovy-mode
 ;;           scala-mode)
 ;;	(add-hook it 'turn-on-smartparens-mode))
-;; (add-hook purescript-mode-hook 'turn-on-purescript-indentation)
+(add-hook purescript-mode-hook 'turn-on-purescript-indentation)
 ;;
 ;; (global-auto-complete-mode)
 ;;
@@ -192,6 +192,7 @@
 ;; (eval-after-load 'clojure-mode '(require 'setup-clojure-mode))
 (eval-after-load 'markdown-mode '(require 'setup-markdown-mode))
 (eval-after-load 'go-mode '(require 'setup-go-mode))
+(eval-after-load 'purescript-mode '(require 'setup-purescript-mode))
 (eval-after-load 'python-mode '(require 'setup-python-mode))
 ;; (eval-after-load 'typescript-mode '(require 'setup-tide-mode))
 ;;
@@ -200,6 +201,7 @@
 ;; (autoload 'skewer-demo "setup-skewer" nil t)
 ;; (autoload 'auto-complete-mode "auto-complete" nil t)
 (eval-after-load 'flycheck '(require 'setup-flycheck))
+;; (global-flycheck-mode)
 ;;
 ;; ;; Map files to modes
 ;; (require 'mode-mappings)
@@ -254,8 +256,8 @@
 
 ;;
 ;; ;; Setup key bindings
-;; (setq-default indent-tabs-mode nil)
-;; (setq-default tab-width 2) ; Assuming you want your tabs to be four/2 spaces wide
+(setq-default indent-tabs-mode nil)
+(setq-default tab-width 8) ; Assuming you want your tabs to be four/2 spaces wide
 ;; (setq tab-stop-list (number-sequence 2 200 2))
 ;;
 ;;					;(setq indent-line-function 'insert-tab) ; http://stackoverflow.com/questions/69934/set-4-space-indent-in-emacs-in-text-mode

@@ -304,6 +304,9 @@
 (global-set-key (kbd "C-?") 'subtract-number-at-point)
 (eval-after-load 'undo-tree '(define-key undo-tree-map (kbd "C-?") nil))
 
+;; neotree
+(global-set-key (kbd "<f5>") 'neotree-toggle)
+
 ;; Browse the kill ring
 (global-set-key (kbd "C-x C-y") 'browse-kill-ring)
 
