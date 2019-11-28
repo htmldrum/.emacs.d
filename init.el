@@ -182,7 +182,7 @@
 ;;           groovy-mode
 ;;           scala-mode)
 ;;	(add-hook it 'turn-on-smartparens-mode))
-(add-hook purescript-mode-hook 'turn-on-purescript-indentation)
+
 ;;
 ;; (global-auto-complete-mode)
 ;;
@@ -321,3 +321,5 @@
  '(package-selected-packages
    (quote
 	(zencoding-mode zenburn-theme yaml-mode yafolding whitespace-cleanup-mode vue-mode visual-regexp undo-tree terraform-mode string-edit smartparens simple-httpd rustfmt rust-playground rust-mode rspec-mode rjsx-mode rinari restclient react-snippets psci prodigy perspective paredit nodejs-repl neotree move-text markdown-mode magit-popup magit kotlin-mode jsx-mode json-mode intero ido-vertical-mode ido-at-point htmlize highlight-escape-sequences handlebars-sgml-mode handlebars-mode guide-key groovy-mode gotham-theme golint go-stacktracer go-snippets go-scratch go-rename go-playground go-impl go-guru go-gopath go-errcheck go-eldoc go-dlv go-direx go-autocomplete go-add-tags gist flymake-rust flymake-ruby flymake-cppcheck flycheck-pos-tip flycheck-clojure flx-ido fill-column-indicator exec-path-from-shell elixir-yasnippets elixir-mode elisp-slime-nav edn dockerfile-mode dired-details dash-functional css-eldoc csharp-mode corral company-go clojure-mode-extra-font-locking circe ac-c-headers abyss-theme))))
+
+(require 'setup-company)

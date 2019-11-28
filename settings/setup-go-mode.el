@@ -10,6 +10,7 @@
 (define-key go-mode-map (kbd "C-c C-g j") 'go-guru-definition)
 (define-key go-mode-map (kbd "C-c C-g c") 'go-guru-callers)
 (define-key go-mode-map (kbd "C-c C-g d") 'go-guru-describe)
+(define-key go-mode-map (kbd "C-c C-d") 'godoc)
 
 (setq gofmt-command "goimports")
 ;; (add-to-list 'load-path "/home/you/somewhere/emacs/")
@@ -31,7 +32,7 @@
 (require 'go-complete)
 (require 'go-autocomplete)
 (require 'auto-complete-config)
-(require 'dap-go)
+;; (require 'dap-go)
 
 (ac-config-default)
 (add-hook 'completion-at-point-functions 'go-complete-at-point)
@@ -44,7 +45,9 @@
 ;; (use-package company-lsp
 ;;              :commands company-lsp)
 
-;; now handled by gofmt
-;; (require 'go-imports)
+(require 'go-imports)
+
+(require 'go-imenu)
+(add-hook 'go-mode-hook 'go-imenu-setup)
 
 (provide 'setup-go-mode)
